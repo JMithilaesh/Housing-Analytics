@@ -1,0 +1,4957 @@
+/home/testapiuser/HouseApp_2/RentPrediction/MERent.py:281: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/RentPrediction/MERent.py:293: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['Rent'] = z1
+/home/testapiuser/HouseApp_2/RentPrediction/MERent.py:300: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = z2
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+/usr/local/lib/python3.6/dist-packages/sklearn/metrics/regression.py:543: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+Current date and time: 2020-04-18 02:00:10
+Successfully connect to DB.
+For ['Androscoggin', 'Aroostook', 'Cumberland', 'Franklin', 'Hancock', 'Kennebec', 'Knox', 'Lincoln', 'Oxford', 'Penobscot', 'Piscataquis', 'Sagadahoc', 'Somerset', 'Waldo', 'Washington', 'York']#################################################################
+train score for random_forest: 0.8437172660205505
+test score for random_forest: nan
+The mean absolute error is:$ 355.0427742528541
+r_Score: nan
+Voting Regressor (in): 0.9956665937703878
+Voting Regressor: nan
+5cfe7a3f04a0f9c1ceb4edbe
+p:  2817.7750848567944
+5cfe7b96e896b76cf6b4edff
+p:  2600.383647603114
+5cfe78a89a92d45764b4edf7
+p:  1655.5201246825081
+5cfe7b759a92d45764b4ee0f
+p:  1377.320852833389
+5cfe78479a92d45764b4edf4
+p:  2664.276989689392
+5cfe7b1fe896b76cf6b4edfc
+p:  1655.5201246825081
+5cfe78d09a92d45764b4edf9
+p:  2446.8855524357114
+5cfe78769a92d45764b4edf6
+p:  2664.276989689392
+5cfe7ba2e896b76cf6b4ee00
+p:  2664.276989689392
+5cfe7bc1e896b76cf6b4ee02
+p:  2664.276989689392
+5cfe77cae896b76cf6b4edee
+p:  1655.5201246825081
+5cfe7b18e896b76cf6b4edfb
+p:  1655.5201246825081
+5cfe7ae7e896b76cf6b4edf8
+p:  2415.3503463433735
+5cfe7b0be896b76cf6b4edfa
+p:  1379.8390543240002
+5cfe78fe9a92d45764b4edfa
+p:  1379.8390543240002
+5cfe856a9a92d45764b4ee42
+p:  2040.2102979386982
+5cfe9f13616190610ab4ef13
+p:  1334.0768015936383
+5cfe9f5cf2c6423039b4eefc
+p:  2526.68163165893
+5cfe9cc29a92d45764b4eed1
+p:  1353.1278355291602
+5cfe9f0e616190610ab4ef12
+p:  2526.68163165893
+5cfea051616190610ab4ef1c
+p:  1309.8837842894097
+5cfe9ba3f2c6423039b4eee2
+p:  1595.860507287644
+5cfea3f205da571b9bb4eeb0
+p:  1353.1278355291602
+5cfe9be356dc77779ab4ee9b
+p:  2309.9834796142063
+5cfea061616190610ab4ef1d
+p:  1595.860507287644
+5cfea1f205da571b9bb4eea8
+p:  1377.320852833389
+5cfe9dcb9ed1a05fb8b4eec3
+p:  1844.093537684792
+5cfe9f43f2c6423039b4eefa
+p:  2642.8109806954462
+5cfe9dac9ed1a05fb8b4eec0
+p:  1334.0768015936383
+5cfe87e5de6c33c764b4ee6f
+p:  1844.093537684792
+5cfea14bf2c6423039b4ef12
+p:  2309.9834796142063
+5cfea43105da571b9bb4eeb1
+p:  1627.3956297806924
+5cfea00a616190610ab4ef1a
+p:  1627.3956297806924
+5cfe9fb3f2c6423039b4ef03
+p:  2426.1128286507223
+5cfe9fb305da571b9bb4ee9f
+p:  2642.8109806954462
+5cfe9fc4616190610ab4ef18
+p:  1309.8837842894097
+5cfe8820de6c33c764b4ee72
+p:  1595.860507287644
+5cfe9f58616190610ab4ef15
+p:  2309.9834796142063
+5cfea23205da571b9bb4eea9
+p:  2426.1128286507223
+5cfea0f105da571b9bb4eea4
+p:  1377.320852833389
+5cfea510f2c6423039b4ef2b
+p:  1377.320852833389
+5cfea062f2c6423039b4ef0c
+p:  2526.68163165893
+5cfea13105da571b9bb4eea5
+p:  1353.1278355291602
+5cfe9f1df2c6423039b4eef7
+p:  1844.093537684792
+5cfe9b23de6c33c764b4eefc
+p:  1353.1278355291602
+5cfe9a4ade6c33c764b4eef7
+p:  1844.093537684792
+5cfe9ad97b1a6e6ebfb4eed9
+p:  2642.8109806954462
+5cfea068de6c33c764b4ef12
+p:  2642.8109806954462
+5cfe9c7ede6c33c764b4ef06
+p:  1309.8837842894097
+5cfe9fb256dc77779ab4eeb2
+p:  1334.0768015936383
+5cfe9c96de6c33c764b4ef08
+p:  1844.093537684792
+5cfe9c54de6c33c764b4ef03
+p:  2526.68163165893
+5cfe9a35de6c33c764b4eef6
+p:  1594.0187607374883
+5cfe99f5de6c33c764b4eeef
+p:  1627.3956297806924
+5cfe9ccfde6c33c764b4ef0c
+p:  2309.9834796142063
+5cfe9b26de6c33c764b4eefd
+p:  2642.8109806954462
+5cfe9e4af2c6423039b4eef2
+p:  2526.68163165893
+5cfea43ff2c6423039b4ef20
+p:  2642.8109806954462
+5cfe9bf756dc77779ab4ee9e
+p:  1594.0187607374883
+5cfe9ca3de6c33c764b4ef09
+p:  2426.1128286507223
+5cfe9c61de6c33c764b4ef04
+p:  1627.3956297806924
+5cfe9a55de6c33c764b4eef8
+p:  1823.5123900345986
+5cfe83f59a92d45764b4ee39
+p:  1309.8837842894097
+5cfe9fb9f2c6423039b4ef04
+p:  1309.8837842894097
+5cfea449f2c6423039b4ef21
+p:  1309.8837842894097
+5cfe9d3b56dc77779ab4eea8
+p:  1377.320852833389
+5cfea507f2c6423039b4ef29
+p:  2426.1128286507223
+5cfe9b16de6c33c764b4eef9
+p:  2526.68163165893
+5cfea057f2c6423039b4ef0a
+p:  1627.3956297806924
+5cfea223f2c6423039b4ef19
+p:  1377.320852833389
+5cfe9ff7f2c6423039b4ef07
+p:  2642.8109806954462
+5cfe9e68f2c6423039b4eef4
+p:  2642.8109806954462
+5cfe9b22476ac99e1db4eefb
+p:  1595.860507287644
+5cfe9feef2c6423039b4ef06
+p:  1353.1278355291602
+5cfe9fa9f2c6423039b4ef01
+p:  1627.3956297806924
+5cfe9f6df2c6423039b4eeff
+p:  1844.093537684792
+5cfe9e7756dc77779ab4eead
+p:  2426.1128286507223
+5cfea200f2c6423039b4ef17
+p:  2526.68163165893
+5cfe9f49f2c6423039b4eefb
+p:  1627.3956297806924
+5cfe99fade6c33c764b4eef0
+p:  2642.8109806954462
+5cfe9b2bde6c33c764b4eefe
+p:  2040.2102979386982
+5cfe9f89f2c6423039b4ef00
+p:  2526.68163165893
+5cfea247f2c6423039b4ef1b
+p:  1353.1278355291602
+5cfea11df2c6423039b4ef0e
+p:  2526.68163165893
+5cfe9e23f2c6423039b4eef1
+p:  1353.1278355291602
+5cfe9eedf2c6423039b4eef5
+p:  1377.320852833389
+5cfea5f8f2c6423039b4ef2e
+p:  2526.68163165893
+5cfe9f50616190610ab4ef14
+p:  1309.8837842894097
+5cfe9da29ed1a05fb8b4eebf
+p:  2526.68163165893
+5cfea14ff2c6423039b4ef13
+p:  1627.3956297806924
+5cfe9baade6c33c764b4ef00
+p:  1594.0187607374883
+5cfea1bff2c6423039b4ef16
+p:  1309.8837842894097
+5cfea2c6f2c6423039b4ef1c
+p:  1627.3956297806924
+5cfe9faef2c6423039b4ef02
+p:  2426.1128286507223
+5cfea42cf2c6423039b4ef1f
+p:  2526.68163165893
+5cfea39cf2c6423039b4ef1e
+p:  1377.320852833389
+5cfea13df2c6423039b4ef0f
+p:  2526.68163165893
+5cfe9f23f2c6423039b4eef8
+p:  2426.1128286507223
+5cfea17005da571b9bb4eea6
+p:  2309.9834796142063
+5cfea093f2c6423039b4ef0d
+p:  1377.320852833389
+5cfea204f2c6423039b4ef18
+p:  1377.320852833389
+5cfea145f2c6423039b4ef11
+p:  1595.860507287644
+5cfea17ff2c6423039b4ef15
+p:  1334.0768015936383
+5cfe9d699ed1a05fb8b4eebd
+p:  1377.320852833389
+5cfea141f2c6423039b4ef10
+p:  2642.8109806954462
+5cfea05cf2c6423039b4ef0b
+p:  1377.320852833389
+5cfe9f3ef2c6423039b4eef9
+p:  1594.0187607374883
+5cfe9bde56dc77779ab4ee9a
+p:  2426.1128286507223
+5cfe9bf156dc77779ab4ee9d
+p:  1377.320852833389
+5cfe9ad4476ac99e1db4eef5
+p:  1844.093537684792
+5cfe9cb156dc77779ab4eea0
+p:  1627.3956297806924
+5cfe9cab56dc77779ab4ee9f
+p:  1844.093537684792
+5cfe9bcc56dc77779ab4ee98
+p:  2526.68163165893
+5cfe9d7a56dc77779ab4eea9
+p:  1377.320852833389
+5cfe9cd856dc77779ab4eea3
+p:  2642.8109806954462
+5cfe9df856dc77779ab4eeab
+p:  1743.524978817209
+5cfea212df6acbbb9ab4eedf
+p:  1353.1278355291602
+5cfea516f2c6423039b4ef2c
+p:  2426.1128286507223
+5cfe9eb656dc77779ab4eeae
+p:  2642.8109806954462
+5cfe9baf56dc77779ab4ee95
+p:  1627.3956297806924
+5cfe9f09616190610ab4ef11
+p:  1627.3956297806924
+5cfe9c48de6c33c764b4ef02
+p:  2642.8109806954462
+5cfe6966f3869ce6ebb4ed87
+p:  1671.4923482401946
+5cfe694bf3869ce6ebb4ed85
+p:  1426.1641469212395
+5cfe7aad616190610ab4ee11
+p:  2817.7750848567944
+5cfe7126de6c33c764b4edd4
+p:  1636.3609883328377
+5cfe6a67f3869ce6ebb4ed97
+p:  2817.7750848567944
+5cfe6ff9de6c33c764b4edcf
+p:  1358.7270783772603
+5cfe7b75616190610ab4ee16
+p:  1872.9113177955637
+5cfe6e92de6c33c764b4edc1
+p:  2457.805548596392
+5cfe6b2cf3869ce6ebb4eda0
+p:  2426.2703425040536
+5cfe679fe896b76cf6b4ed83
+p:  1791.2510760233015
+5cfe6bf556dc77779ab4ed8a
+p:  2817.7750848567944
+5cfe69bc9a92d45764b4ed8e
+p:  2607.5779993045726
+5cfe68787b1a6e6ebfb4ed87
+p:  1671.4923482401946
+5cfe6f4bde6c33c764b4edca
+p:  2607.5779993045726
+5cfe696df3869ce6ebb4ed88
+p:  2457.805548596392
+5cfe69dbf3869ce6ebb4ed8f
+p:  1358.7270783772603
+5cfe70f9de6c33c764b4edd2
+p:  2607.5779993045726
+5cfe7120de6c33c764b4edd3
+p:  2607.5779993045726
+5cfe6eaade6c33c764b4edc5
+p:  2607.5779993045726
+5cfe7260de6c33c764b4eddb
+p:  2817.7750848567944
+5cfe7a87616190610ab4ee10
+p:  1404.032071628229
+5cfe6eb6de6c33c764b4edc6
+p:  1382.9200956814889
+5cfe68547b1a6e6ebfb4ed85
+p:  1382.9200956814889
+5cfe6ecfde6c33c764b4edc8
+p:  2668.0026341486137
+5cfe692705da571b9bb4ed94
+p:  2817.7750848567944
+5cfe690405da571b9bb4ed91
+p:  1836.073924965896
+5cfe68d305da571b9bb4ed8e
+p:  2817.7750848567944
+5cfe65609a92d45764b4ed74
+p:  2017.3815592022816
+5cfe650c9a92d45764b4ed72
+p:  2607.5779993045726
+5cfe68a656dc77779ab4ed80
+p:  2607.5779993045726
+5cfe68aa05da571b9bb4ed8a
+p:  2668.0026341486137
+5cfe689805da571b9bb4ed89
+p:  1671.4923482401946
+5cfe64fd9a92d45764b4ed6f
+p:  1358.7270783772603
+5cfe64f99a92d45764b4ed6e
+p:  1358.7270783772603
+5cfe6921f3869ce6ebb4ed84
+p:  2457.805548596392
+5cfe65129a92d45764b4ed73
+p:  2457.805548596392
+5cfe695005da571b9bb4ed97
+p:  2817.7750848567944
+5cfe696405da571b9bb4ed98
+p:  2817.7750848567944
+5cfe6a36f3869ce6ebb4ed94
+p:  2668.0026341486137
+5cfe68bd05da571b9bb4ed8c
+p:  2668.0026341486137
+5cfe68e205da571b9bb4ed8f
+p:  2817.7750848567944
+5cfe691d05da571b9bb4ed93
+p:  2457.805548596392
+5cfe6a11f3869ce6ebb4ed91
+p:  2817.7750848567944
+5cfe697105da571b9bb4ed99
+p:  2817.7750848567944
+5cfe6f5cde6c33c764b4edcc
+p:  2607.5779993045726
+5cfe688fe896b76cf6b4ed8a
+p:  2817.7750848567944
+5cfe6cda9a92d45764b4eda4
+p:  1791.2510760233015
+5cfe6cd39a92d45764b4eda3
+p:  2817.7750848567944
+5cfe79e4616190610ab4ee0d
+p:  2446.8855524357114
+5cfe6cbef3869ce6ebb4eda8
+p:  2607.5779993045726
+5cfe6b43f3869ce6ebb4eda1
+p:  2607.5779993045726
+5cfe6d95f3869ce6ebb4edab
+p:  2817.7750848567944
+5cfe6e4bde6c33c764b4edba
+p:  1821.2647989483753
+5cfe6e42de6c33c764b4edb9
+p:  2817.7750848567944
+5cfe728ede6c33c764b4eddc
+p:  2457.805548596392
+5cfe6d1856dc77779ab4ed8e
+p:  2817.7750848567944
+5cfe6ea2de6c33c764b4edc4
+p:  2457.805548596392
+5cfe6e5cde6c33c764b4edbc
+p:  2457.805548596392
+5cfe7a4e616190610ab4ee0f
+p:  2817.7750848567944
+5cfe7017de6c33c764b4edd1
+p:  2607.5779993045726
+5cfe7007de6c33c764b4edd0
+p:  2607.5779993045726
+5cfe6985f3869ce6ebb4ed8a
+p:  2817.7750848567944
+5cfe75aae896b76cf6b4ede4
+p:  2668.0026341486137
+5cfe69b6f3869ce6ebb4ed8d
+p:  1426.1641469212395
+5cfe6959e896b76cf6b4ed8e
+p:  1639.957225747146
+5cfe743756dc77779ab4edab
+p:  2031.461640359972
+5cfe6958f3869ce6ebb4ed86
+p:  2457.805548596392
+5cfe6c9df3869ce6ebb4eda3
+p:  1426.1641469212395
+5cfe6f63de6c33c764b4edcd
+p:  1426.1641469212395
+5cfe803d616190610ab4ee2f
+p:  2642.8109806954462
+5cfeacee7b1a6e6ebfb4ef52
+p:  1334.0768015936383
+5cfeb4f504a0f9c1ceb4ef5e
+p:  1334.0768015936383
+5cfeb6a604a0f9c1ceb4ef68
+p:  2426.1128286507223
+5cfead5d7b1a6e6ebfb4ef5a
+p:  2526.68163165893
+5cfe9b329a92d45764b4eeca
+p:  1334.0768015936383
+5cfe937205da571b9bb4ee6e
+p:  1627.3956297806924
+5cfe922e05da571b9bb4ee69
+p:  1627.3956297806924
+5cfe9926de6c33c764b4eee3
+p:  1960.2228867213078
+5cfe9976de6c33c764b4eee6
+p:  2426.1128286507223
+5cfe949df2c6423039b4eebd
+p:  1309.8837842894097
+5cfe9943df6acbbb9ab4eebd
+p:  1844.093537684792
+5cfe974104a0f9c1ceb4ee64
+p:  2309.9834796142063
+5cfe92c99ed1a05fb8b4ee72
+p:  1377.320852833389
+5cfe9904df6acbbb9ab4eebc
+p:  1743.524978817209
+5cfe9ac1df6acbbb9ab4eec3
+p:  1309.8837842894097
+5cfe97bc04a0f9c1ceb4ee68
+p:  2642.8109806954462
+5cfe80857b1a6e6ebfb4ee12
+p:  2526.68163165893
+5cfe7fd49ed1a05fb8b4edf7
+p:  2526.68163165893
+5cfe80497b1a6e6ebfb4ee0c
+p:  2526.68163165893
+5cfe7f8204a0f9c1ceb4edd1
+p:  2309.9834796142063
+5cfe80797b1a6e6ebfb4ee10
+p:  2526.68163165893
+5cfe824804a0f9c1ceb4eddb
+p:  2642.8109806954462
+5cfe7f4004a0f9c1ceb4edd0
+p:  2526.68163165893
+5cfe7f0104a0f9c1ceb4edcf
+p:  1377.320852833389
+5cfe7e90df6acbbb9ab4ee44
+p:  1844.093537684792
+5cfe7e7a04a0f9c1ceb4edcd
+p:  1960.2228867213078
+5cfe813904a0f9c1ceb4edd7
+p:  1627.3956297806924
+5cfe820904a0f9c1ceb4edda
+p:  2642.8109806954462
+5cfeb556e896b76cf6b4ef54
+p:  2642.8109806954462
+5cfeaf2256dc77779ab4eef7
+p:  2526.68163165893
+5cfe86a0e896b76cf6b4ee57
+p:  2426.1128286507223
+5cfea90a05da571b9bb4eec4
+p:  1844.093537684792
+5cfea3bd476ac99e1db4ef29
+p:  2642.8109806954462
+5cfea466df6acbbb9ab4eee7
+p:  2642.8109806954462
+5cfea77405da571b9bb4eebe
+p:  2309.9834796142063
+5cfe8fe2de6c33c764b4eea1
+p:  1844.093537684792
+5cfea4e5df6acbbb9ab4eee9
+p:  1844.093537684792
+5cfe9039de6c33c764b4eea3
+p:  2642.8109806954462
+5cfea47a05da571b9bb4eeb2
+p:  1627.3956297806924
+5cfea5a3df6acbbb9ab4eeec
+p:  2426.1128286507223
+5cfe90cede6c33c764b4eeaa
+p:  2642.8109806954462
+5cfea5b605da571b9bb4eeb7
+p:  1377.320852833389
+5cfea73305da571b9bb4eebd
+p:  1627.3956297806924
+5cfea3e7df6acbbb9ab4eee5
+p:  1493.4502018699045
+5cfea6b505da571b9bb4eebb
+p:  2309.9834796142063
+5cfea4f705da571b9bb4eeb4
+p:  1627.3956297806924
+5cfea87305da571b9bb4eec2
+p:  1353.1278355291602
+5cfea67605da571b9bb4eeba
+p:  2309.9834796142063
+5cfea6a1df6acbbb9ab4eef0
+p:  2526.68163165893
+5cfe8e788137a97d7cb4ee9e
+p:  2426.1128286507223
+5cfe8e628137a97d7cb4ee9d
+p:  2426.1128286507223
+5cfe7eef7b1a6e6ebfb4ee03
+p:  1743.524978817209
+5cfe7ea47b1a6e6ebfb4edfe
+p:  1353.1278355291602
+5cfe7ede7b1a6e6ebfb4ee01
+p:  2309.9834796142063
+5cfe8d249ed1a05fb8b4ee4c
+p:  2426.1128286507223
+5cfe7ef57b1a6e6ebfb4ee04
+p:  2642.8109806954462
+5cfe9052e896b76cf6b4ee99
+p:  2426.1128286507223
+5cfe9179e896b76cf6b4ee9f
+p:  1595.860507287644
+5cfe8fa29ed1a05fb8b4ee63
+p:  2426.1128286507223
+5cfe8d2f9ed1a05fb8b4ee4e
+p:  2642.8109806954462
+5cfe8d399ed1a05fb8b4ee50
+p:  1844.093537684792
+5cfe8f479ed1a05fb8b4ee61
+p:  2426.1128286507223
+5cfe7efc7b1a6e6ebfb4ee05
+p:  2642.8109806954462
+5cfe8dc39ed1a05fb8b4ee5a
+p:  1377.320852833389
+5cfe8d539ed1a05fb8b4ee52
+p:  1377.320852833389
+5cfe8eb09ed1a05fb8b4ee5e
+p:  2642.8109806954462
+5cfe8f228137a97d7cb4eea8
+p:  2426.1128286507223
+5cfe90909ed1a05fb8b4ee64
+p:  2642.8109806954462
+5cfe8d3e9ed1a05fb8b4ee51
+p:  1627.3956297806924
+5cfe8dd99ed1a05fb8b4ee5d
+p:  1353.1278355291602
+5cfe8d299ed1a05fb8b4ee4d
+p:  1377.320852833389
+5cfe8e498137a97d7cb4ee9b
+p:  2309.9834796142063
+5cfe8dd19ed1a05fb8b4ee5c
+p:  2426.1128286507223
+5cfe8d8c9ed1a05fb8b4ee53
+p:  2426.1128286507223
+5cfe8e52f3869ce6ebb4ee67
+p:  1309.8837842894097
+5cfe8ebd8137a97d7cb4eea2
+p:  1377.320852833389
+5cfe7f617b1a6e6ebfb4ee08
+p:  2309.9834796142063
+5cfe774b04a0f9c1ceb4edb4
+p:  1575.9365976294196
+5cfe79dd8137a97d7cb4ee00
+p:  2817.7750848567944
+5cfe7a0c56dc77779ab4edd5
+p:  2817.7750848567944
+5cfe77467b1a6e6ebfb4edd5
+p:  2607.5779993045726
+5cfe779956dc77779ab4edc1
+p:  2668.0026341486137
+5cfe788456dc77779ab4edc9
+p:  2668.0026341486137
+5cfe7b6f7b1a6e6ebfb4edf0
+p:  1881.6891896517916
+5cfe6b93de6c33c764b4edab
+p:  1671.4923482401946
+5cfe77bb56dc77779ab4edc5
+p:  1358.7270783772603
+5cfe7f8d05da571b9bb4ee1f
+p:  1872.9113177955637
+5cfe7acc56dc77779ab4ede1
+p:  1655.5201246825081
+5cfe773b7b1a6e6ebfb4edd3
+p:  2668.0026341486137
+5cfe77b47b1a6e6ebfb4eddc
+p:  2668.0026341486137
+5cfe6c38de6c33c764b4edae
+p:  2668.0026341486137
+5cfe7aee7b1a6e6ebfb4eded
+p:  1382.9200956814889
+5cfe771c7b1a6e6ebfb4edd2
+p:  2817.7750848567944
+5cfe7be356dc77779ab4edeb
+p:  1360.7880203884783
+5cfe7b647b1a6e6ebfb4edef
+p:  1881.6891896517916
+5cfe7f9605da571b9bb4ee20
+p:  1336.5950030842498
+5cfe7f0305da571b9bb4ee19
+p:  2664.276989689392
+5cfe7b787b1a6e6ebfb4edf1
+p:  1881.6891896517916
+5cfe77af56dc77779ab4edc3
+p:  1671.4923482401946
+5cfe7cb105da571b9bb4ee10
+p:  1404.032071628229
+5cfe7ee105da571b9bb4ee18
+p:  2664.276989689392
+5cfe7f5105da571b9bb4ee1b
+p:  1623.9850021894595
+5cfe763f04a0f9c1ceb4edb0
+p:  2817.7750848567944
+5cfe7cc256dc77779ab4edef
+p:  1309.8837842894097
+5cfe7c8805da571b9bb4ee0e
+p:  2446.8855524357114
+5cfe783b7b1a6e6ebfb4ede2
+p:  1382.9200956814889
+5cfe77c57b1a6e6ebfb4eddd
+p:  2817.7750848567944
+5cfe7c5005da571b9bb4ee0d
+p:  1655.5201246825081
+5cfe7ddf7b1a6e6ebfb4edf8
+p:  1595.860507287644
+5cfe7fc305da571b9bb4ee21
+p:  2664.276989689392
+5cfe6b50de6c33c764b4eda7
+p:  2457.805548596392
+5cfe87c304a0f9c1ceb4edf0
+p:  2426.1128286507223
+5cfeae14616190610ab4ef6d
+p:  2426.1128286507223
+5cfe88c204a0f9c1ceb4edf4
+p:  2526.68163165893
+5cfe8d3304a0f9c1ceb4ee0b
+p:  2526.68163165893
+5cfe8d0c04a0f9c1ceb4ee08
+p:  1844.093537684792
+5cfe8cf604a0f9c1ceb4ee05
+p:  2642.8109806954462
+5cfe8bcf616190610ab4ee82
+p:  1309.8837842894097
+5cfe8d0104a0f9c1ceb4ee06
+p:  1377.320852833389
+5cfe8db504a0f9c1ceb4ee10
+p:  1844.093537684792
+5cfe83c7616190610ab4ee43
+p:  2526.68163165893
+5cfe8c9404a0f9c1ceb4edff
+p:  2526.68163165893
+5cfe857504a0f9c1ceb4ede7
+p:  1377.320852833389
+5cfe882c476ac99e1db4ee44
+p:  2642.8109806954462
+5cfe878404a0f9c1ceb4edef
+p:  2309.9834796142063
+5cfe8cca04a0f9c1ceb4ee04
+p:  2642.8109806954462
+5cfe89c504a0f9c1ceb4edf8
+p:  1627.3956297806924
+5cfe898604a0f9c1ceb4edf7
+p:  1377.320852833389
+5cfe880304a0f9c1ceb4edf1
+p:  2526.68163165893
+5cfe84d67b1a6e6ebfb4ee41
+p:  1309.8837842894097
+5cfe81a58137a97d7cb4ee37
+p:  2642.8109806954462
+5cfe8603df6acbbb9ab4ee73
+p:  2526.68163165893
+5cfe8ac89ed1a05fb8b4ee37
+p:  1377.320852833389
+5cfe863cdf6acbbb9ab4ee74
+p:  2309.9834796142063
+5cfe9473df6acbbb9ab4eeaa
+p:  1377.320852833389
+5cfe89d4df6acbbb9ab4ee84
+p:  2642.8109806954462
+5cfe922fdf6acbbb9ab4eea1
+p:  1627.3956297806924
+5cfe83a48137a97d7cb4ee3d
+p:  2642.8109806954462
+5cfe8924df6acbbb9ab4ee81
+p:  1309.8837842894097
+5cfe92f456dc77779ab4ee55
+p:  2278.4482735218667
+5cfe91c056dc77779ab4ee51
+p:  2309.9834796142063
+5cfe901656dc77779ab4ee48
+p:  1627.3956297806924
+5cfe902256dc77779ab4ee49
+p:  2642.8109806954462
+5cfe907e56dc77779ab4ee4d
+p:  1844.093537684792
+5cfe923b56dc77779ab4ee53
+p:  2426.1128286507223
+5cfe8f5f56dc77779ab4ee43
+p:  1334.0768015936383
+5cfe6665e896b76cf6b4ed7e
+p:  1382.9200956814889
+5cfe8f5b56dc77779ab4ee42
+p:  2426.1128286507223
+5cfe7db304a0f9c1ceb4edca
+p:  2642.8109806954462
+5cfea9c2f3869ce6ebb4eefb
+p:  1594.0187607374883
+5cfea7bf616190610ab4ef47
+p:  2309.9834796142063
+5cfeab9f56dc77779ab4eeda
+p:  2426.1128286507223
+5cfeab9056dc77779ab4eed7
+p:  2642.8109806954462
+5cfeab839ed1a05fb8b4ef20
+p:  2526.68163165893
+5cfea5179a92d45764b4ef0b
+p:  1334.0768015936383
+5cfeaa57f2c6423039b4ef46
+p:  1377.320852833389
+5cfeab9bf2c6423039b4ef4f
+p:  1309.8837842894097
+5cfea66c616190610ab4ef40
+p:  1595.860507287644
+5cfea7ca616190610ab4ef49
+p:  1844.093537684792
+5cfea7d7616190610ab4ef4b
+p:  1377.320852833389
+5cfea89d616190610ab4ef50
+p:  1309.8837842894097
+5cfea9faf3869ce6ebb4ef01
+p:  2309.9834796142063
+5cfeac7256dc77779ab4eedd
+p:  1334.0768015936383
+5cfeac6e56dc77779ab4eedc
+p:  2642.8109806954462
+5cfeab9a56dc77779ab4eed9
+p:  1309.8837842894097
+5cfeabe1476ac99e1db4ef5e
+p:  2526.68163165893
+5cfea86c616190610ab4ef4f
+p:  1627.3956297806924
+5cfeaeb6476ac99e1db4ef8a
+p:  1627.3956297806924
+5cfeade8476ac99e1db4ef7f
+p:  1309.8837842894097
+5cfeab749ed1a05fb8b4ef1e
+p:  1353.1278355291602
+5cfea8da616190610ab4ef53
+p:  2642.8109806954462
+5cfea9d1f3869ce6ebb4eefd
+p:  2642.8109806954462
+5cfeab8a56dc77779ab4eed6
+p:  1627.3956297806924
+5cfeaabbf3869ce6ebb4ef06
+p:  1377.320852833389
+5cfea936f3869ce6ebb4eef3
+p:  2526.68163165893
+5cfeab9556dc77779ab4eed8
+p:  2309.9834796142063
+5cfea9d6f3869ce6ebb4eefe
+p:  1627.3956297806924
+5cfeaab6f2c6423039b4ef48
+p:  1627.3956297806924
+5cfeaac3f2c6423039b4ef4a
+p:  1909.6279551108853
+5cfeaae69ed1a05fb8b4ef19
+p:  2309.9834796142063
+5cfea8c1616190610ab4ef52
+p:  2309.9834796142063
+5cfeaebd476ac99e1db4ef8b
+p:  2426.1128286507223
+5cfeab7c9ed1a05fb8b4ef1f
+p:  1377.320852833389
+5cfea6fb616190610ab4ef46
+p:  1334.0768015936383
+5cfeacbb56dc77779ab4eedf
+p:  1309.8837842894097
+5cfead1c9ed1a05fb8b4ef23
+p:  2426.1128286507223
+5cfea969f3869ce6ebb4eef7
+p:  2426.1128286507223
+5cfeaf209a92d45764b4ef3f
+p:  1627.3956297806924
+5cfead37f2c6423039b4ef5a
+p:  2309.9834796142063
+5cfeabd09a92d45764b4ef26
+p:  1595.860507287644
+5cfe81088137a97d7cb4ee34
+p:  2396.0990221263573
+5cfea0a7616190610ab4ef25
+p:  2426.1128286507223
+5cfeafc0f3869ce6ebb4ef2b
+p:  2309.9834796142063
+5cfeace19a92d45764b4ef31
+p:  2526.68163165893
+5cfeae79f3869ce6ebb4ef1b
+p:  1377.320852833389
+5cfeacf5f3869ce6ebb4ef15
+p:  1353.1278355291602
+5cfeaeb2f3869ce6ebb4ef1f
+p:  2642.8109806954462
+5cfe8cbc8137a97d7cb4ee89
+p:  1377.320852833389
+5cfea3b4616190610ab4ef36
+p:  1377.320852833389
+5cfea6c6f2c6423039b4ef32
+p:  2309.9834796142063
+5cfeaf49f2c6423039b4ef66
+p:  2642.8109806954462
+5cfeadaef2c6423039b4ef5f
+p:  2642.8109806954462
+5cfe80fb8137a97d7cb4ee33
+p:  2642.8109806954462
+5cfeaf45f2c6423039b4ef65
+p:  2642.8109806954462
+5cfea07c616190610ab4ef20
+p:  1627.3956297806924
+5cfead9bf3869ce6ebb4ef1a
+p:  2426.1128286507223
+5cfe80098137a97d7cb4ee28
+p:  2309.9834796142063
+5cfe80178137a97d7cb4ee2a
+p:  1960.2228867213078
+5cfe80e98137a97d7cb4ee32
+p:  2642.8109806954462
+5cfea27c616190610ab4ef30
+p:  1353.1278355291602
+5cfea61304a0f9c1ceb4eed6
+p:  2642.8109806954462
+5cfea25a7b1a6e6ebfb4ef18
+p:  2426.1128286507223
+5cfea2f6616190610ab4ef34
+p:  1309.8837842894097
+5cfead16f2c6423039b4ef59
+p:  1377.320852833389
+5cfeac29f2c6423039b4ef55
+p:  1743.524978817209
+5cfe80008137a97d7cb4ee26
+p:  2526.68163165893
+5cfeac2cf2c6423039b4ef56
+p:  2309.9834796142063
+5cfe8c8e8137a97d7cb4ee87
+p:  1377.320852833389
+5cfea999f2c6423039b4ef40
+p:  1595.860507287644
+5cfea969f2c6423039b4ef3c
+p:  2309.9834796142063
+5cfeac449a92d45764b4ef29
+p:  1309.8837842894097
+5cfeaf41f2c6423039b4ef64
+p:  2426.1128286507223
+5cfeaf54f2c6423039b4ef68
+p:  2396.0990221263573
+5cfead52f2c6423039b4ef5c
+p:  2426.1128286507223
+5cfe80db8137a97d7cb4ee31
+p:  2426.1128286507223
+5cfeae439a92d45764b4ef3c
+p:  2309.9834796142063
+5cfeac24f2c6423039b4ef54
+p:  1353.1278355291602
+5cfea1ea616190610ab4ef2e
+p:  2426.1128286507223
+5cfea999616190610ab4ef5b
+p:  1627.3956297806924
+5cfea2e2616190610ab4ef32
+p:  2642.8109806954462
+5cfeaf309a92d45764b4ef41
+p:  1627.3956297806924
+5cfeac1bf2c6423039b4ef52
+p:  2526.68163165893
+5cfe91a8616190610ab4ee97
+p:  2309.9834796142063
+5cfe96c68137a97d7cb4ef0c
+p:  1377.320852833389
+5cfe923f616190610ab4eea7
+p:  2278.4482735218667
+5cfe99999ed1a05fb8b4eea2
+p:  2526.68163165893
+5cfe996d9ed1a05fb8b4eea0
+p:  1334.0768015936383
+5cfe9db205da571b9bb4ee97
+p:  2642.8109806954462
+5cfe96b68137a97d7cb4ef0a
+p:  1627.3956297806924
+5cfe95068137a97d7cb4eef1
+p:  2526.68163165893
+5cfe91b5616190610ab4ee98
+p:  2642.8109806954462
+5cfe95918137a97d7cb4eefc
+p:  1309.8837842894097
+5cfe9279616190610ab4eea9
+p:  1627.3956297806924
+5cfe986ef2c6423039b4eed5
+p:  1743.524978817209
+5cfe972e9a92d45764b4eeb2
+p:  1334.0768015936383
+5cfe97a6f2c6423039b4eed2
+p:  2309.9834796142063
+5cfe96a68137a97d7cb4ef08
+p:  2642.8109806954462
+5cfe95258137a97d7cb4eef3
+p:  1377.320852833389
+5cfe9bb19ed1a05fb8b4eeaf
+p:  2642.8109806954462
+5cfe95368137a97d7cb4eef4
+p:  2309.9834796142063
+5cfe91ba616190610ab4ee99
+p:  1309.8837842894097
+5cfe9baa9ed1a05fb8b4eeae
+p:  2426.1128286507223
+5cfe948b8137a97d7cb4eeeb
+p:  1844.093537684792
+5cfe91e9616190610ab4ee9d
+p:  1627.3956297806924
+5cfe97148137a97d7cb4ef11
+p:  2426.1128286507223
+5cfe9d6404a0f9c1ceb4ee8d
+p:  1334.0768015936383
+5cfe91e3616190610ab4ee9c
+p:  1377.320852833389
+5cfe959a8137a97d7cb4eefe
+p:  2526.68163165893
+5cfe99b39ed1a05fb8b4eea3
+p:  2642.8109806954462
+5cfe97e59ed1a05fb8b4ee90
+p:  1377.320852833389
+5cfe958c8137a97d7cb4eefb
+p:  2526.68163165893
+5cfe9db404a0f9c1ceb4ee98
+p:  1627.3956297806924
+5cfe944c8137a97d7cb4eee8
+p:  1377.320852833389
+5cfe99929ed1a05fb8b4eea1
+p:  1595.860507287644
+5cfe987656dc77779ab4ee81
+p:  1377.320852833389
+5cfe9587616190610ab4eeca
+p:  1743.524978817209
+5cfe96cfe896b76cf6b4eecb
+p:  1353.1278355291602
+5cfe95138137a97d7cb4eef2
+p:  1627.3956297806924
+5cfe97208137a97d7cb4ef12
+p:  1791.977206506394
+5cfe98d29ed1a05fb8b4ee97
+p:  1627.3956297806924
+5cfe982f9a92d45764b4eeb9
+p:  1594.0187607374883
+5cfe9dc704a0f9c1ceb4ee9c
+p:  1960.2228867213078
+5cfe98a79ed1a05fb8b4ee95
+p:  1309.8837842894097
+5cfe987e9ed1a05fb8b4ee93
+p:  1743.524978817209
+5cfe968d9ed1a05fb8b4ee8d
+p:  1627.3956297806924
+5cfe9bcf9ed1a05fb8b4eeb2
+p:  2526.68163165893
+5cfe9bbc9ed1a05fb8b4eeb0
+p:  1353.1278355291602
+5cfe98f605da571b9bb4ee84
+p:  2309.9834796142063
+5cfe967d9ed1a05fb8b4ee8a
+p:  1844.093537684792
+5cfe9a029ed1a05fb8b4eea5
+p:  1594.0187607374883
+5cfe9866f2c6423039b4eed3
+p:  1595.860507287644
+5cfe96648137a97d7cb4ef06
+p:  1377.320852833389
+5cfe96829ed1a05fb8b4ee8b
+p:  2309.9834796142063
+5cfe9229616190610ab4eea3
+p:  1594.0187607374883
+5cfe958c616190610ab4eecb
+p:  1309.8837842894097
+5cfe9ba39ed1a05fb8b4eead
+p:  1627.3956297806924
+5cfe99c49ed1a05fb8b4eea4
+p:  1595.860507287644
+5cfe922f616190610ab4eea4
+p:  1627.3956297806924
+5cfe965c8137a97d7cb4ef05
+p:  2309.9834796142063
+5cfe96be05da571b9bb4ee7b
+p:  1627.3956297806924
+5cfe97008137a97d7cb4ef0e
+p:  1627.3956297806924
+5cfe9797f2c6423039b4eece
+p:  2426.1128286507223
+5cfe9df105da571b9bb4ee98
+p:  2426.1128286507223
+5cfe97f905da571b9bb4ee80
+p:  1353.1278355291602
+5cfe993505da571b9bb4ee85
+p:  1377.320852833389
+5cfe923a616190610ab4eea6
+p:  2278.4482735218667
+5cfe9b7205da571b9bb4ee8e
+p:  1627.3956297806924
+5cfe927d616190610ab4eeaa
+p:  1377.320852833389
+5cfe9e6f05da571b9bb4ee9a
+p:  2526.68163165893
+5cfe9d2e05da571b9bb4ee95
+p:  1309.8837842894097
+5cfe9d6e05da571b9bb4ee96
+p:  2642.8109806954462
+5cfe963d05da571b9bb4ee79
+p:  1334.0768015936383
+5cfe96fc05da571b9bb4ee7c
+p:  1844.093537684792
+5cfe997505da571b9bb4ee86
+p:  1309.8837842894097
+5cfe99419ed1a05fb8b4ee9e
+p:  1309.8837842894097
+5cfe98119a92d45764b4eeb5
+p:  1377.320852833389
+5cfe91ef616190610ab4ee9e
+p:  2309.9834796142063
+5cfe96ce8137a97d7cb4ef0d
+p:  1377.320852833389
+5cfe970ff2c6423039b4eecb
+p:  1627.3956297806924
+5cfe66618137a97d7cb4ed75
+p:  2443.9979744234793
+5cfe6e18f2c6423039b4edb2
+p:  2457.805548596392
+5cfe6dc405da571b9bb4edbf
+p:  2817.7750848567944
+5cfe6d8005da571b9bb4edbd
+p:  1358.7270783772603
+5cfe6a618137a97d7cb4ed98
+p:  1636.3609883328377
+5cfe6cfa05da571b9bb4edbc
+p:  2817.7750848567944
+5cfe65b105da571b9bb4ed7a
+p:  1344.919504204348
+5cfe74c3f2c6423039b4edfa
+p:  1575.9365976294196
+5cfe66b5f3869ce6ebb4ed74
+p:  2668.0026341486137
+5cfe6bd905da571b9bb4edb2
+p:  2607.5779993045726
+5cfe65737b1a6e6ebfb4ed71
+p:  2803.9675106838818
+5cfe68ba8137a97d7cb4ed89
+p:  1657.6847740672822
+5cfe66528137a97d7cb4ed73
+p:  1412.3565727483272
+5cfe690e8137a97d7cb4ed8e
+p:  2803.9675106838818
+5cfe64e0de6c33c764b4ed70
+p:  2593.77042513166
+5cfe675cf3869ce6ebb4ed79
+p:  2817.7750848567944
+5cfe6e2205da571b9bb4edc0
+p:  2607.5779993045726
+5cfe69068137a97d7cb4ed8d
+p:  1657.6847740672822
+5cfe6af305da571b9bb4eda8
+p:  2817.7750848567944
+5cfe6e3805da571b9bb4edc2
+p:  2031.461640359972
+5cfe6a8005da571b9bb4ed9f
+p:  1821.2647989483753
+5cfe69798137a97d7cb4ed92
+p:  1671.4923482401946
+5cfe69838137a97d7cb4ed94
+p:  1382.9200956814889
+5cfe6cd505da571b9bb4edb6
+p:  1426.1641469212395
+5cfe6afd05da571b9bb4edaa
+p:  1821.2647989483753
+5cfe6b0205da571b9bb4edab
+p:  2817.7750848567944
+5cfe6e5b05da571b9bb4edc7
+p:  2817.7750848567944
+5cfe6b0a05da571b9bb4edac
+p:  2607.5779993045726
+5cfe6aaa05da571b9bb4eda4
+p:  2607.5779993045726
+5cfe6bd305da571b9bb4edb1
+p:  2817.7750848567944
+5cfe6e7105da571b9bb4edc9
+p:  2817.7750848567944
+5cfe64f5476ac99e1db4ed6f
+p:  2803.9675106838818
+5cfe66c18137a97d7cb4ed78
+p:  1344.919504204348
+5cfe66a08137a97d7cb4ed77
+p:  1412.3565727483272
+5cfe6abb05da571b9bb4eda7
+p:  2817.7750848567944
+5cfe68bf8137a97d7cb4ed8a
+p:  2593.77042513166
+5cfe6aaf05da571b9bb4eda5
+p:  2817.7750848567944
+5cfe705105da571b9bb4edd2
+p:  1358.7270783772603
+5cfe669f04a0f9c1ceb4ed73
+p:  2803.9675106838818
+5cfe6cda05da571b9bb4edb7
+p:  1881.6891896517916
+5cfe6f3705da571b9bb4edce
+p:  1636.3609883328377
+5cfe666ddf6acbbb9ab4ed75
+p:  2457.805548596392
+5cfe64f27b1a6e6ebfb4ed6e
+p:  2593.77042513166
+5cfe653a476ac99e1db4ed77
+p:  1657.6847740672822
+5cfe65a28137a97d7cb4ed6f
+p:  2563.756618607295
+5cfe64ed476ac99e1db4ed6e
+p:  2443.9979744234793
+5cfe6a6c8137a97d7cb4ed9a
+p:  1881.6891896517916
+5cfe6aa505da571b9bb4eda3
+p:  2607.5779993045726
+5cfe652044dd2965b268c6c6
+p:  1412.3565727483272
+5cfe66a6476ac99e1db4ed7a
+p:  1657.6847740672822
+5cfe66f28137a97d7cb4ed7e
+p:  2803.9675106838818
+5cfe68f4df6acbbb9ab4ed9b
+p:  2668.0026341486137
+5cfe679e04a0f9c1ceb4ed77
+p:  2803.9675106838818
+5cfe660e7b1a6e6ebfb4ed76
+p:  1657.6847740672822
+5cfe650e476ac99e1db4ed72
+p:  2593.77042513166
+5cfe674af3869ce6ebb4ed78
+p:  2817.7750848567944
+5cfe6531476ac99e1db4ed76
+p:  2803.9675106838818
+5cfe64e244dd2965b268c6c1
+p:  2803.9675106838818
+5cfe68bddf6acbbb9ab4ed97
+p:  2817.7750848567944
+5cfe677c8137a97d7cb4ed82
+p:  2593.77042513166
+5cfe65b98137a97d7cb4ed71
+p:  1344.919504204348
+5cfe6503476ac99e1db4ed70
+p:  1626.1496515742338
+5cfe66b9476ac99e1db4ed7b
+p:  1344.919504204348
+5cfe682bdf6acbbb9ab4ed8d
+p:  1358.7270783772603
+5cfe652a476ac99e1db4ed75
+p:  2593.77042513166
+5cfe69418137a97d7cb4ed8f
+p:  1401.9711296170108
+5cfe682df3869ce6ebb4ed7c
+p:  2457.805548596392
+5cfe6e6b05da571b9bb4edc8
+p:  2817.7750848567944
+5cfe6e7805da571b9bb4edca
+p:  1639.957225747146
+5cfe65b38137a97d7cb4ed70
+p:  2654.195059975701
+5cfe69458137a97d7cb4ed90
+p:  1358.7270783772603
+5cfe6ce505da571b9bb4edb9
+p:  2817.7750848567944
+5cfe8851de6c33c764b4ee75
+p:  1334.0768015936383
+5cfea0b105da571b9bb4eea3
+p:  2309.9834796142063
+5cfe9acf7b1a6e6ebfb4eed7
+p:  2642.8109806954462
+5cfe9bc7f2c6423039b4eee4
+p:  2426.1128286507223
+5cfe9be4f2c6423039b4eee6
+p:  2642.8109806954462
+5cfe6e9e04a0f9c1ceb4ed92
+p:  2668.0026341486137
+5cfe6874476ac99e1db4ed91
+p:  2607.5779993045726
+5cfe728fe896b76cf6b4edcc
+p:  1881.6891896517916
+5cfe74dae896b76cf6b4eddc
+p:  1671.4923482401946
+5cfe6a64476ac99e1db4ed99
+p:  1426.1641469212395
+5cfe7f1d56dc77779ab4edf8
+p:  2309.9834796142063
+5cfe85e0616190610ab4ee55
+p:  2426.1128286507223
+5cfe83609ed1a05fb8b4ee12
+p:  1377.320852833389
+5cfeacd6f3869ce6ebb4ef14
+p:  2426.1128286507223
+5cfe72e29ed1a05fb8b4edbe
+p:  1358.7270783772603
+5cfe77c5e896b76cf6b4eded
+p:  2446.8855524357114
+5cfe7a14e896b76cf6b4edf4
+p:  2817.7750848567944
+5cfe68217b1a6e6ebfb4ed81
+p:  1358.7270783772603
+5cfe7bc8de6c33c764b4ee02
+p:  1336.5950030842498
+5cfe81a6f2c6423039b4ee2b
+p:  2607.5779993045726
+5cfe799305da571b9bb4ee07
+p:  1404.032071628229
+5cfe790a05da571b9bb4ee04
+p:  2600.383647603114
+5cfe790505da571b9bb4ee03
+p:  1336.5950030842498
+5cfe7b8b9a92d45764b4ee11
+p:  2526.68163165893
+5cfe788305da571b9bb4edff
+p:  2664.276989689392
+5cfe9d9ff3869ce6ebb4eed0
+p:  1377.320852833389
+5cfe9d6bf3869ce6ebb4eecf
+p:  1627.3956297806924
+5cfe9deaf3869ce6ebb4eed1
+p:  1844.093537684792
+5cfe6a499a92d45764b4ed95
+p:  2031.461640359972
+5cfe6fa19ed1a05fb8b4eda3
+p:  2607.5779993045726
+5cfe70569ed1a05fb8b4edaa
+p:  1358.7270783772603
+5cfe6a52e896b76cf6b4ed94
+p:  1382.9200956814889
+5cfe665c9a92d45764b4ed7c
+p:  1401.9711296170108
+5cfe687a9a92d45764b4ed83
+p:  1426.1641469212395
+5cfe6b929ed1a05fb8b4ed7a
+p:  2817.7750848567944
+5cfe757adf6acbbb9ab4edfb
+p:  1881.6891896517916
+5cfe6c4c9ed1a05fb8b4ed83
+p:  2031.461640359972
+5cfe6b009ed1a05fb8b4ed74
+p:  2817.7750848567944
+5cfe6c6d9ed1a05fb8b4ed84
+p:  2817.7750848567944
+5cfe6f907b1a6e6ebfb4edb5
+p:  1671.4923482401946
+5cfe6d2656dc77779ab4ed8f
+p:  2817.7750848567944
+5cfe6b3056dc77779ab4ed85
+p:  1426.1641469212395
+5cfe6d0e56dc77779ab4ed8d
+p:  2817.7750848567944
+5cfe6c76f3869ce6ebb4eda2
+p:  2607.5779993045726
+5cfe802f616190610ab4ee2d
+p:  2642.8109806954462
+5cfe7e2b616190610ab4ee26
+p:  2526.68163165893
+5cfe7f56616190610ab4ee28
+p:  1334.0768015936383
+5cfeae077b1a6e6ebfb4ef65
+p:  2526.68163165893
+5cfe80d8616190610ab4ee34
+p:  1595.860507287644
+5cfe923af2c6423039b4eeb4
+p:  1377.320852833389
+5cfe94bb9a92d45764b4eea6
+p:  1627.3956297806924
+5cfe93c6f3869ce6ebb4ee93
+p:  1627.3956297806924
+5cfe939df3869ce6ebb4ee8e
+p:  2309.9834796142063
+5cfe97fd7b1a6e6ebfb4eebc
+p:  2426.1128286507223
+5cfe98147b1a6e6ebfb4eebe
+p:  2642.8109806954462
+5cfe9372f3869ce6ebb4ee8c
+p:  1309.8837842894097
+5cfe98c7e896b76cf6b4eed1
+p:  1334.0768015936383
+5cfe98667b1a6e6ebfb4eec5
+p:  2426.1128286507223
+5cfe974b7b1a6e6ebfb4eeb9
+p:  1627.3956297806924
+5cfe99e57b1a6e6ebfb4eeca
+p:  2040.2102979386982
+5cfe9c69f3869ce6ebb4eece
+p:  1844.093537684792
+5cfe94b59a92d45764b4eea5
+p:  1309.8837842894097
+5cfe9354f3869ce6ebb4ee88
+p:  2309.9834796142063
+5cfe9525f3869ce6ebb4eeae
+p:  1377.320852833389
+5cfe9990f3869ce6ebb4eebd
+p:  1309.8837842894097
+5cfe94c0f3869ce6ebb4eea5
+p:  1309.8837842894097
+5cfe7e3ede6c33c764b4ee1d
+p:  1743.524978817209
+5cfe7e13de6c33c764b4ee18
+p:  1627.3956297806924
+5cfea57d56dc77779ab4eebe
+p:  2426.1128286507223
+5cfea0dd9a92d45764b4eeed
+p:  2642.8109806954462
+5cfe8fecf3869ce6ebb4ee72
+p:  2309.9834796142063
+5cfe8f9504a0f9c1ceb4ee25
+p:  1844.093537684792
+5cfeab2104a0f9c1ceb4ef04
+p:  1377.320852833389
+5cfeaaa204a0f9c1ceb4eefa
+p:  1334.0768015936383
+5cfe8d6605da571b9bb4ee56
+p:  1377.320852833389
+5cfe8654476ac99e1db4ee2e
+p:  2642.8109806954462
+5cfe844adf6acbbb9ab4ee6d
+p:  1309.8837842894097
+5cfe8996df6acbbb9ab4ee83
+p:  1627.3956297806924
+5cfe8a0ddf6acbbb9ab4ee85
+p:  2526.68163165893
+5cfe8f7ae896b76cf6b4ee96
+p:  1377.320852833389
+5cfe7c9704a0f9c1ceb4edc6
+p:  2526.68163165893
+5cfe7c5704a0f9c1ceb4edc5
+p:  1743.524978817209
+5cfe7d7304a0f9c1ceb4edc9
+p:  2642.8109806954462
+5cfea98e616190610ab4ef59
+p:  2642.8109806954462
+5cfeaf127b1a6e6ebfb4ef69
+p:  2426.1128286507223
+5cfea989616190610ab4ef58
+p:  1377.320852833389
+5cfea9a3616190610ab4ef5d
+p:  2309.9834796142063
+5cfea94e616190610ab4ef56
+p:  1627.3956297806924
+5cfea929616190610ab4ef55
+p:  2642.8109806954462
+5cfea97b616190610ab4ef57
+p:  2309.9834796142063
+5cfe98c656dc77779ab4ee85
+p:  1309.8837842894097
+5cfe98c704a0f9c1ceb4ee7a
+p:  2642.8109806954462
+5cfe9509e896b76cf6b4eebc
+p:  2642.8109806954462
+5cfe98069ed1a05fb8b4ee91
+p:  2642.8109806954462
+5cfe9517e896b76cf6b4eebd
+p:  1627.3956297806924
+5cfe98dd04a0f9c1ceb4ee7c
+p:  1309.8837842894097
+5cfe9530e896b76cf6b4eebe
+p:  2426.1128286507223
+5cfe98b705da571b9bb4ee83
+p:  2642.8109806954462
+5cfe941004a0f9c1ceb4ee51
+p:  2309.9834796142063
+5cfe95e656dc77779ab4ee68
+p:  1960.2228867213078
+5cfe95f056dc77779ab4ee69
+p:  1309.8837842894097
+5cfe973c05da571b9bb4ee7d
+p:  2642.8109806954462
+5cfe940004a0f9c1ceb4ee4f
+p:  1353.1278355291602
+5cfe683ff3869ce6ebb4ed7f
+p:  1358.7270783772603
+5cfe6b628137a97d7cb4ed9f
+p:  1401.9711296170108
+5cfe6751476ac99e1db4ed84
+p:  2457.805548596392
+5cfe6705f3869ce6ebb4ed75
+p:  2577.5641927802076
+5cfeb323e896b76cf6b4ef4b
+p:  1377.320852833389
+5cfea27305da571b9bb4eeaa
+p:  1844.093537684792
+5cfe68837b1a6e6ebfb4ed88
+p:  2607.5779993045726
+5cfe9204f3869ce6ebb4ee83
+p:  1309.8837842894097
+5cfe806004a0f9c1ceb4edd4
+p:  1377.320852833389
+5cfe7dfb04a0f9c1ceb4edcb
+p:  2426.1128286507223
+5cfe86da7b1a6e6ebfb4ee5d
+p:  1844.093537684792
+5cfe8197df6acbbb9ab4ee63
+p:  1309.8837842894097
+5cfe810fdf6acbbb9ab4ee5a
+p:  2526.68163165893
+5cfe87027b1a6e6ebfb4ee5f
+p:  1377.320852833389
+5cfe85857b1a6e6ebfb4ee4b
+p:  1309.8837842894097
+5cfe85cc7b1a6e6ebfb4ee4f
+p:  2309.9834796142063
+5cfe81addf6acbbb9ab4ee64
+p:  1353.1278355291602
+5cfe8144df6acbbb9ab4ee5d
+p:  1627.3956297806924
+5cfeaad6f2c6423039b4ef4d
+p:  1594.0187607374883
+5cfeacf9476ac99e1db4ef71
+p:  2309.9834796142063
+5cfead0d476ac99e1db4ef74
+p:  2426.1128286507223
+5cfeaa5cf2c6423039b4ef47
+p:  1844.093537684792
+5cfeace7476ac99e1db4ef6f
+p:  1353.1278355291602
+5cfeaeae476ac99e1db4ef89
+p:  2642.8109806954462
+5cfeacf0476ac99e1db4ef70
+p:  2526.68163165893
+5cfead18476ac99e1db4ef75
+p:  2526.68163165893
+5cfeabf7f2c6423039b4ef50
+p:  2642.8109806954462
+5cfeaf65476ac99e1db4ef94
+p:  2526.68163165893
+5cfeaec4476ac99e1db4ef8c
+p:  2526.68163165893
+5cfead6f476ac99e1db4ef79
+p:  1594.0187607374883
+5cfeaf71476ac99e1db4ef95
+p:  2526.68163165893
+5cfead89476ac99e1db4ef7d
+p:  2526.68163165893
+5cfeabfdf2c6423039b4ef51
+p:  2278.4482735218667
+5cfead06476ac99e1db4ef73
+p:  1334.0768015936383
+5cfeaf59476ac99e1db4ef93
+p:  2642.8109806954462
+5cfeaf3b476ac99e1db4ef91
+p:  2426.1128286507223
+5cfeae97476ac99e1db4ef86
+p:  1627.3956297806924
+5cfeae80476ac99e1db4ef83
+p:  2642.8109806954462
+5cfeacc9476ac99e1db4ef6d
+p:  1309.8837842894097
+5cfeacc0476ac99e1db4ef6c
+p:  1309.8837842894097
+5cfeacd4476ac99e1db4ef6e
+p:  2642.8109806954462
+5cfeaed3f3869ce6ebb4ef22
+p:  2642.8109806954462
+5cfeaed0616190610ab4ef78
+p:  2309.9834796142063
+5cfe6569de6c33c764b4ed77
+p:  2593.77042513166
+5cfe6bc205da571b9bb4edaf
+p:  2817.7750848567944
+5cfe6af805da571b9bb4eda9
+p:  2817.7750848567944
+5cfe6b1705da571b9bb4edae
+p:  1671.4923482401946
+5cfe663b56dc77779ab4ed73
+p:  1426.1641469212395
+5cfe6b74616190610ab4ed98
+p:  2803.9675106838818
+5cfe6a82df6acbbb9ab4edac
+p:  2817.7750848567944
+5cfe7020df6acbbb9ab4edd6
+p:  2457.805548596392
+5cfe6748de6c33c764b4ed8a
+p:  1671.4923482401946
+5cfe6eb1df6acbbb9ab4edcd
+p:  1671.4923482401946
+5cfe6ca4df6acbbb9ab4edc0
+p:  2457.805548596392
+5cfe7eba04a0f9c1ceb4edce
+p:  2642.8109806954462
+5cfeae99f3869ce6ebb4ef1d
+p:  2309.9834796142063
+5cfeaf76f3869ce6ebb4ef28
+p:  1627.3956297806924
+5cfeaf98f3869ce6ebb4ef29
+p:  1627.3956297806924
+5cfeaa6e616190610ab4ef5e
+p:  1309.8837842894097
+5cfe86f0476ac99e1db4ee36
+p:  1377.320852833389
+5cfe8482616190610ab4ee50
+p:  2526.68163165893
+5cfe88278137a97d7cb4ee59
+p:  1309.8837842894097
+5cfeaa9e616190610ab4ef63
+p:  1309.8837842894097
+5cfe83ee616190610ab4ee44
+p:  1377.320852833389
+5cfeaac5616190610ab4ef67
+p:  2426.1128286507223
+5cfe8304616190610ab4ee3f
+p:  2642.8109806954462
+5cfeaa79616190610ab4ef5f
+p:  1595.860507287644
+5cfeaa82616190610ab4ef60
+p:  2526.68163165893
+5cfe85c49ed1a05fb8b4ee19
+p:  1377.320852833389
+5cfe8cc504a0f9c1ceb4ee03
+p:  2426.1128286507223
+5cfe8451616190610ab4ee4c
+p:  2642.8109806954462
+5cfe8476616190610ab4ee4f
+p:  1844.093537684792
+5cfe83219ed1a05fb8b4ee11
+p:  2642.8109806954462
+5cfe8a0c04a0f9c1ceb4edf9
+p:  1353.1278355291602
+5cfe81d4616190610ab4ee3a
+p:  1743.524978817209
+5cfe842d9ed1a05fb8b4ee16
+p:  1377.320852833389
+5cfe8189616190610ab4ee37
+p:  1377.320852833389
+5cfe873ede6c33c764b4ee6a
+p:  1377.320852833389
+5cfe8177616190610ab4ee36
+p:  1377.320852833389
+5cfe8b80476ac99e1db4ee6a
+p:  2642.8109806954462
+5cfe8933476ac99e1db4ee50
+p:  1594.0187607374883
+5cfe83fd616190610ab4ee45
+p:  2642.8109806954462
+5cfeadc7616190610ab4ef6c
+p:  2426.1128286507223
+5cfe8588476ac99e1db4ee26
+p:  1627.3956297806924
+5cfe841b616190610ab4ee48
+p:  1493.4502018699045
+5cfe87ce476ac99e1db4ee40
+p:  2278.4482735218667
+5cfe81df616190610ab4ee3c
+p:  1377.320852833389
+5cfe84079ed1a05fb8b4ee15
+p:  1595.860507287644
+5cfeabf9616190610ab4ef68
+p:  2309.9834796142063
+5cfe8ca1476ac99e1db4ee7a
+p:  2526.68163165893
+5cfe876dde6c33c764b4ee6c
+p:  1309.8837842894097
+5cfe86e49ed1a05fb8b4ee1c
+p:  1627.3956297806924
+5cfe85da9ed1a05fb8b4ee1a
+p:  2642.8109806954462
+5cfe894404a0f9c1ceb4edf6
+p:  1309.8837842894097
+5cfeabdb476ac99e1db4ef5d
+p:  2309.9834796142063
+5cfeabed476ac99e1db4ef60
+p:  1334.0768015936383
+5cfeac05476ac99e1db4ef64
+p:  1844.093537684792
+5cfeabf8476ac99e1db4ef62
+p:  1334.0768015936383
+5cfeab37476ac99e1db4ef59
+p:  1353.1278355291602
+5cfeac8f476ac99e1db4ef69
+p:  1844.093537684792
+5cfe93408137a97d7cb4eedb
+p:  1377.320852833389
+5cfe92ab8137a97d7cb4eed2
+p:  1627.3956297806924
+5cfe934d8137a97d7cb4eedc
+p:  1823.5123900345986
+5cfe92be8137a97d7cb4eed3
+p:  1627.3956297806924
+5cfe93a68137a97d7cb4eee1
+p:  2526.68163165893
+5cfe91d88137a97d7cb4eec7
+p:  2426.1128286507223
+5cfe925c8137a97d7cb4eecd
+p:  1627.3956297806924
+5cfe929e8137a97d7cb4eed1
+p:  1572.712647418366
+5cfe926e8137a97d7cb4eece
+p:  1377.320852833389
+5cfe91fd8137a97d7cb4eec8
+p:  1353.1278355291602
+5cfe920f8137a97d7cb4eec9
+p:  1595.860507287644
+5cfe93d68137a97d7cb4eee3
+p:  1377.320852833389
+5cfe984d56dc77779ab4ee7f
+p:  2642.8109806954462
+5cfe93818137a97d7cb4eedf
+p:  1353.1278355291602
+5cfe93b98137a97d7cb4eee2
+p:  1377.320852833389
+5cfe93389a92d45764b4ee99
+p:  1377.320852833389
+5cfe93ee8137a97d7cb4eee4
+p:  2426.1128286507223
+5cfe935c8137a97d7cb4eedd
+p:  1627.3956297806924
+5cfe94198137a97d7cb4eee6
+p:  1594.0187607374883
+5cfe93238137a97d7cb4eed9
+p:  2309.9834796142063
+5cfe92ce8137a97d7cb4eed4
+p:  1627.3956297806924
+5cfe93338137a97d7cb4eeda
+p:  2309.9834796142063
+5cfe90ee7b1a6e6ebfb4ee92
+p:  2309.9834796142063
+5cfe90237b1a6e6ebfb4ee8a
+p:  2309.9834796142063
+5cfe90d67b1a6e6ebfb4ee91
+p:  2642.8109806954462
+5cfe91837b1a6e6ebfb4ee94
+p:  2309.9834796142063
+5cfe9b1d476ac99e1db4eefa
+p:  2309.9834796142063
+5cfe9ad8476ac99e1db4eef6
+p:  2309.9834796142063
+5cfe9b02476ac99e1db4eef7
+p:  1334.0768015936383
+5cfea036de6c33c764b4ef0f
+p:  2642.8109806954462
+5cfe73a0e896b76cf6b4edd5
+p:  2457.805548596392
+5cfe74e4e896b76cf6b4edde
+p:  2817.7750848567944
+5cfe70db56dc77779ab4ed9e
+p:  1671.4923482401946
+5cfe7605e896b76cf6b4ede7
+p:  2817.7750848567944
+5cfe71bb56dc77779ab4eda4
+p:  2817.7750848567944
+5cfe7398e896b76cf6b4edd4
+p:  1671.4923482401946
+5cfe75b3e896b76cf6b4ede5
+p:  2817.7750848567944
+5cfe7392e896b76cf6b4edd3
+p:  2457.805548596392
+5cfe70cc56dc77779ab4ed9b
+p:  2607.5779993045726
+5cfe70ac9a92d45764b4edc3
+p:  1426.1641469212395
+5cfe7428e896b76cf6b4edd6
+p:  1671.4923482401946
+5cfe9f97616190610ab4ef17
+p:  1572.712647418366
+5cfea6c504a0f9c1ceb4eed8
+p:  1594.0187607374883
+5cfea23d7b1a6e6ebfb4ef14
+p:  2426.1128286507223
+5cfea103616190610ab4ef28
+p:  2426.1128286507223
+5cfea077616190610ab4ef1f
+p:  2426.1128286507223
+5cfe80058137a97d7cb4ee27
+p:  1334.0768015936383
+5cfeada8f2c6423039b4ef5e
+p:  1353.1278355291602
+5cfe7e51df6acbbb9ab4ee3e
+p:  1336.5950030842498
+5cfe7e59df6acbbb9ab4ee3f
+p:  2446.8855524357114
+5cfe7e22df6acbbb9ab4ee3a
+p:  2664.276989689392
+5cfe783ddf6acbbb9ab4ee0d
+p:  1379.8390543240002
+5cfe7c6ddf6acbbb9ab4ee2f
+p:  2600.383647603114
+5cfe7e2edf6acbbb9ab4ee3b
+p:  1872.9113177955637
+5cfe7875df6acbbb9ab4ee10
+p:  2664.276989689392
+5cfe7870df6acbbb9ab4ee0f
+p:  2817.7750848567944
+5cfe7e3adf6acbbb9ab4ee3c
+p:  2664.276989689392
+5cfe7bb7df6acbbb9ab4ee29
+p:  2664.276989689392
+5cfe7c73df6acbbb9ab4ee30
+p:  1404.032071628229
+5cfe7da7df6acbbb9ab4ee37
+p:  1404.032071628229
+5cfe7bacdf6acbbb9ab4ee27
+p:  1379.8390543240002
+5cfe7c49df6acbbb9ab4ee2d
+p:  1621.4232647412853
+5cfe7c79df6acbbb9ab4ee31
+p:  2817.7750848567944
+5cfe78b3df6acbbb9ab4ee17
+p:  1360.7880203884783
+5cfe788bdf6acbbb9ab4ee11
+p:  1404.032071628229
+5cfe7ba5df6acbbb9ab4ee26
+p:  1655.5201246825081
+5cfe7bb2df6acbbb9ab4ee28
+p:  2446.8855524357114
+5cfe7bd89a92d45764b4ee17
+p:  1309.8837842894097
+5cfe7b4edf6acbbb9ab4ee20
+p:  2817.7750848567944
+5cfe7af0df6acbbb9ab4ee1e
+p:  1404.032071628229
+5cfe796adf6acbbb9ab4ee1c
+p:  2222.5261732168724
+5cfe7c67df6acbbb9ab4ee2e
+p:  1379.8390543240002
+5cfe8eed476ac99e1db4ee90
+p:  1309.8837842894097
+5cfe7bbcdf6acbbb9ab4ee2a
+p:  1655.5201246825081
+5cfe8ffe476ac99e1db4ee98
+p:  2396.0990221263573
+5cfe7b48df6acbbb9ab4ee1f
+p:  1655.5201246825081
+5cfe7b54df6acbbb9ab4ee21
+p:  1621.4232647412853
+5cfe78a6df6acbbb9ab4ee14
+p:  1655.5201246825081
+5cfe83337b1a6e6ebfb4ee2e
+p:  2040.2102979386982
+5cfe99fa7b1a6e6ebfb4eecc
+p:  2642.8109806954462
+5cfe79279a92d45764b4edfb
+p:  2664.276989689392
+5cfe82027b1a6e6ebfb4ee21
+p:  1844.093537684792
+5cfe7a1e9a92d45764b4ee02
+p:  1809.018219849911
+5cfe7ebfdf6acbbb9ab4ee46
+p:  1627.3956297806924
+5cfe79e59a92d45764b4ee01
+p:  1655.5201246825081
+5cfeabe3de6c33c764b4ef5b
+p:  2309.9834796142063
+5cfeb083de6c33c764b4ef76
+p:  1627.3956297806924
+5cfeabefde6c33c764b4ef5e
+p:  1309.8837842894097
+5cfe81d77b1a6e6ebfb4ee1f
+p:  2309.9834796142063
+5cfe827d7b1a6e6ebfb4ee26
+p:  1627.3956297806924
+5cfe9062476ac99e1db4eea0
+p:  2642.8109806954462
+5cfe799e8137a97d7cb4edfa
+p:  1621.4232647412853
+5cfe898a8137a97d7cb4ee66
+p:  1844.093537684792
+5cfea668616190610ab4ef3f
+p:  2526.68163165893
+5cfe82f1e896b76cf6b4ee40
+p:  1743.524978817209
+5cfe77978137a97d7cb4edf2
+p:  2446.8855524357114
+5cfe98ed7b1a6e6ebfb4eec6
+p:  2642.8109806954462
+5cfe80b3df6acbbb9ab4ee52
+p:  2642.8109806954462
+5cfe811a7b1a6e6ebfb4ee17
+p:  2642.8109806954462
+5cfe828c7b1a6e6ebfb4ee27
+p:  2426.1128286507223
+5cfe7e72df6acbbb9ab4ee41
+p:  2426.1128286507223
+5cfe7eaddf6acbbb9ab4ee45
+p:  1353.1278355291602
+5cfe79ba8137a97d7cb4edfd
+p:  2664.276989689392
+5cfe7eeddf6acbbb9ab4ee47
+p:  2426.1128286507223
+5cfeb033de6c33c764b4ef6f
+p:  1309.8837842894097
+5cfe930404a0f9c1ceb4ee4b
+p:  2642.8109806954462
+5cfe82c17b1a6e6ebfb4ee29
+p:  1377.320852833389
+5cfe822e7b1a6e6ebfb4ee23
+p:  1627.3956297806924
+5cfe8020616190610ab4ee2c
+p:  2426.1128286507223
+5cfe83707b1a6e6ebfb4ee30
+p:  1627.3956297806924
+5cfe8028df6acbbb9ab4ee4e
+p:  2309.9834796142063
+5cfeaf24de6c33c764b4ef66
+p:  1791.977206506394
+5cfeabd5de6c33c764b4ef58
+p:  1353.1278355291602
+5cfe78d18137a97d7cb4edf7
+p:  2446.8855524357114
+5cfe78ad8137a97d7cb4edf5
+p:  1655.5201246825081
+5cfe79b58137a97d7cb4edfc
+p:  1404.032071628229
+5cfe9279f2c6423039b4eeb6
+p:  2426.1128286507223
+5cfe7ff9df6acbbb9ab4ee4d
+p:  1572.712647418366
+5cfe805bdf6acbbb9ab4ee50
+p:  1743.524978817209
+5cfeab559ed1a05fb8b4ef1d
+p:  2309.9834796142063
+5cfea5e356dc77779ab4eec3
+p:  2426.1128286507223
+5cfea6268137a97d7cb4ef72
+p:  1377.320852833389
+5cfe6aee56dc77779ab4ed83
+p:  2817.7750848567944
+5cfe92e7476ac99e1db4eeb8
+p:  2309.9834796142063
+5cfe9cef05da571b9bb4ee94
+p:  1334.0768015936383
+5cfe9a7a9ed1a05fb8b4eeaa
+p:  1309.8837842894097
+5cfea84a616190610ab4ef4e
+p:  2309.9834796142063
+5cfe6acb56dc77779ab4ed81
+p:  2607.5779993045726
+5cfe943e05da571b9bb4ee71
+p:  1309.8837842894097
+5cfe93b204a0f9c1ceb4ee4d
+p:  1627.3956297806924
+5cfe9e1004a0f9c1ceb4ee9e
+p:  2309.9834796142063
+5cfe85dd05da571b9bb4ee38
+p:  2642.8109806954462
+5cfea770476ac99e1db4ef3c
+p:  1353.1278355291602
+5cfe915c476ac99e1db4eeaf
+p:  1627.3956297806924
+5cfe839d05da571b9bb4ee2f
+p:  2642.8109806954462
+5cfea779476ac99e1db4ef3e
+p:  2426.1128286507223
+5cfe9132476ac99e1db4eead
+p:  1493.4502018699045
+5cfeb038de6c33c764b4ef70
+p:  1309.8837842894097
+5cfeafd4de6c33c764b4ef6c
+p:  2642.8109806954462
+5cfeb047de6c33c764b4ef73
+p:  2642.8109806954462
+5cfe855e05da571b9bb4ee36
+p:  2642.8109806954462
+5cfe9169476ac99e1db4eeb0
+p:  1572.712647418366
+5cfe95bc05da571b9bb4ee77
+p:  2309.9834796142063
+5cfe73b5f2c6423039b4edf2
+p:  1639.957225747146
+5cfe6ca7de6c33c764b4edb6
+p:  2817.7750848567944
+5cfe6963de6c33c764b4ed97
+p:  1382.9200956814889
+5cfea46f8137a97d7cb4ef68
+p:  2426.1128286507223
+5cfea33f8137a97d7cb4ef61
+p:  1309.8837842894097
+5cfea97356dc77779ab4eed0
+p:  2642.8109806954462
+5cfea5a98137a97d7cb4ef6f
+p:  1309.8837842894097
+5cfe90fd476ac99e1db4eeaa
+p:  2309.9834796142063
+5cfe812005da571b9bb4ee25
+p:  1627.3956297806924
+5cfe988a9ed1a05fb8b4ee94
+p:  2526.68163165893
+5cfe988156dc77779ab4ee82
+p:  1309.8837842894097
+5cfe9bb856dc77779ab4ee96
+p:  2309.9834796142063
+5cfe92fd476ac99e1db4eebb
+p:  2642.8109806954462
+5cfe9185476ac99e1db4eeb1
+p:  2642.8109806954462
+5cfe81e005da571b9bb4ee28
+p:  2278.4482735218667
+5cfe7008616190610ab4edc0
+p:  1671.4923482401946
+5cfea28c8137a97d7cb4ef5e
+p:  1334.0768015936383
+5cfe9205476ac99e1db4eeb6
+p:  2309.9834796142063
+5cfe90d7476ac99e1db4eea7
+p:  1627.3956297806924
+5cfe845d05da571b9bb4ee32
+p:  2309.9834796142063
+5cfe79e756dc77779ab4edd2
+p:  1379.8390543240002
+5cfea307e896b76cf6b4ef0a
+p:  2309.9834796142063
+5cfe9a84e896b76cf6b4eee0
+p:  2426.1128286507223
+5cfea0e4e896b76cf6b4ef02
+p:  1334.0768015936383
+5cfe9a3ae896b76cf6b4eeda
+p:  1377.320852833389
+5cfea0f3e896b76cf6b4ef05
+p:  1627.3956297806924
+5cfe9f31e896b76cf6b4eefa
+p:  2526.68163165893
+5cfe9fd7e896b76cf6b4eefc
+p:  2642.8109806954462
+5cfea403e896b76cf6b4ef0e
+p:  1377.320852833389
+5cfe9a40e896b76cf6b4eedb
+p:  1334.0768015936383
+5cfe9ea5e896b76cf6b4eef3
+p:  1334.0768015936383
+5cfea0c7e896b76cf6b4eeff
+p:  2426.1128286507223
+5cfe9e12e896b76cf6b4eef1
+p:  1309.8837842894097
+5cfe9ed1e896b76cf6b4eef8
+p:  1377.320852833389
+5cfe9fe2e896b76cf6b4eefd
+p:  1353.1278355291602
+5cfea0d2e896b76cf6b4ef01
+p:  1377.320852833389
+5cfe9b8b7b1a6e6ebfb4eedd
+p:  2526.68163165893
+5cfe9d8ee896b76cf6b4eeee
+p:  1960.2228867213078
+5cfe9de8e896b76cf6b4eef0
+p:  1594.0187607374883
+5cfe9fe7e896b76cf6b4eefe
+p:  1353.1278355291602
+5cfe9b86e896b76cf6b4eee6
+p:  1377.320852833389
+5cfe9bfbe896b76cf6b4eee9
+p:  1844.093537684792
+5cfea3c4e896b76cf6b4ef0d
+p:  1377.320852833389
+5cfe9e1be896b76cf6b4eef2
+p:  1353.1278355291602
+5cfe9dbde896b76cf6b4eeef
+p:  1353.1278355291602
+5cfe9a53e896b76cf6b4eedd
+p:  1844.093537684792
+5cfe9f1be896b76cf6b4eef9
+p:  1353.1278355291602
+5cfe9cd2e896b76cf6b4eeea
+p:  2309.9834796142063
+5cfea0fae896b76cf6b4ef06
+p:  1627.3956297806924
+5cfe9a8ce896b76cf6b4eee2
+p:  2426.1128286507223
+5cfea0ede896b76cf6b4ef04
+p:  2526.68163165893
+5cfea385e896b76cf6b4ef0c
+p:  1594.0187607374883
+5cfe9d03e896b76cf6b4eeeb
+p:  1377.320852833389
+5cfe9b55e896b76cf6b4eee5
+p:  1377.320852833389
+5cfe9b18e896b76cf6b4eee4
+p:  2642.8109806954462
+5cfea0eae896b76cf6b4ef03
+p:  1844.093537684792
+5cfe82d37b1a6e6ebfb4ee2a
+p:  2526.68163165893
+5cfe8f81f2c6423039b4eea7
+p:  2642.8109806954462
+5cfeaad6f3869ce6ebb4ef08
+p:  1595.860507287644
+5cfeae87476ac99e1db4ef84
+p:  2642.8109806954462
+5cfe870d616190610ab4ee65
+p:  2309.9834796142063
+5cfe7e19df6acbbb9ab4ee39
+p:  1336.5950030842498
+5cfe8ed1476ac99e1db4ee8d
+p:  1353.1278355291602
+5cfe826ddf6acbbb9ab4ee69
+p:  1743.524978817209
+5cfe81c07b1a6e6ebfb4ee1e
+p:  1844.093537684792
+5cfe81f07b1a6e6ebfb4ee20
+p:  1334.0768015936383
+5cfeabc7476ac99e1db4ef5c
+p:  1627.3956297806924
+5cfeaf2a8137a97d7cb4ef94
+p:  1334.0768015936383
+5cfe97548137a97d7cb4ef18
+p:  2426.1128286507223
+5cfea4f88137a97d7cb4ef6b
+p:  2642.8109806954462
+5cfe74d4e896b76cf6b4eddb
+p:  2817.7750848567944
+5cfe776856dc77779ab4edbe
+p:  1401.9711296170108
+5cfe68a5e896b76cf6b4ed8c
+p:  1639.957225747146
+5cfe95868137a97d7cb4eefa
+p:  1594.0187607374883
+5cfe953f8137a97d7cb4eef5
+p:  1334.0768015936383
+5cfe7a777b1a6e6ebfb4edeb
+p:  2817.7750848567944
+5cfe6e9cde6c33c764b4edc3
+p:  2817.7750848567944
+5cfe9a7705da571b9bb4ee8a
+p:  2426.1128286507223
+5cfe95628137a97d7cb4eef8
+p:  2426.1128286507223
+5cfe957d05da571b9bb4ee76
+p:  1595.860507287644
+5cfe71087b1a6e6ebfb4edc1
+p:  2817.7750848567944
+5cfe7932de6c33c764b4edfb
+p:  1404.032071628229
+5cfe6e63de6c33c764b4edbd
+p:  1671.4923482401946
+5cfea4a804a0f9c1ceb4eec3
+p:  2642.8109806954462
+5cfea1b556dc77779ab4eeba
+p:  2309.9834796142063
+5cfe9ab605da571b9bb4ee8b
+p:  1627.3956297806924
+5cfe720fe896b76cf6b4edca
+p:  1821.2647989483753
+5cfe973c8137a97d7cb4ef14
+p:  1627.3956297806924
+5cfe97418137a97d7cb4ef15
+p:  2426.1128286507223
+5cfe70c07b1a6e6ebfb4edc0
+p:  1821.2647989483753
+5cfea59b9ed1a05fb8b4eef5
+p:  2642.8109806954462
+5cfe80e005da571b9bb4ee24
+p:  1377.320852833389
+5cfe7f0fdf6acbbb9ab4ee49
+p:  2642.8109806954462
+5cfe7b0a9a92d45764b4ee09
+p:  2664.276989689392
+5cfeaf32de6c33c764b4ef67
+p:  2426.1128286507223
+5cfead79e896b76cf6b4ef34
+p:  2642.8109806954462
+5cfeb024f3869ce6ebb4ef2c
+p:  1309.8837842894097
+5cfeae35616190610ab4ef6e
+p:  1309.8837842894097
+5cfeafea7b1a6e6ebfb4ef70
+p:  1334.0768015936383
+5cfeaf3c7b1a6e6ebfb4ef6e
+p:  1377.320852833389
+5cfeaef47b1a6e6ebfb4ef68
+p:  1595.860507287644
+5cfe6788df6acbbb9ab4ed87
+p:  1358.7270783772603
+5cfe6580df6acbbb9ab4ed72
+p:  2817.7750848567944
+5cfe650fe896b76cf6b4ed6f
+p:  2593.77042513166
+5cfe661f476ac99e1db4ed78
+p:  2803.9675106838818
+5cfe6ff78137a97d7cb4edc7
+p:  1382.9200956814889
+5cfe9bd27b1a6e6ebfb4eee4
+p:  1309.8837842894097
+5cfe9b847b1a6e6ebfb4eedc
+p:  1353.1278355291602
+5cfe9bb17b1a6e6ebfb4eee1
+p:  1377.320852833389
+5cfe9ebf476ac99e1db4ef1b
+p:  2309.9834796142063
+5cfe99b1476ac99e1db4eee3
+p:  2526.68163165893
+5cfe9b28476ac99e1db4eefc
+p:  2642.8109806954462
+5cfe9c3a7b1a6e6ebfb4eee9
+p:  1334.0768015936383
+5cfe9b967b1a6e6ebfb4eede
+p:  2642.8109806954462
+5cfe9c487b1a6e6ebfb4eeea
+p:  2526.68163165893
+5cfe9a557b1a6e6ebfb4eed1
+p:  2309.9834796142063
+5cfe9b44df6acbbb9ab4eec5
+p:  1627.3956297806924
+5cfe9f49476ac99e1db4ef1f
+p:  1309.8837842894097
+5cfe9e8c476ac99e1db4ef18
+p:  1334.0768015936383
+5cfe9ae67b1a6e6ebfb4eedb
+p:  2426.1128286507223
+5cfe9ac17b1a6e6ebfb4eed4
+p:  1594.0187607374883
+5cfe9a9b7b1a6e6ebfb4eed2
+p:  1377.320852833389
+5cfe9c667b1a6e6ebfb4eeed
+p:  1627.3956297806924
+5cfe9a5e476ac99e1db4eeee
+p:  2642.8109806954462
+5cfea126476ac99e1db4ef23
+p:  2526.68163165893
+5cfe99ff476ac99e1db4eee9
+p:  1844.093537684792
+5cfe9c5d7b1a6e6ebfb4eeec
+p:  1594.0187607374883
+5cfe9c507b1a6e6ebfb4eeeb
+p:  1844.093537684792
+5cfe9a487b1a6e6ebfb4eecf
+p:  2642.8109806954462
+5cfe9a4d7b1a6e6ebfb4eed0
+p:  1594.0187607374883
+5cfe9bbc7b1a6e6ebfb4eee2
+p:  2309.9834796142063
+5cfe99a7476ac99e1db4eee2
+p:  2426.1128286507223
+5cfe9f87476ac99e1db4ef20
+p:  1627.3956297806924
+5cfe9de3476ac99e1db4ef11
+p:  1377.320852833389
+5cfea283476ac99e1db4ef27
+p:  2526.68163165893
+5cfea24a476ac99e1db4ef25
+p:  1627.3956297806924
+5cfe9dc3476ac99e1db4ef10
+p:  1353.1278355291602
+5cfe9ee7616190610ab4ef0e
+p:  1377.320852833389
+5cfe9cdc476ac99e1db4ef06
+p:  1377.320852833389
+5cfe9bc6476ac99e1db4eefd
+p:  1627.3956297806924
+5cfe9a6e476ac99e1db4eeef
+p:  1627.3956297806924
+5cfe9d93476ac99e1db4ef0d
+p:  1627.3956297806924
+5cfe9fdc476ac99e1db4ef22
+p:  2642.8109806954462
+5cfe9fae476ac99e1db4ef21
+p:  2396.0990221263573
+5cfe9d9c476ac99e1db4ef0e
+p:  1627.3956297806924
+5cfe99dc476ac99e1db4eee6
+p:  1844.093537684792
+5cfe9adf7b1a6e6ebfb4eeda
+p:  2526.68163165893
+5cfe9bc3df6acbbb9ab4eec7
+p:  1377.320852833389
+5cfe9b0c476ac99e1db4eef8
+p:  2309.9834796142063
+5cfe9cdf616190610ab4ef01
+p:  2526.68163165893
+5cfe9c698137a97d7cb4ef31
+p:  1627.3956297806924
+5cfe76a0e896b76cf6b4ede9
+p:  1401.9711296170108
+5cfe7758e896b76cf6b4edec
+p:  2457.805548596392
+5cfe9c01616190610ab4eefa
+p:  1595.860507287644
+5cfe9dfc616190610ab4ef04
+p:  1844.093537684792
+5cfe9c79616190610ab4eeff
+p:  1743.524978817209
+5cfe9c7c8137a97d7cb4ef32
+p:  1377.320852833389
+5cfe9c7c7b1a6e6ebfb4eeee
+p:  1627.3956297806924
+5cfe9c779ed1a05fb8b4eeb6
+p:  2309.9834796142063
+5cfe9ef9616190610ab4ef10
+p:  1309.8837842894097
+5cfe9cfef2c6423039b4eeeb
+p:  1594.0187607374883
+5cfe9c988137a97d7cb4ef33
+p:  2278.4482735218667
+5cfe7698e896b76cf6b4ede8
+p:  2668.0026341486137
+5cfe76a8e896b76cf6b4edea
+p:  2607.5779993045726
+5cfe9c739ed1a05fb8b4eeb5
+p:  1960.2228867213078
+5cfe9c809ed1a05fb8b4eeb7
+p:  1844.093537684792
+5cfe9c859ed1a05fb8b4eeb8
+p:  1572.712647418366
+5cfe9e69616190610ab4ef0a
+p:  1309.8837842894097
+5cfe9c0f616190610ab4eefc
+p:  1353.1278355291602
+5cfe9c897b1a6e6ebfb4eeef
+p:  2426.1128286507223
+5cfe9cf69ed1a05fb8b4eebb
+p:  2526.68163165893
+5cfea016f2c6423039b4ef08
+p:  1377.320852833389
+5cfea227f2c6423039b4ef1a
+p:  1377.320852833389
+5cfea01a8137a97d7cb4ef51
+p:  1334.0768015936383
+5cfe86c256dc77779ab4ee17
+p:  2526.68163165893
+5cfe952af3869ce6ebb4eeaf
+p:  1595.860507287644
+5cfe9c8a9ed1a05fb8b4eeb9
+p:  1377.320852833389
+5cfe96c1616190610ab4eed3
+p:  2642.8109806954462
+5cfe9389476ac99e1db4eec3
+p:  1844.093537684792
+5cfe841956dc77779ab4ee0c
+p:  2426.1128286507223
+5cfe7e1f56dc77779ab4edf4
+p:  1743.524978817209
+5cfe805b56dc77779ab4edfd
+p:  1627.3956297806924
+5cfe7ad056dc77779ab4ede2
+p:  1809.018219849911
+5cfe7aa356dc77779ab4eddc
+p:  1379.8390543240002
+5cfe7650476ac99e1db4edc9
+p:  1358.7270783772603
+5cfe8a80f2c6423039b4ee7b
+p:  1334.0768015936383
+5cfe875b476ac99e1db4ee3b
+p:  2642.8109806954462
+5cfe8cd8476ac99e1db4ee7c
+p:  1309.8837842894097
+5cfe8e0ff3869ce6ebb4ee65
+p:  2642.8109806954462
+5cfe809c56dc77779ab4edfe
+p:  1743.524978817209
+5cfe90967b1a6e6ebfb4ee8f
+p:  1377.320852833389
+5cfe821956dc77779ab4ee04
+p:  2309.9834796142063
+5cfea6a2f3869ce6ebb4eee9
+p:  2426.1128286507223
+5cfe7746616190610ab4ee01
+p:  2415.3503463433735
+5cfe964b04a0f9c1ceb4ee5a
+p:  2309.9834796142063
+5cfe856cf2c6423039b4ee53
+p:  1309.8837842894097
+5cfea9aede6c33c764b4ef4a
+p:  1377.320852833389
+5cfe8e8cf3869ce6ebb4ee69
+p:  2642.8109806954462
+5cfeae5e9a92d45764b4ef3d
+p:  1743.524978817209
+5cfe8e6ef3869ce6ebb4ee68
+p:  1309.8837842894097
+5cfe8eaef3869ce6ebb4ee6a
+p:  2426.1128286507223
+5cfe8da39ed1a05fb8b4ee56
+p:  2426.1128286507223
+5cfe8c5856dc77779ab4ee2d
+p:  1377.320852833389
+5cfea8c29ed1a05fb8b4ef08
+p:  1627.3956297806924
+5cfea89b9ed1a05fb8b4ef07
+p:  1309.8837842894097
+5cfe868356dc77779ab4ee16
+p:  2642.8109806954462
+5cfe871ade6c33c764b4ee69
+p:  1334.0768015936383
+5cfe86387b1a6e6ebfb4ee55
+p:  1627.3956297806924
+5cfea69df3869ce6ebb4eee8
+p:  1353.1278355291602
+5cfe8d89e896b76cf6b4ee85
+p:  1627.3956297806924
+5cfe6834f3869ce6ebb4ed7d
+p:  1426.1641469212395
+5cfeaa169ed1a05fb8b4ef0f
+p:  1844.093537684792
+5cfeaa1d9ed1a05fb8b4ef10
+p:  2396.0990221263573
+5cfe96a5e896b76cf6b4eec8
+p:  2642.8109806954462
+5cfe95b9e896b76cf6b4eec0
+p:  1743.524978817209
+5cfe96c5e896b76cf6b4eeca
+p:  1309.8837842894097
+5cfe6737f3869ce6ebb4ed77
+p:  1671.4923482401946
+5cfe948c7b1a6e6ebfb4ee9e
+p:  2642.8109806954462
+5cfe873cf2c6423039b4ee66
+p:  1595.860507287644
+5cfea7a9f2c6423039b4ef37
+p:  2642.8109806954462
+5cfe9670e896b76cf6b4eec3
+p:  2526.68163165893
+5cfe969d56dc77779ab4ee71
+p:  2642.8109806954462
+5cfeab6f9a92d45764b4ef21
+p:  2526.68163165893
+5cfe9bd204a0f9c1ceb4ee87
+p:  1377.320852833389
+5cfea9bfde6c33c764b4ef4c
+p:  1334.0768015936383
+5cfea9b6de6c33c764b4ef4b
+p:  2278.4482735218667
+5cfea9e1de6c33c764b4ef4e
+p:  1627.3956297806924
+5cfea8ee9ed1a05fb8b4ef0a
+p:  1627.3956297806924
+5cfea92d9ed1a05fb8b4ef0d
+p:  2309.9834796142063
+5cfea959f3869ce6ebb4eef5
+p:  2642.8109806954462
+5cfea684f3869ce6ebb4eee7
+p:  2642.8109806954462
+5cfe96efe896b76cf6b4eece
+p:  2642.8109806954462
+5cfe9660e896b76cf6b4eec1
+p:  1844.093537684792
+5cfe96bd8137a97d7cb4ef0b
+p:  1309.8837842894097
+5cfe97589a92d45764b4eeb3
+p:  1309.8837842894097
+5cfe6839f3869ce6ebb4ed7e
+p:  2668.0026341486137
+5cfe9dc304a0f9c1ceb4ee9b
+p:  1627.3956297806924
+5cfe67657b1a6e6ebfb4ed7a
+p:  1344.919504204348
+5cfeab8a9a92d45764b4ef23
+p:  2526.68163165893
+5cfeaa519a92d45764b4ef12
+p:  1353.1278355291602
+5cfe9b9e04a0f9c1ceb4ee84
+p:  2396.0990221263573
+5cfe93589a92d45764b4ee9c
+p:  1309.8837842894097
+5cfe98259a92d45764b4eeb7
+p:  1627.3956297806924
+5cfe94378137a97d7cb4eee7
+p:  1309.8837842894097
+5cfe9a2f56dc77779ab4ee8c
+p:  1594.0187607374883
+5cfe68999a92d45764b4ed84
+p:  2817.7750848567944
+5cfe7e8ee896b76cf6b4ee1b
+p:  1334.0768015936383
+5cfe829e05da571b9bb4ee2b
+p:  2426.1128286507223
+5cfeb0b3e896b76cf6b4ef41
+p:  1309.8837842894097
+5cfe6c56de6c33c764b4edaf
+p:  1426.1641469212395
+5cfe8c75476ac99e1db4ee78
+p:  1377.320852833389
+5cfeaabd616190610ab4ef66
+p:  2309.9834796142063
+5cfead3c616190610ab4ef6b
+p:  1627.3956297806924
+5cfeaa96616190610ab4ef62
+p:  2642.8109806954462
+5cfeaa8b616190610ab4ef61
+p:  2526.68163165893
+5cfe8ac9f2c6423039b4ee7e
+p:  1309.8837842894097
+5cfe8ea6476ac99e1db4ee89
+p:  1493.4502018699045
+5cfe8dd1476ac99e1db4ee7e
+p:  2426.1128286507223
+5cfe8e5c476ac99e1db4ee83
+p:  1627.3956297806924
+5cfe8e78476ac99e1db4ee84
+p:  2309.9834796142063
+5cfe8e81476ac99e1db4ee85
+p:  1743.524978817209
+5cfe8de6476ac99e1db4ee80
+p:  1309.8837842894097
+5cfe8e93476ac99e1db4ee87
+p:  1627.3956297806924
+5cfe8df5476ac99e1db4ee82
+p:  2426.1128286507223
+5cfe8ddf476ac99e1db4ee7f
+p:  2278.4482735218667
+5cfe8dc9476ac99e1db4ee7d
+p:  2642.8109806954462
+5cfe8ded476ac99e1db4ee81
+p:  1377.320852833389
+5cfe8e9d476ac99e1db4ee88
+p:  1309.8837842894097
+5cfe8e8b476ac99e1db4ee86
+p:  1594.0187607374883
+5cfea4a2476ac99e1db4ef2e
+p:  2642.8109806954462
+5cfeac0e476ac99e1db4ef65
+p:  1844.093537684792
+5cfeab40476ac99e1db4ef5a
+p:  1309.8837842894097
+5cfe983905da571b9bb4ee81
+p:  2526.68163165893
+5cfea95d9a92d45764b4ef10
+p:  2426.1128286507223
+5cfeaf199a92d45764b4ef3e
+p:  2309.9834796142063
+5cfe8d638137a97d7cb4ee90
+p:  2642.8109806954462
+5cfe8d378137a97d7cb4ee8e
+p:  2642.8109806954462
+5cfe8cec8137a97d7cb4ee8b
+p:  2642.8109806954462
+5cfe8c7a8137a97d7cb4ee86
+p:  1627.3956297806924
+5cfe8d198137a97d7cb4ee8d
+p:  1377.320852833389
+5cfe8cd28137a97d7cb4ee8a
+p:  1627.3956297806924
+5cfe9a29616190610ab4eeec
+p:  1309.8837842894097
+5cfe99d6616190610ab4eee7
+p:  2426.1128286507223
+5cfe9d568137a97d7cb4ef3f
+p:  2526.68163165893
+5cfe9d508137a97d7cb4ef3e
+p:  1309.8837842894097
+5cfe9e788137a97d7cb4ef45
+p:  1377.320852833389
+5cfe9e198137a97d7cb4ef40
+p:  2526.68163165893
+5cfe9d398137a97d7cb4ef39
+p:  1823.5123900345986
+5cfe9e818137a97d7cb4ef47
+p:  2426.1128286507223
+5cfe9a0a616190610ab4eeeb
+p:  1309.8837842894097
+5cfe99e5616190610ab4eeea
+p:  1627.3956297806924
+5cfe9a90616190610ab4eef5
+p:  2278.4482735218667
+5cfe99e0616190610ab4eee9
+p:  1309.8837842894097
+5cfeb46904a0f9c1ceb4ef59
+p:  1844.093537684792
+5cfe82137b1a6e6ebfb4ee22
+p:  1377.320852833389
+5cfe83df7b1a6e6ebfb4ee35
+p:  1377.320852833389
+5cfe94a59a92d45764b4eea3
+p:  1334.0768015936383
+5cfe94b6f2c6423039b4eebe
+p:  1309.8837842894097
+5cfe9998f3869ce6ebb4eebf
+p:  1309.8837842894097
+5cfe99619a92d45764b4eebf
+p:  2642.8109806954462
+5cfe81c904a0f9c1ceb4edd9
+p:  1353.1278355291602
+5cfe8079de6c33c764b4ee31
+p:  1309.8837842894097
+5cfe801bde6c33c764b4ee2d
+p:  2309.9834796142063
+5cfe7ffcde6c33c764b4ee2a
+p:  1627.3956297806924
+5cfe8055de6c33c764b4ee2f
+p:  1309.8837842894097
+5cfe8036de6c33c764b4ee2e
+p:  2309.9834796142063
+5cfe8004de6c33c764b4ee2b
+p:  2642.8109806954462
+5cfe7fddde6c33c764b4ee28
+p:  1309.8837842894097
+5cfe7e86de6c33c764b4ee26
+p:  1353.1278355291602
+5cfe7e8ade6c33c764b4ee27
+p:  1627.3956297806924
+5cfe8069de6c33c764b4ee30
+p:  1595.860507287644
+5cfe954ade6c33c764b4eec6
+p:  2426.1128286507223
+5cfe9326de6c33c764b4eeb7
+p:  2526.68163165893
+5cfea3f08137a97d7cb4ef65
+p:  1594.0187607374883
+5cfea5478137a97d7cb4ef6d
+p:  1353.1278355291602
+5cfea3718137a97d7cb4ef62
+p:  2426.1128286507223
+5cfe865ef2c6423039b4ee59
+p:  1309.8837842894097
+5cfe8655f2c6423039b4ee58
+p:  1627.3956297806924
+5cfe89158137a97d7cb4ee61
+p:  2642.8109806954462
+5cfe816f616190610ab4ee35
+p:  1334.0768015936383
+5cfe74efe896b76cf6b4ede0
+p:  2817.7750848567944
+5cfe8db69ed1a05fb8b4ee58
+p:  2426.1128286507223
+5cfeaae19ed1a05fb8b4ef18
+p:  1334.0768015936383
+5cfe81e4616190610ab4ee3d
+p:  1377.320852833389
+5cfeaa4c9ed1a05fb8b4ef11
+p:  1309.8837842894097
+5cfeaa9105da571b9bb4eeca
+p:  1377.320852833389
+5cfeaa8c9ed1a05fb8b4ef14
+p:  1334.0768015936383
+5cfeae92476ac99e1db4ef85
+p:  1627.3956297806924
+5cfea670616190610ab4ef41
+p:  1844.093537684792
+5cfe6690df6acbbb9ab4ed79
+p:  2607.5779993045726
+5cfeaa639ed1a05fb8b4ef13
+p:  1844.093537684792
+5cfeaa5c9ed1a05fb8b4ef12
+p:  1334.0768015936383
+5cfead74476ac99e1db4ef7a
+p:  1309.8837842894097
+5cfeaf4d476ac99e1db4ef92
+p:  1594.0187607374883
+5cfe7b7e56dc77779ab4ede9
+p:  2600.383647603114
+5cfead7a476ac99e1db4ef7b
+p:  1309.8837842894097
+5cfead8356dc77779ab4eeeb
+p:  1627.3956297806924
+5cfead9b56dc77779ab4eeee
+p:  1627.3956297806924
+5cfeace5f2c6423039b4ef58
+p:  1334.0768015936383
+5cfe90cd476ac99e1db4eea6
+p:  1595.860507287644
+5cfead01476ac99e1db4ef72
+p:  1334.0768015936383
+5cfe66e78137a97d7cb4ed7c
+p:  2593.77042513166
+5cfe671e04a0f9c1ceb4ed75
+p:  2213.7708264409657
+5cfea184616190610ab4ef29
+p:  2642.8109806954462
+5cfeac1ff2c6423039b4ef53
+p:  2426.1128286507223
+5cfe94f77b1a6e6ebfb4eea2
+p:  1627.3956297806924
+5cfe97207b1a6e6ebfb4eeb6
+p:  1960.2228867213078
+5cfe96b17b1a6e6ebfb4eeb0
+p:  1627.3956297806924
+5cfe95a67b1a6e6ebfb4eeab
+p:  1791.977206506394
+5cfe95077b1a6e6ebfb4eea5
+p:  1377.320852833389
+5cfe95987b1a6e6ebfb4eea8
+p:  1377.320852833389
+5cfe94fd7b1a6e6ebfb4eea3
+p:  1309.8837842894097
+5cfe94ee7b1a6e6ebfb4eea0
+p:  2526.68163165893
+5cfe95aa7b1a6e6ebfb4eeac
+p:  1431.2372595696302
+5cfe95a17b1a6e6ebfb4eeaa
+p:  1334.0768015936383
+5cfe991b9ed1a05fb8b4ee9b
+p:  2526.68163165893
+5cfead6856dc77779ab4eee9
+p:  1627.3956297806924
+5cfead0356dc77779ab4eee8
+p:  2426.1128286507223
+5cfe96d97b1a6e6ebfb4eeb3
+p:  2278.4482735218667
+5cfe95867b1a6e6ebfb4eea6
+p:  2278.4482735218667
+5cfe94f27b1a6e6ebfb4eea1
+p:  2642.8109806954462
+5cfe96c17b1a6e6ebfb4eeb1
+p:  2526.68163165893
+5cfe96737b1a6e6ebfb4eead
+p:  1627.3956297806924
+5cfe97057b1a6e6ebfb4eeb5
+p:  1309.8837842894097
+5cfe96ec7b1a6e6ebfb4eeb4
+p:  1377.320852833389
+5cfe96a47b1a6e6ebfb4eeaf
+p:  1309.8837842894097
+5cfe9f1bdf6acbbb9ab4eed3
+p:  1844.093537684792
+5cfe882dde6c33c764b4ee73
+p:  1309.8837842894097
+5cfe9fffde6c33c764b4ef0d
+p:  1627.3956297806924
+5cfea058de6c33c764b4ef11
+p:  1353.1278355291602
+5cfe825956dc77779ab4ee05
+p:  1353.1278355291602
+5cfe7fdc56dc77779ab4edfb
+p:  1627.3956297806924
+5cfea663616190610ab4ef3e
+p:  1844.093537684792
+5cfe947b8137a97d7cb4eeea
+p:  2426.1128286507223
+5cfe94dd8137a97d7cb4eeef
+p:  2309.9834796142063
+5cfe73208137a97d7cb4edce
+p:  2668.0026341486137
+5cfe6b0d616190610ab4ed97
+p:  2803.9675106838818
+5cfe669adf6acbbb9ab4ed7a
+p:  1639.957225747146
+5cfe6532f2c6423039b4ed70
+p:  1807.4572247754627
+5cfe7b69df6acbbb9ab4ee24
+p:  1600.1171514221633
+5cfe7b9fdf6acbbb9ab4ee25
+p:  2570.3698410787492
+5cfe7ae9df6acbbb9ab4ee1d
+p:  1360.7880203884783
+5cfe789adf6acbbb9ab4ee13
+p:  1404.032071628229
+5cfe78b7df6acbbb9ab4ee18
+p:  1872.9113177955637
+5cfe78afdf6acbbb9ab4ee16
+p:  2664.276989689392
+5cfe7782df6acbbb9ab4ee0b
+p:  1404.032071628229
+5cfe78badf6acbbb9ab4ee19
+p:  2664.276989689392
+5cfe7b5adf6acbbb9ab4ee22
+p:  2664.276989689392
+5cfe78c0df6acbbb9ab4ee1a
+p:  1360.7880203884783
+5cfe7a0004a0f9c1ceb4edbd
+p:  1655.5201246825081
+5cfeb042de6c33c764b4ef72
+p:  2426.1128286507223
+5cfe9847df6acbbb9ab4eeb9
+p:  1595.860507287644
+5cfe79399a92d45764b4edfd
+p:  2817.7750848567944
+5cfe7c39616190610ab4ee19
+p:  1627.3956297806924
+5cfeae6c04a0f9c1ceb4ef1f
+p:  1594.0187607374883
+5cfe8c8a616190610ab4ee90
+p:  1334.0768015936383
+5cfe775056dc77779ab4edbd
+p:  1639.957225747146
+5cfea92f8137a97d7cb4ef7e
+p:  1627.3956297806924
+5cfe982a8137a97d7cb4ef1d
+p:  1743.524978817209
+5cfe953e05da571b9bb4ee75
+p:  1309.8837842894097
+5cfe98299a92d45764b4eeb8
+p:  1377.320852833389
+5cfe6f2d9ed1a05fb8b4ed9e
+p:  1358.7270783772603
+5cfe87677b1a6e6ebfb4ee63
+p:  1627.3956297806924
+5cfe961356dc77779ab4ee6e
+p:  1627.3956297806924
+5cfe8891476ac99e1db4ee48
+p:  1627.3956297806924
+5cfe95fe56dc77779ab4ee6b
+p:  2309.9834796142063
+5cfeaefdde6c33c764b4ef65
+p:  2426.1128286507223
+5cfe67e956dc77779ab4ed7b
+p:  2457.805548596392
+5cfe7705f2c6423039b4edfc
+p:  2817.7750848567944
+5cfea974f2c6423039b4ef3d
+p:  1334.0768015936383
+5cfea844f2c6423039b4ef3a
+p:  1334.0768015936383
+5cfea9aef2c6423039b4ef41
+p:  1627.3956297806924
+5cfe8ff2476ac99e1db4ee97
+p:  1309.8837842894097
+5cfe6df6f3869ce6ebb4edad
+p:  1426.1641469212395
+5cfeacad476ac99e1db4ef6a
+p:  1377.320852833389
+5cfe7f05f2c6423039b4ee20
+p:  2227.5784006138783
+5cfe6ce105da571b9bb4edb8
+p:  2817.7750848567944
+5cfea808f2c6423039b4ef38
+p:  1353.1278355291602
+5cfea98bf2c6423039b4ef3f
+p:  1627.3956297806924
+5cfea1c4616190610ab4ef2c
+p:  1377.320852833389
+5cfe9bafe896b76cf6b4eee7
+p:  1594.0187607374883
+5cfea04ade6c33c764b4ef10
+p:  1627.3956297806924
+5cfeae66616190610ab4ef71
+p:  1627.3956297806924
+5cfea015de6c33c764b4ef0e
+p:  2040.2102979386982
+5cfe7e81df6acbbb9ab4ee43
+p:  2642.8109806954462
+5cfeaaea9ed1a05fb8b4ef1a
+p:  1309.8837842894097
+5cfe9d4d476ac99e1db4ef0a
+p:  1377.320852833389
+5cfe8efe7b1a6e6ebfb4ee7c
+p:  2426.1128286507223
+5cfe90758137a97d7cb4eeb9
+p:  2642.8109806954462
+5cfe9f5adf6acbbb9ab4eed4
+p:  1367.616788165879
+5cfe9dcf9a92d45764b4eed8
+p:  1377.320852833389
+5cfe9ccc9a92d45764b4eed2
+p:  1377.320852833389
+5cfe9bfd9a92d45764b4eecf
+p:  1377.320852833389
+5cfe9cad9a92d45764b4eed0
+p:  2526.68163165893
+5cfe9dd79a92d45764b4eed9
+p:  1627.3956297806924
+5cfe9daa9a92d45764b4eed7
+p:  1377.320852833389
+5cfe9def9a92d45764b4eeda
+p:  2278.4482735218667
+5cfe9d659a92d45764b4eed5
+p:  1710.1481097740038
+5cfe9d839a92d45764b4eed6
+p:  1377.320852833389
+5cfe9e859a92d45764b4eede
+p:  1377.320852833389
+5cfe6fdb7b1a6e6ebfb4edbd
+p:  2457.805548596392
+5cfe960c04a0f9c1ceb4ee54
+p:  1627.3956297806924
+5cfe939af2c6423039b4eeb8
+p:  1309.8837842894097
+5cfe93c6f2c6423039b4eeba
+p:  2642.8109806954462
+5cfe9219f2c6423039b4eeb3
+p:  1627.3956297806924
+5cfe9259f2c6423039b4eeb5
+p:  1595.860507287644
+5cfe93d7f2c6423039b4eebb
+p:  1627.3956297806924
+5cfe849f7b1a6e6ebfb4ee3e
+p:  1627.3956297806924
+5cfe83057b1a6e6ebfb4ee2c
+p:  1377.320852833389
+5cfe9476f3869ce6ebb4ee9e
+p:  2426.1128286507223
+5cfe887f476ac99e1db4ee47
+p:  2642.8109806954462
+5cfeaadc9ed1a05fb8b4ef17
+p:  1334.0768015936383
+5cfeacb256dc77779ab4eede
+p:  1309.8837842894097
+5cfea087616190610ab4ef22
+p:  2642.8109806954462
+5cfe665a8137a97d7cb4ed74
+p:  2593.77042513166
+5cfe9a44616190610ab4eeef
+p:  1594.0187607374883
+5cfe9a4f616190610ab4eef0
+p:  1309.8837842894097
+5cfe9a82616190610ab4eef4
+p:  2309.9834796142063
+5cfe9ab5616190610ab4eef8
+p:  1377.320852833389
+5cfe87d7de6c33c764b4ee6e
+p:  1309.8837842894097
+5cfe9a3c616190610ab4eeee
+p:  1377.320852833389
+5cfea25904a0f9c1ceb4eeb4
+p:  1377.320852833389
+5cfe95429a92d45764b4eea8
+p:  1334.0768015936383
+5cfe957f9a92d45764b4eeab
+p:  1627.3956297806924
+5cfe6a84476ac99e1db4ed9e
+p:  2607.5779993045726
+5cfeacfd9ed1a05fb8b4ef22
+p:  1334.0768015936383
+5cfe8bf89a92d45764b4ee72
+p:  2309.9834796142063
+5cfe9d9d04a0f9c1ceb4ee94
+p:  1627.3956297806924
+5cfe701f616190610ab4edc3
+p:  2457.805548596392
+5cfe724b616190610ab4edce
+p:  1671.4923482401946
+5cfe72a0616190610ab4edd2
+p:  1671.4923482401946
+5cfe6fd5616190610ab4edbf
+p:  1821.2647989483753
+5cfe6e9f616190610ab4edb8
+p:  1821.2647989483753
+5cfe97358137a97d7cb4ef13
+p:  1309.8837842894097
+5cfe6cd3616190610ab4eda9
+p:  1821.2647989483753
+5cfe956a616190610ab4eec7
+p:  1309.8837842894097
+5cfe9598616190610ab4eecd
+p:  2526.68163165893
+5cfe9d4c8137a97d7cb4ef3d
+p:  1334.0768015936383
+5cfe8ac3f2c6423039b4ee7d
+p:  1309.8837842894097
+5cfe8aa2f2c6423039b4ee7c
+p:  1334.0768015936383
+5cfe816bdf6acbbb9ab4ee5f
+p:  1377.320852833389
+5cfe95808137a97d7cb4eef9
+p:  2426.1128286507223
+5cfe9e039a92d45764b4eedb
+p:  1377.320852833389
+5cfe9f7305da571b9bb4ee9e
+p:  1309.8837842894097
+5cfe9e56616190610ab4ef07
+p:  1309.8837842894097
+5cfe9e92616190610ab4ef0b
+p:  1627.3956297806924
+5cfe650f8c3b626e9a68c6c1
+p:  1639.957225747146
+5cfe9bb804a0f9c1ceb4ee85
+p:  1595.860507287644
+5cfe72a69ed1a05fb8b4edba
+p:  1358.7270783772603
+5cfe9ca4f2c6423039b4eee7
+p:  1377.320852833389
+5cfe9acb7b1a6e6ebfb4eed6
+p:  1377.320852833389
+5cfe9bc87b1a6e6ebfb4eee3
+p:  2526.68163165893
+5cfeaa43f2c6423039b4ef43
+p:  1309.8837842894097
+5cfe7e77df6acbbb9ab4ee42
+p:  1627.3956297806924
+5cfe93ba9a92d45764b4ee9e
+p:  1844.093537684792
+5cfe93239a92d45764b4ee98
+p:  2526.68163165893
+5cfe6ac18137a97d7cb4ed9b
+p:  1671.4923482401946
+5cfe707a9ed1a05fb8b4edad
+p:  2607.5779993045726
+5cfe7647df6acbbb9ab4ee06
+p:  2817.7750848567944
+5cfe74eddf6acbbb9ab4edf7
+p:  2817.7750848567944
+5cfe7596df6acbbb9ab4edfe
+p:  2817.7750848567944
+5cfe6a5ee896b76cf6b4ed95
+p:  1534.2139459576433
+5cfe6931e896b76cf6b4ed8d
+p:  1639.957225747146
+5cfe6881e896b76cf6b4ed88
+p:  1426.1641469212395
+5cfe6861f2c6423039b4ed8c
+p:  2817.7750848567944
+5cfe6a93f2c6423039b4ed99
+p:  2607.5779993045726
+5cfe76a7616190610ab4edff
+p:  2817.7750848567944
+5cfe76b8616190610ab4ee00
+p:  2817.7750848567944
+5cfe6a27476ac99e1db4ed97
+p:  1426.1641469212395
+5cfe6accf3869ce6ebb4ed9b
+p:  2577.5641927802076
+5cfe6a1cf3869ce6ebb4ed92
+p:  2607.5779993045726
+5cfe690df3869ce6ebb4ed83
+p:  2668.0026341486137
+5cfe6e84de6c33c764b4edc0
+p:  2607.5779993045726
+5cfe6e69de6c33c764b4edbe
+p:  1401.9711296170108
+5cfe6c1e04a0f9c1ceb4ed88
+p:  1639.957225747146
+5cfe772505da571b9bb4edfb
+p:  2817.7750848567944
+5cfe6f9a9a92d45764b4edb7
+p:  2457.805548596392
+5cfe7a06476ac99e1db4edde
+p:  1821.2647989483753
+5cfe6f1e476ac99e1db4edb1
+p:  2668.0026341486137
+5cfe6ed8476ac99e1db4edb0
+p:  1821.2647989483753
+5cfe68117b1a6e6ebfb4ed80
+p:  2607.5779993045726
+5cfe728356dc77779ab4eda5
+p:  1821.2647989483753
+5cfe6fe956dc77779ab4ed92
+p:  1821.2647989483753
+5cfe6fb47b1a6e6ebfb4edb8
+p:  1426.1641469212395
+5cfe73ca7b1a6e6ebfb4edc4
+p:  2668.0026341486137
+5cfe75969a92d45764b4ede1
+p:  1358.7270783772603
+5cfe73059a92d45764b4edca
+p:  1768.5300523976266
+5cfe743e9a92d45764b4edd5
+p:  2607.5779993045726
+5cfe65113c3638f2d968c6c1
+p:  1426.1641469212395
+5cfe699b04a0f9c1ceb4ed7f
+p:  2443.9979744234793
+5cfe655e04a0f9c1ceb4ed6e
+p:  1369.1125215085767
+5cfe684ddf6acbbb9ab4ed8f
+p:  2607.5779993045726
+5cfe6921df6acbbb9ab4ed9e
+p:  2817.7750848567944
+5cfe680edf6acbbb9ab4ed8a
+p:  2817.7750848567944
+5cfe6d73df6acbbb9ab4edc8
+p:  2607.5779993045726
+5cfe6ef2df6acbbb9ab4edcf
+p:  1358.7270783772603
+5cfe6b1005da571b9bb4edad
+p:  2817.7750848567944
+5cfe66ec8137a97d7cb4ed7d
+p:  1369.1125215085767
+5cfe6528dbd2684f6d68c6c2
+p:  1344.919504204348
+5cfe65f105da571b9bb4ed81
+p:  2803.9675106838818
+5cfe64c705da571b9bb4ed6f
+p:  2803.9675106838818
+5cfe6d23616190610ab4edad
+p:  1671.4923482401946
+5cfe7017616190610ab4edc2
+p:  1821.2647989483753
+5cfe6d35616190610ab4edae
+p:  2607.5779993045726
+5cfe6e868137a97d7cb4edbb
+p:  1401.9711296170108
+5cfe76a68137a97d7cb4ede5
+p:  2817.7750848567944
+5cfe6f4d8137a97d7cb4edc1
+p:  1671.4923482401946
+5cfe6f028137a97d7cb4edbd
+p:  2607.5779993045726
+5cfe77138137a97d7cb4edec
+p:  1821.2647989483753
+5cfe754b8137a97d7cb4eddd
+p:  2607.5779993045726
+5cfe6ec48137a97d7cb4edbc
+p:  2668.0026341486137
+5cfe73048137a97d7cb4edcb
+p:  2607.5779993045726
+5cfe6f1ae896b76cf6b4edb1
+p:  2426.2703425040536
+5cfe6fc2f3869ce6ebb4edc0
+p:  1821.2647989483753
+5cfe7fb9f2c6423039b4ee25
+p:  2607.5779993045726
+5cfe7f21f2c6423039b4ee23
+p:  2668.0026341486137
+5cfe6c14616190610ab4eda0
+p:  2412.462768331141
+5cfe660d616190610ab4ed6e
+p:  2443.9979744234793
+5cfe6b90616190610ab4ed99
+p:  2593.77042513166
+5cfe666d616190610ab4ed72
+p:  2443.9979744234793
+5cfe64b7de6c33c764b4ed6d
+p:  2593.77042513166
+5cfe6accf2c6423039b4ed9d
+p:  2607.5779993045726
+5cfe6e919ed1a05fb8b4ed9a
+p:  1821.2647989483753
+5cfe6e649ed1a05fb8b4ed99
+p:  2607.5779993045726
+5cfe6a8df3869ce6ebb4ed99
+p:  1821.2647989483753
+5cfe6d11f3869ce6ebb4edaa
+p:  1821.2647989483753
+5cfe6caef3869ce6ebb4eda6
+p:  2817.7750848567944
+5cfe6e439ed1a05fb8b4ed98
+p:  1821.2647989483753
+5cfe6e2a9ed1a05fb8b4ed97
+p:  2017.3815592022816
+5cfe729a616190610ab4edd1
+p:  1671.4923482401946
+5cfe7229616190610ab4edcc
+p:  1671.4923482401946
+5cfe682d616190610ab4ed7b
+p:  1807.4572247754627
+5cfe6c78616190610ab4eda5
+p:  2817.7750848567944
+5cfe97cadf6acbbb9ab4eeb7
+p:  1334.0768015936383
+5cfea7497b1a6e6ebfb4ef3c
+p:  1309.8837842894097
+5cfea7767b1a6e6ebfb4ef3d
+p:  1451.727550198128
+5cfeab8204a0f9c1ceb4ef0c
+p:  1309.8837842894097
+5cfea17656dc77779ab4eeb9
+p:  2642.8109806954462
+5cfe672856dc77779ab4ed77
+p:  2457.805548596392
+5cfe84b9f3869ce6ebb4ee37
+p:  1309.8837842894097
+5cfe7289e896b76cf6b4edcb
+p:  2817.7750848567944
+5cfe710ae896b76cf6b4edbd
+p:  1671.4923482401946
+5cfea938df6acbbb9ab4eefa
+p:  1309.8837842894097
+5cfe87b6de6c33c764b4ee6d
+p:  1309.8837842894097
+5cfe67489ed1a05fb8b4ed70
+p:  1426.1641469212395
+5cfe78f656dc77779ab4edca
+p:  2817.7750848567944
+5cfeab9704a0f9c1ceb4ef0f
+p:  2642.8109806954462
+5cfea5dade6c33c764b4ef24
+p:  2309.9834796142063
+5cfe9559616190610ab4eec5
+p:  2642.8109806954462
+5cfe996c476ac99e1db4eedd
+p:  2642.8109806954462
+5cfe6e91476ac99e1db4edae
+p:  2607.5779993045726
+5cfea5dfde6c33c764b4ef25
+p:  1377.320852833389
+5cfe65d2de6c33c764b4ed7d
+p:  1821.2647989483753
+5cfe8d788137a97d7cb4ee91
+p:  1309.8837842894097
+5cfe9809df6acbbb9ab4eeb8
+p:  2526.68163165893
+5cfe64828137a97d7cb4ed6d
+p:  1754.7224782247145
+5cfe8decf3869ce6ebb4ee64
+p:  2642.8109806954462
+5cfe96b4de6c33c764b4eece
+p:  1309.8837842894097
+5cfe95e8616190610ab4eece
+p:  2426.1128286507223
+5cfe9697de6c33c764b4eecd
+p:  2642.8109806954462
+5cfe9363476ac99e1db4eebd
+p:  2642.8109806954462
+5cfe6519dbd2684f6d68c6c1
+p:  2803.9675106838818
+5cfe9686de6c33c764b4eecc
+p:  2642.8109806954462
+5cfe9707df6acbbb9ab4eeb4
+p:  2426.1128286507223
+5cfe90a99ed1a05fb8b4ee65
+p:  2426.1128286507223
+5cfe8f5f8137a97d7cb4eeab
+p:  2526.68163165893
+5cfe8f848137a97d7cb4eeac
+p:  1353.1278355291602
+5cfe8f4756dc77779ab4ee3e
+p:  1309.8837842894097
+5cfe8f4e56dc77779ab4ee3f
+p:  2278.4482735218667
+5cfe965ede6c33c764b4eecb
+p:  2426.1128286507223
+5cfe9120f2c6423039b4eeaf
+p:  2642.8109806954462
+5cfe90db8137a97d7cb4eebd
+p:  2309.9834796142063
+5cfe8f978137a97d7cb4eead
+p:  1334.0768015936383
+5cfe90c3f3869ce6ebb4ee7c
+p:  1309.8837842894097
+5cfe97437b1a6e6ebfb4eeb8
+p:  2642.8109806954462
+5cfe914ef2c6423039b4eeb0
+p:  1309.8837842894097
+5cfe8eb6476ac99e1db4ee8a
+p:  1309.8837842894097
+5cfe6d369a92d45764b4eda8
+p:  2817.7750848567944
+5cfe90f3de6c33c764b4eead
+p:  2426.1128286507223
+5cfe8fa98137a97d7cb4eeae
+p:  1472.9599112414066
+5cfe82b6de6c33c764b4ee44
+p:  2642.8109806954462
+5cfe9b0b56dc77779ab4ee8d
+p:  1377.320852833389
+5cfe936b476ac99e1db4eebe
+p:  1309.8837842894097
+5cfe7fe58137a97d7cb4ee24
+p:  1309.8837842894097
+5cfe8d059ed1a05fb8b4ee4b
+p:  1960.2228867213078
+5cfe8ec0476ac99e1db4ee8b
+p:  1960.2228867213078
+5cfe692fde6c33c764b4ed96
+p:  1671.4923482401946
+5cfe8ec9476ac99e1db4ee8c
+p:  2309.9834796142063
+5cfe87ad05da571b9bb4ee3f
+p:  1627.3956297806924
+5cfe9983476ac99e1db4eedf
+p:  1334.0768015936383
+5cfe8cc8f2c6423039b4ee8b
+p:  2426.1128286507223
+5cfe87ec05da571b9bb4ee40
+p:  1353.1278355291602
+5cfe7cb5616190610ab4ee1e
+p:  1627.3956297806924
+5cfe65d8de6c33c764b4ed7e
+p:  2457.805548596392
+5cfe7ff98137a97d7cb4ee25
+p:  2309.9834796142063
+5cfeaea77b1a6e6ebfb4ef66
+p:  1309.8837842894097
+5cfe82bcde6c33c764b4ee45
+p:  2426.1128286507223
+5cfe651f04a0f9c1ceb4ed6d
+p:  1807.4572247754627
+5cfe7bef476ac99e1db4ede3
+p:  1377.320852833389
+5cfe874e9ed1a05fb8b4ee1f
+p:  1377.320852833389
+5cfea07f7b1a6e6ebfb4ef0d
+p:  2642.8109806954462
+5cfe656cdf6acbbb9ab4ed6e
+p:  2817.7750848567944
+5cfe7d70e896b76cf6b4ee0e
+p:  1377.320852833389
+5cfe65d89a92d45764b4ed79
+p:  1639.957225747146
+5cfe713ef3869ce6ebb4edd0
+p:  2457.805548596392
+5cfe6a9b05da571b9bb4eda1
+p:  1358.7270783772603
+5cfe6571df6acbbb9ab4ed6f
+p:  1426.1641469212395
+5cfe6f3b476ac99e1db4edb2
+p:  2817.7750848567944
+5cfe84928137a97d7cb4ee47
+p:  1309.8837842894097
+5cfe816c7b1a6e6ebfb4ee1a
+p:  1595.860507287644
+5cfeac0804a0f9c1ceb4ef10
+p:  1309.8837842894097
+5cfe6aa005da571b9bb4eda2
+p:  2457.805548596392
+5cfe7afe9ed1a05fb8b4eddf
+p:  1379.8390543240002
+5cfe85058137a97d7cb4ee48
+p:  1334.0768015936383
+5cfe89ab8137a97d7cb4ee67
+p:  2426.1128286507223
+5cfe8f847b1a6e6ebfb4ee81
+p:  2642.8109806954462
+5cfe7be87b1a6e6ebfb4edf2
+p:  2309.9834796142063
+5cfe6efdf2c6423039b4edc4
+p:  2817.7750848567944
+5cfe821f9a92d45764b4ee2f
+p:  1334.0768015936383
+5cfea3d39ed1a05fb8b4eee4
+p:  1595.860507287644
+5cfe799056dc77779ab4edcb
+p:  1872.9113177955637
+5cfea630f2c6423039b4ef2f
+p:  1353.1278355291602
+5cfe755d56dc77779ab4edb3
+p:  2607.5779993045726
+5cfe8d057b1a6e6ebfb4ee73
+p:  1334.0768015936383
+5cfe82c6de6c33c764b4ee46
+p:  1960.2228867213078
+5cfe7bacde6c33c764b4edff
+p:  1404.032071628229
+5cfe7295e896b76cf6b4edcd
+p:  1821.2647989483753
+5cfe7389e896b76cf6b4edd1
+p:  2817.7750848567944
+5cfe7369e896b76cf6b4edce
+p:  2607.5779993045726
+5cfe737ce896b76cf6b4edcf
+p:  1671.4923482401946
+5cfe7383e896b76cf6b4edd0
+p:  2817.7750848567944
+5cfe8cfa9a92d45764b4ee77
+p:  1627.3956297806924
+5cfe67c77b1a6e6ebfb4ed7c
+p:  1671.4923482401946
+5cfe7144f3869ce6ebb4edd1
+p:  1382.9200956814889
+5cfe963a04a0f9c1ceb4ee57
+p:  1309.8837842894097
+5cfea7fdf3869ce6ebb4eeea
+p:  1594.0187607374883
+5cfeac1004a0f9c1ceb4ef12
+p:  1334.0768015936383
+5cfe94ac9ed1a05fb8b4ee7e
+p:  1309.8837842894097
+5cfe876c9ed1a05fb8b4ee20
+p:  1334.0768015936383
+5cfe65dfde6c33c764b4ed7f
+p:  1426.1641469212395
+5cfeac1604a0f9c1ceb4ef13
+p:  1594.0187607374883
+5cfe6fba476ac99e1db4edb5
+p:  2607.5779993045726
+5cfe7bb2de6c33c764b4ee00
+p:  1655.5201246825081
+5cfea5ebde6c33c764b4ef27
+p:  2642.8109806954462
+5cfe6758de6c33c764b4ed8c
+p:  1358.7270783772603
+5cfe6e558137a97d7cb4edba
+p:  1426.1641469212395
+5cfe9e139ed1a05fb8b4eec8
+p:  1309.8837842894097
+5cfe6fd056dc77779ab4ed91
+p:  2668.0026341486137
+5cfeae5f616190610ab4ef70
+p:  2278.4482735218667
+5cfe772a8137a97d7cb4edee
+p:  1600.1171514221633
+5cfe7b5f9a92d45764b4ee0e
+p:  2642.8109806954462
+5cfeab6a56dc77779ab4eed4
+p:  2309.9834796142063
+5cfe952a9ed1a05fb8b4ee81
+p:  1353.1278355291602
+5cfe9fc0f3869ce6ebb4eed3
+p:  1377.320852833389
+5cfe99c4476ac99e1db4eee4
+p:  2526.68163165893
+5cfe91c9f2c6423039b4eeb1
+p:  1309.8837842894097
+5cfe6c5f04a0f9c1ceb4ed89
+p:  1426.1641469212395
+5cfe89b88137a97d7cb4ee68
+p:  2309.9834796142063
+5cfea260de6c33c764b4ef17
+p:  2426.1128286507223
+5cfe70eff2c6423039b4edda
+p:  2817.7750848567944
+5cfeacbbf3869ce6ebb4ef13
+p:  1627.3956297806924
+5cfeac1c04a0f9c1ceb4ef14
+p:  1309.8837842894097
+5cfe667e9a92d45764b4ed7d
+p:  1881.6891896517916
+5cfe8f29f3869ce6ebb4ee6c
+p:  2426.1128286507223
+5cfe7bf7616190610ab4ee17
+p:  1309.8837842894097
+5cfe8c4e56dc77779ab4ee2b
+p:  2426.1128286507223
+5cfe7168476ac99e1db4edb7
+p:  2607.5779993045726
+5cfea6fede6c33c764b4ef29
+p:  2309.9834796142063
+5cfea50a9a92d45764b4ef08
+p:  2278.4482735218667
+5cfe66979a92d45764b4ed7e
+p:  1358.7270783772603
+5cfe9156616190610ab4ee92
+p:  1309.8837842894097
+5cfe6ae58137a97d7cb4ed9c
+p:  1426.1641469212395
+5cfe6cdd04a0f9c1ceb4ed8b
+p:  1671.4923482401946
+5cfe6c9e04a0f9c1ceb4ed8a
+p:  1358.7270783772603
+5cfe7173476ac99e1db4edb8
+p:  1426.1641469212395
+5cfe90bb9ed1a05fb8b4ee66
+p:  1595.860507287644
+5cfe700756dc77779ab4ed94
+p:  2668.0026341486137
+5cfe7bbade6c33c764b4ee01
+p:  1404.032071628229
+5cfe9976e896b76cf6b4eed5
+p:  2526.68163165893
+5cfea9f8df6acbbb9ab4eefd
+p:  1377.320852833389
+5cfe965af2c6423039b4eec7
+p:  1377.320852833389
+5cfea6d304a0f9c1ceb4eed9
+p:  1377.320852833389
+5cfe6d1d04a0f9c1ceb4ed8c
+p:  1401.9711296170108
+5cfe6fe3e896b76cf6b4edb4
+p:  1426.1641469212395
+5cfe929ff3869ce6ebb4ee85
+p:  1595.860507287644
+5cfe8da48137a97d7cb4ee93
+p:  1823.5123900345986
+5cfea294de6c33c764b4ef18
+p:  2426.1128286507223
+5cfe9223f3869ce6ebb4ee84
+p:  1627.3956297806924
+5cfe89c98137a97d7cb4ee69
+p:  1353.1278355291602
+5cfe6d5d04a0f9c1ceb4ed8d
+p:  2668.0026341486137
+5cfe6a6b476ac99e1db4ed9a
+p:  1555.4463070009217
+5cfe7165f3869ce6ebb4edd2
+p:  1426.1641469212395
+5cfe679a476ac99e1db4ed87
+p:  1426.1641469212395
+5cfe78aadf6acbbb9ab4ee15
+p:  1404.032071628229
+5cfe9ff2f3869ce6ebb4eed4
+p:  1309.8837842894097
+5cfe8108df6acbbb9ab4ee59
+p:  1309.8837842894097
+5cfe6b0c8137a97d7cb4ed9d
+p:  1426.1641469212395
+5cfe93159a92d45764b4ee97
+p:  1377.320852833389
+5cfe81898137a97d7cb4ee36
+p:  1309.8837842894097
+5cfe6e2b9a92d45764b4edad
+p:  1426.1641469212395
+5cfe6da6e896b76cf6b4ed9d
+p:  1426.1641469212395
+5cfea899476ac99e1db4ef49
+p:  1309.8837842894097
+5cfe6971de6c33c764b4ed98
+p:  1382.9200956814889
+5cfea8097b1a6e6ebfb4ef40
+p:  1595.860507287644
+5cfe82ef476ac99e1db4ee0c
+p:  1627.3956297806924
+5cfe93fe05da571b9bb4ee70
+p:  2426.1128286507223
+5cfe66b29a92d45764b4ed7f
+p:  1401.9711296170108
+5cfe86be04a0f9c1ceb4edec
+p:  1743.524978817209
+5cfe82d9476ac99e1db4ee0b
+p:  2426.1128286507223
+5cfe855df3869ce6ebb4ee38
+p:  1334.0768015936383
+5cfe8ea704a0f9c1ceb4ee18
+p:  2526.68163165893
+5cfe717d476ac99e1db4edb9
+p:  1615.054875013716
+5cfe67b0476ac99e1db4ed88
+p:  1358.7270783772603
+5cfea820f3869ce6ebb4eeeb
+p:  1309.8837842894097
+5cfe9e1a9ed1a05fb8b4eec9
+p:  1353.1278355291602
+5cfe9439e896b76cf6b4eeb3
+p:  1377.320852833389
+5cfea4827b1a6e6ebfb4ef31
+p:  1572.712647418366
+5cfea427df6acbbb9ab4eee6
+p:  1595.860507287644
+5cfe8122de6c33c764b4ee34
+p:  1309.8837842894097
+5cfe8ad7f2c6423039b4ee80
+p:  1844.093537684792
+5cfe7238476ac99e1db4edbc
+p:  1382.9200956814889
+5cfe69a8de6c33c764b4ed99
+p:  1636.3609883328377
+5cfe92c1f3869ce6ebb4ee86
+p:  1309.8837842894097
+5cfe99e5476ac99e1db4eee7
+p:  1309.8837842894097
+5cfe9bc456dc77779ab4ee97
+p:  1377.320852833389
+5cfe7c929ed1a05fb8b4edeb
+p:  1353.1278355291602
+5cfea70dde6c33c764b4ef2a
+p:  1844.093537684792
+5cfe8581f3869ce6ebb4ee39
+p:  2526.68163165893
+5cfe858ef3869ce6ebb4ee3a
+p:  1353.1278355291602
+5cfeadd09ed1a05fb8b4ef27
+p:  1309.8837842894097
+5cfe968c476ac99e1db4eed5
+p:  1627.3956297806924
+5cfe8ae0f2c6423039b4ee81
+p:  1595.860507287644
+5cfe946a9ed1a05fb8b4ee7a
+p:  1627.3956297806924
+5cfe9ae004a0f9c1ceb4ee81
+p:  1627.3956297806924
+5cfe8d82f2c6423039b4ee91
+p:  2156.3396469752142
+5cfe8593f3869ce6ebb4ee3b
+p:  1377.320852833389
+5cfe7277476ac99e1db4edbe
+p:  2817.7750848567944
+5cfe6e21f2c6423039b4edb3
+p:  1791.2510760233015
+5cfe90d09ed1a05fb8b4ee67
+p:  2642.8109806954462
+5cfe676856dc77779ab4ed78
+p:  1358.7270783772603
+5cfe8491f3869ce6ebb4ee36
+p:  2309.9834796142063
+5cfe90c0476ac99e1db4eea5
+p:  2526.68163165893
+5cfe916c616190610ab4ee93
+p:  1334.0768015936383
+5cfe8fc87b1a6e6ebfb4ee83
+p:  2642.8109806954462
+5cfe6dc8e896b76cf6b4ed9e
+p:  2817.7750848567944
+5cfe916c9a92d45764b4ee88
+p:  1309.8837842894097
+5cfe75cd05da571b9bb4ede8
+p:  2817.7750848567944
+5cfe8da3f2c6423039b4ee92
+p:  2426.1128286507223
+5cfe7ee37b1a6e6ebfb4ee02
+p:  1334.0768015936383
+5cfe738e476ac99e1db4edbf
+p:  2817.7750848567944
+5cfeae1804a0f9c1ceb4ef19
+p:  2642.8109806954462
+5cfe6b698137a97d7cb4eda0
+p:  1401.9711296170108
+5cfe80929ed1a05fb8b4edff
+p:  1595.860507287644
+5cfe910cde6c33c764b4eeb0
+p:  1627.3956297806924
+5cfe6ab305da571b9bb4eda6
+p:  1671.4923482401946
+5cfe8b8cde6c33c764b4ee8a
+p:  1353.1278355291602
+5cfea712de6c33c764b4ef2b
+p:  1627.3956297806924
+5cfe6848e896b76cf6b4ed85
+p:  2426.2703425040536
+5cfe816005da571b9bb4ee26
+p:  1627.3956297806924
+5cfe86f68137a97d7cb4ee49
+p:  1377.320852833389
+5cfe9930f2c6423039b4eed6
+p:  1844.093537684792
+5cfe6e1c04a0f9c1ceb4ed90
+p:  1382.9200956814889
+5cfe8f2b7b1a6e6ebfb4ee7d
+p:  2526.68163165893
+5cfe8598f3869ce6ebb4ee3c
+p:  2642.8109806954462
+5cfead989a92d45764b4ef37
+p:  1309.8837842894097
+5cfe884404a0f9c1ceb4edf2
+p:  2309.9834796142063
+5cfe936af3869ce6ebb4ee8a
+p:  1309.8837842894097
+5cfe653af3869ce6ebb4ed72
+p:  2817.7750848567944
+5cfe9372476ac99e1db4eebf
+p:  1627.3956297806924
+5cfeae4004a0f9c1ceb4ef1b
+p:  2426.1128286507223
+5cfe8d2e7b1a6e6ebfb4ee74
+p:  1472.9599112414066
+5cfe8601616190610ab4ee56
+p:  1309.8837842894097
+5cfeae4904a0f9c1ceb4ef1c
+p:  2309.9834796142063
+5cfe6e479a92d45764b4edaf
+p:  1671.4923482401946
+5cfe6a36de6c33c764b4ed9b
+p:  1671.4923482401946
+5cfe67329a92d45764b4ed80
+p:  1426.1641469212395
+5cfe99bd9a92d45764b4eec1
+p:  2309.9834796142063
+5cfe9886df6acbbb9ab4eeba
+p:  1309.8837842894097
+5cfe8bbade6c33c764b4ee8b
+p:  1309.8837842894097
+5cfe72fef2c6423039b4ede8
+p:  1821.2647989483753
+5cfe7189e896b76cf6b4edc5
+p:  1821.2647989483753
+5cfe9536df6acbbb9ab4eead
+p:  1309.8837842894097
+5cfe8eda476ac99e1db4ee8e
+p:  1627.3956297806924
+5cfe6bcdf2c6423039b4eda0
+p:  2817.7750848567944
+5cfea081616190610ab4ef21
+p:  1309.8837842894097
+5cfe67e0476ac99e1db4ed8a
+p:  1358.7270783772603
+5cfe9cdaf2c6423039b4eee8
+p:  1627.3956297806924
+5cfe7c9a9ed1a05fb8b4edec
+p:  1377.320852833389
+5cfe9a03de6c33c764b4eef2
+p:  2526.68163165893
+5cfeaaf9f3869ce6ebb4ef09
+p:  2526.68163165893
+5cfe8fc404a0f9c1ceb4ee2b
+p:  1627.3956297806924
+5cfe94c2f2c6423039b4eebf
+p:  1377.320852833389
+5cfe6a4fde6c33c764b4ed9c
+p:  1401.9711296170108
+5cfe947c9ed1a05fb8b4ee7b
+p:  1844.093537684792
+5cfead67f3869ce6ebb4ef16
+p:  1844.093537684792
+5cfe7008e896b76cf6b4edb6
+p:  1639.957225747146
+5cfe99dc616190610ab4eee8
+p:  1334.0768015936383
+5cfea5129a92d45764b4ef0a
+p:  1309.8837842894097
+5cfead77f3869ce6ebb4ef17
+p:  1844.093537684792
+5cfe7368f2c6423039b4eded
+p:  1671.4923482401946
+5cfe819f05da571b9bb4ee27
+p:  2642.8109806954462
+5cfe9378476ac99e1db4eec0
+p:  1627.3956297806924
+5cfe8493616190610ab4ee51
+p:  1353.1278355291602
+5cfe67829a92d45764b4ed82
+p:  2668.0026341486137
+5cfe684ee896b76cf6b4ed86
+p:  2817.7750848567944
+5cfe91f6f2c6423039b4eeb2
+p:  2642.8109806954462
+5cfe7cd604a0f9c1ceb4edc7
+p:  2309.9834796142063
+5cfe8fbd8137a97d7cb4eeaf
+p:  2426.1128286507223
+5cfe8a06de6c33c764b4ee7a
+p:  2396.0990221263573
+5cfe9563616190610ab4eec6
+p:  2309.9834796142063
+5cfe936df3869ce6ebb4ee8b
+p:  1627.3956297806924
+5cfe9d448137a97d7cb4ef3b
+p:  1309.8837842894097
+5cfe8215de6c33c764b4ee3c
+p:  1309.8837842894097
+5cfe9d939ed1a05fb8b4eebe
+p:  2526.68163165893
+5cfeae7904a0f9c1ceb4ef20
+p:  1353.1278355291602
+5cfe9ce9f2c6423039b4eee9
+p:  2642.8109806954462
+5cfe65e7de6c33c764b4ed80
+p:  1671.4923482401946
+5cfe8b858137a97d7cb4ee7b
+p:  1627.3956297806924
+5cfe6edd04a0f9c1ceb4ed93
+p:  2668.0026341486137
+5cfe7b499ed1a05fb8b4ede2
+p:  1336.5950030842498
+5cfea857f3869ce6ebb4eeec
+p:  1309.8837842894097
+5cfe7be3de6c33c764b4ee03
+p:  2446.8855524357114
+5cfe9a0bde6c33c764b4eef4
+p:  2426.1128286507223
+5cfea03205da571b9bb4eea1
+p:  1627.3956297806924
+5cfe6e579a92d45764b4edb1
+p:  1671.4923482401946
+5cfe89d28137a97d7cb4ee6a
+p:  1309.8837842894097
+5cfe6e2bf2c6423039b4edb4
+p:  2817.7750848567944
+5cfe91c5616190610ab4ee9a
+p:  1309.8837842894097
+5cfe9d488137a97d7cb4ef3c
+p:  1334.0768015936383
+5cfe76e99a92d45764b4ede5
+p:  2457.805548596392
+5cfe9380476ac99e1db4eec1
+p:  1334.0768015936383
+5cfe94ff05da571b9bb4ee74
+p:  1309.8837842894097
+5cfe67df56dc77779ab4ed79
+p:  2817.7750848567944
+5cfea93ce896b76cf6b4ef23
+p:  2526.68163165893
+5cfe73cff2c6423039b4edf3
+p:  2607.5779993045726
+5cfe7ccd7b1a6e6ebfb4edf6
+p:  1594.0187607374883
+5cfe879b9a92d45764b4ee52
+p:  2396.0990221263573
+5cfe6e39f2c6423039b4edb5
+p:  1401.9711296170108
+5cfe82627b1a6e6ebfb4ee25
+p:  1309.8837842894097
+5cfe6508476ac99e1db4ed71
+p:  1807.4572247754627
+5cfe964104a0f9c1ceb4ee58
+p:  2642.8109806954462
+5cfe94709a92d45764b4eea0
+p:  1377.320852833389
+5cfea8b7476ac99e1db4ef4c
+p:  2426.1128286507223
+5cfeae9a04a0f9c1ceb4ef22
+p:  1939.6417390711154
+5cfe8b988137a97d7cb4ee7c
+p:  2526.68163165893
+5cfe6f5af2c6423039b4edca
+p:  1671.4923482401946
+5cfeaea404a0f9c1ceb4ef23
+p:  2309.9834796142063
+5cfea3fc9ed1a05fb8b4eee7
+p:  2642.8109806954462
+5cfe888304a0f9c1ceb4edf3
+p:  1627.3956297806924
+5cfe6a29f3869ce6ebb4ed93
+p:  1821.2647989483753
+5cfe6773de6c33c764b4ed8d
+p:  2607.5779993045726
+5cfe8139df6acbbb9ab4ee5c
+p:  1377.320852833389
+5cfea9c056dc77779ab4eed2
+p:  1309.8837842894097
+5cfe7577476ac99e1db4edc1
+p:  1867.6091084941008
+5cfeace456dc77779ab4eee4
+p:  1309.8837842894097
+5cfe686e616190610ab4ed81
+p:  2803.9675106838818
+5cfeaaf8df6acbbb9ab4ef01
+p:  2642.8109806954462
+5cfea53705da571b9bb4eeb5
+p:  1309.8837842894097
+5cfe79d48137a97d7cb4edff
+p:  2415.3503463433735
+5cfea57505da571b9bb4eeb6
+p:  1309.8837842894097
+5cfe8c6156dc77779ab4ee2e
+p:  2309.9834796142063
+5cfe8ee5476ac99e1db4ee8f
+p:  1377.320852833389
+5cfe82e2de6c33c764b4ee48
+p:  2309.9834796142063
+5cfea0fc7b1a6e6ebfb4ef0f
+p:  2642.8109806954462
+5cfea85df3869ce6ebb4eeed
+p:  1377.320852833389
+5cfea8e99ed1a05fb8b4ef09
+p:  1309.8837842894097
+5cfe95cf9ed1a05fb8b4ee84
+p:  1309.8837842894097
+5cfea60a04a0f9c1ceb4eed5
+p:  1309.8837842894097
+5cfeaec204a0f9c1ceb4ef25
+p:  2642.8109806954462
+5cfea0af56dc77779ab4eeb6
+p:  1844.093537684792
+5cfeaed004a0f9c1ceb4ef26
+p:  1309.8837842894097
+5cfea5f605da571b9bb4eeb8
+p:  1309.8837842894097
+5cfe7ff1de6c33c764b4ee29
+p:  1309.8837842894097
+5cfe96ae9a92d45764b4eeb1
+p:  2526.68163165893
+5cfe7183f3869ce6ebb4edd4
+p:  2668.0026341486137
+5cfea7aa476ac99e1db4ef43
+p:  2040.2102979386982
+5cfea7af476ac99e1db4ef44
+p:  1377.320852833389
+5cfeaeda04a0f9c1ceb4ef27
+p:  1334.0768015936383
+5cfe99d89a92d45764b4eec2
+p:  1627.3956297806924
+5cfe68a59a92d45764b4ed85
+p:  2457.805548596392
+5cfea51f9a92d45764b4ef0d
+p:  1309.8837842894097
+5cfe7e30de6c33c764b4ee1b
+p:  1353.1278355291602
+5cfe9699476ac99e1db4eed7
+p:  2642.8109806954462
+5cfea639f2c6423039b4ef30
+p:  1353.1278355291602
+5cfe82a67b1a6e6ebfb4ee28
+p:  2040.2102979386982
+5cfe75bc476ac99e1db4edc3
+p:  2817.7750848567944
+5cfe75c0476ac99e1db4edc4
+p:  2817.7750848567944
+5cfe6a4df3869ce6ebb4ed96
+p:  2607.5779993045726
+5cfe8d5ae896b76cf6b4ee7f
+p:  1309.8837842894097
+5cfe811b56dc77779ab4ee00
+p:  1627.3956297806924
+5cfeabdade6c33c764b4ef59
+p:  1594.0187607374883
+5cfe93adf3869ce6ebb4ee91
+p:  2426.1128286507223
+5cfe75cf476ac99e1db4edc5
+p:  1426.1641469212395
+5cfe9ce09a92d45764b4eed3
+p:  1377.320852833389
+5cfea77004a0f9c1ceb4eee3
+p:  1309.8837842894097
+5cfe7473e896b76cf6b4edd8
+p:  2817.7750848567944
+5cfe73e8f2c6423039b4edf4
+p:  2817.7750848567944
+5cfe6b908137a97d7cb4eda1
+p:  2668.0026341486137
+5cfe75d7476ac99e1db4edc6
+p:  1401.9711296170108
+5cfe8f6ff3869ce6ebb4ee6e
+p:  2642.8109806954462
+5cfe96a604a0f9c1ceb4ee61
+p:  1309.8837842894097
+5cfe825e05da571b9bb4ee2a
+p:  2309.9834796142063
+5cfe89f58137a97d7cb4ee6b
+p:  1353.1278355291602
+5cfe854c7b1a6e6ebfb4ee48
+p:  2642.8109806954462
+5cfe6b6f9ed1a05fb8b4ed79
+p:  2817.7750848567944
+5cfe9ddfdf6acbbb9ab4eece
+p:  2426.1128286507223
+5cfe747ae896b76cf6b4edd9
+p:  1401.9711296170108
+5cfe883c9a92d45764b4ee54
+p:  1309.8837842894097
+5cfe889d9ed1a05fb8b4ee24
+p:  2426.1128286507223
+5cfe88a39ed1a05fb8b4ee25
+p:  1353.1278355291602
+5cfe97a7476ac99e1db4eed8
+p:  2309.9834796142063
+5cfe86abdf6acbbb9ab4ee76
+p:  2526.68163165893
+5cfe7627476ac99e1db4edc7
+p:  1426.1641469212395
+5cfe764b476ac99e1db4edc8
+p:  1426.1641469212395
+5cfe91d9616190610ab4ee9b
+p:  1309.8837842894097
+5cfe90fc9ed1a05fb8b4ee6a
+p:  1353.1278355291602
+5cfea8baf3869ce6ebb4eeef
+p:  1377.320852833389
+5cfea07205da571b9bb4eea2
+p:  1572.712647418366
+5cfe6ba99ed1a05fb8b4ed7b
+p:  1671.4923482401946
+5cfe809fe896b76cf6b4ee2b
+p:  1377.320852833389
+5cfe7e36de6c33c764b4ee1c
+p:  2396.0990221263573
+5cfe8ca08137a97d7cb4ee88
+p:  1334.0768015936383
+5cfe83a09ed1a05fb8b4ee13
+p:  1309.8837842894097
+5cfe8be2de6c33c764b4ee8c
+p:  1309.8837842894097
+5cfe86ec616190610ab4ee61
+p:  1377.320852833389
+5cfeab38df6acbbb9ab4ef02
+p:  2426.1128286507223
+5cfead5a476ac99e1db4ef77
+p:  2642.8109806954462
+5cfe96c1de6c33c764b4eecf
+p:  2642.8109806954462
+5cfe810ee896b76cf6b4ee2d
+p:  1627.3956297806924
+5cfe74cde896b76cf6b4edda
+p:  2817.7750848567944
+5cfe711a04a0f9c1ceb4ed9c
+p:  1636.3609883328377
+5cfeaa52f2c6423039b4ef45
+p:  1353.1278355291602
+5cfe778d56dc77779ab4edbf
+p:  1401.9711296170108
+5cfe95498137a97d7cb4eef6
+p:  1309.8837842894097
+5cfea5437b1a6e6ebfb4ef33
+p:  1594.0187607374883
+5cfe85617b1a6e6ebfb4ee49
+p:  1377.320852833389
+5cfe856c7b1a6e6ebfb4ee4a
+p:  1844.093537684792
+5cfe93caf3869ce6ebb4ee94
+p:  2642.8109806954462
+5cfe7d7b9a92d45764b4ee19
+p:  1627.3956297806924
+5cfe93cef3869ce6ebb4ee95
+p:  1334.0768015936383
+5cfead7ef2c6423039b4ef5d
+p:  1377.320852833389
+5cfe68af9a92d45764b4ed86
+p:  1639.957225747146
+5cfe6bce9ed1a05fb8b4ed7d
+p:  1671.4923482401946
+5cfea9448137a97d7cb4ef7f
+p:  1309.8837842894097
+5cfea2ccde6c33c764b4ef1a
+p:  1377.320852833389
+5cfe94628137a97d7cb4eee9
+p:  1309.8837842894097
+5cfe6dd7e896b76cf6b4ed9f
+p:  2426.2703425040536
+5cfe6ae0f3869ce6ebb4ed9c
+p:  1821.2647989483753
+5cfe8751df6acbbb9ab4ee79
+p:  2526.68163165893
+5cfe8ef7476ac99e1db4ee91
+p:  2309.9834796142063
+5cfe95d49ed1a05fb8b4ee85
+p:  1309.8837842894097
+5cfe8c9156dc77779ab4ee2f
+p:  1377.320852833389
+5cfe7427f2c6423039b4edf7
+p:  1426.1641469212395
+5cfeab56f3869ce6ebb4ef0a
+p:  1353.1278355291602
+5cfe9e5edf6acbbb9ab4eed0
+p:  1377.320852833389
+5cfe9039476ac99e1db4ee9b
+p:  1353.1278355291602
+5cfe68497b1a6e6ebfb4ed84
+p:  1671.4923482401946
+5cfe65f1de6c33c764b4ed82
+p:  2607.5779993045726
+5cfe9aa3476ac99e1db4eef3
+p:  1309.8837842894097
+5cfe7fae476ac99e1db4edeb
+p:  1377.320852833389
+5cfe875f8137a97d7cb4ee50
+p:  2309.9834796142063
+5cfe6e53f2c6423039b4edb7
+p:  1426.1641469212395
+5cfe9042476ac99e1db4ee9c
+p:  1309.8837842894097
+5cfe70abe896b76cf6b4edb7
+p:  1881.6891896517916
+5cfe799f56dc77779ab4edcc
+p:  1360.7880203884783
+5cfe8fe38137a97d7cb4eeb1
+p:  2642.8109806954462
+5cfeafbb04a0f9c1ceb4ef2f
+p:  1377.320852833389
+5cfe67e556dc77779ab4ed7a
+p:  1358.7270783772603
+5cfe6e76616190610ab4edb5
+p:  1426.1641469212395
+5cfe6e91616190610ab4edb6
+p:  1426.1641469212395
+5cfea73cde6c33c764b4ef30
+p:  1353.1278355291602
+5cfe8bbf8137a97d7cb4ee7e
+p:  1377.320852833389
+5cfea979f3869ce6ebb4eefa
+p:  1377.320852833389
+5cfea974f3869ce6ebb4eef9
+p:  1377.320852833389
+5cfe80268137a97d7cb4ee2c
+p:  1309.8837842894097
+5cfe9115de6c33c764b4eeb1
+p:  1627.3956297806924
+5cfe7fb4476ac99e1db4edec
+p:  1334.0768015936383
+5cfeab999ed1a05fb8b4ef21
+p:  1353.1278355291602
+5cfe99d38137a97d7cb4ef24
+p:  1844.093537684792
+5cfe6b1756dc77779ab4ed84
+p:  1358.7270783772603
+5cfeafd004a0f9c1ceb4ef31
+p:  1627.3956297806924
+5cfe66f9df6acbbb9ab4ed7f
+p:  1426.1641469212395
+5cfe721704a0f9c1ceb4eda0
+p:  2607.5779993045726
+5cfe7190f3869ce6ebb4edd7
+p:  2457.805548596392
+5cfe9bb3f2c6423039b4eee3
+p:  1309.8837842894097
+5cfeb00e04a0f9c1ceb4ef32
+p:  1309.8837842894097
+5cfe66988137a97d7cb4ed76
+p:  2593.77042513166
+5cfeb01904a0f9c1ceb4ef33
+p:  2642.8109806954462
+5cfea744de6c33c764b4ef31
+p:  1572.712647418366
+5cfe979604a0f9c1ceb4ee67
+p:  1334.0768015936383
+5cfe6de1e896b76cf6b4eda0
+p:  1358.7270783772603
+5cfeab5bf3869ce6ebb4ef0b
+p:  1309.8837842894097
+5cfe9428f3869ce6ebb4ee99
+p:  1334.0768015936383
+5cfe6866f2c6423039b4ed8d
+p:  2817.7750848567944
+5cfe7bc5df6acbbb9ab4ee2b
+p:  1336.5950030842498
+5cfe9bec04a0f9c1ceb4ee88
+p:  2642.8109806954462
+5cfe74bcf2c6423039b4edf9
+p:  1358.7270783772603
+5cfe7ac756dc77779ab4ede0
+p:  1336.5950030842498
+5cfea56c7b1a6e6ebfb4ef34
+p:  1823.5123900345986
+5cfe8b4bf2c6423039b4ee83
+p:  1595.860507287644
+5cfeacbae896b76cf6b4ef31
+p:  1377.320852833389
+5cfea749de6c33c764b4ef32
+p:  1627.3956297806924
+5cfe95db9ed1a05fb8b4ee86
+p:  1334.0768015936383
+5cfe8ca305da571b9bb4ee53
+p:  1309.8837842894097
+5cfe91639ed1a05fb8b4ee6b
+p:  2309.9834796142063
+5cfe6fa97b1a6e6ebfb4edb6
+p:  2457.805548596392
+5cfe70d69ed1a05fb8b4edb2
+p:  1401.9711296170108
+5cfe965a04a0f9c1ceb4ee5c
+p:  2309.9834796142063
+5cfe949d9a92d45764b4eea2
+p:  2309.9834796142063
+5cfe89079ed1a05fb8b4ee28
+p:  1844.093537684792
+5cfe9b18476ac99e1db4eef9
+p:  2526.68163165893
+5cfe8e42e896b76cf6b4ee8e
+p:  1595.860507287644
+5cfea9c7476ac99e1db4ef4e
+p:  1353.1278355291602
+5cfe976f8137a97d7cb4ef19
+p:  2642.8109806954462
+5cfe945ff3869ce6ebb4ee9c
+p:  1309.8837842894097
+5cfe95f7f2c6423039b4eec0
+p:  1334.0768015936383
+5cfe6b978137a97d7cb4eda2
+p:  2457.805548596392
+5cfeb0759ed1a05fb8b4ef2f
+p:  1595.860507287644
+5cfeb12804a0f9c1ceb4ef3b
+p:  2426.1128286507223
+5cfe87a48137a97d7cb4ee56
+p:  2642.8109806954462
+5cfe97738137a97d7cb4ef1a
+p:  2642.8109806954462
+5cfe6b457b1a6e6ebfb4ed9b
+p:  2457.805548596392
+5cfe870cf3869ce6ebb4ee41
+p:  1309.8837842894097
+5cfeadad56dc77779ab4eef1
+p:  1309.8837842894097
+5cfe993af2c6423039b4eed7
+p:  1595.860507287644
+5cfe7e42de6c33c764b4ee1e
+p:  2642.8109806954462
+5cfe65163c3638f2d968c6c2
+p:  1358.7270783772603
+5cfe6c9b9ed1a05fb8b4ed86
+p:  2668.0026341486137
+5cfe96c9de6c33c764b4eed0
+p:  2426.1128286507223
+5cfeb09a9ed1a05fb8b4ef30
+p:  1309.8837842894097
+5cfe81dee896b76cf6b4ee3a
+p:  1627.3956297806924
+5cfe8a48e896b76cf6b4ee6d
+p:  1309.8837842894097
+5cfe72b49ed1a05fb8b4edbb
+p:  1426.1641469212395
+5cfeb16f04a0f9c1ceb4ef3f
+p:  1377.320852833389
+5cfe9a5d616190610ab4eef1
+p:  1594.0187607374883
+5cfe6557e896b76cf6b4ed74
+p:  1657.6847740672822
+5cfe7aa99a92d45764b4ee05
+p:  2817.7750848567944
+5cfe655be896b76cf6b4ed75
+p:  1657.6847740672822
+5cfe86f7616190610ab4ee63
+p:  2426.1128286507223
+5cfe77d1476ac99e1db4edce
+p:  1821.2647989483753
+5cfe77dd476ac99e1db4edcf
+p:  1821.2647989483753
+5cfe814c9ed1a05fb8b4ee05
+p:  1309.8837842894097
+5cfe70d656dc77779ab4ed9d
+p:  2668.0026341486137
+5cfe85ad9ed1a05fb8b4ee18
+p:  1353.1278355291602
+5cfe96d7de6c33c764b4eed1
+p:  2642.8109806954462
+5cfe7c5fde6c33c764b4ee08
+p:  1655.5201246825081
+5cfe9bf504a0f9c1ceb4ee89
+p:  2309.9834796142063
+5cfead74df6acbbb9ab4ef0b
+p:  1334.0768015936383
+5cfea761de6c33c764b4ef34
+p:  2642.8109806954462
+5cfe6ebde896b76cf6b4edad
+p:  2817.7750848567944
+5cfe6b8fde6c33c764b4edaa
+p:  2607.5779993045726
+5cfe651c3c3638f2d968c6c3
+p:  2607.5779993045726
+5cfe95538137a97d7cb4eef7
+p:  2278.4482735218667
+5cfe835d05da571b9bb4ee2e
+p:  1309.8837842894097
+5cfe99e78137a97d7cb4ef26
+p:  1844.093537684792
+5cfe71be05da571b9bb4edd6
+p:  1382.9200956814889
+5cfe9c14616190610ab4eefd
+p:  1377.320852833389
+5cfe8fbaf3869ce6ebb4ee70
+p:  1627.3956297806924
+5cfe9e229ed1a05fb8b4eeca
+p:  1627.3956297806924
+5cfe817fdf6acbbb9ab4ee61
+p:  1595.860507287644
+5cfe8c4504a0f9c1ceb4edfd
+p:  1844.093537684792
+5cfe9ad47b1a6e6ebfb4eed8
+p:  1309.8837842894097
+5cfe8e4ae896b76cf6b4ee8f
+p:  2426.1128286507223
+5cfe6fc27b1a6e6ebfb4edba
+p:  1426.1641469212395
+5cfe6debe896b76cf6b4eda1
+p:  1358.7270783772603
+5cfe78a19ed1a05fb8b4edd4
+p:  1671.4923482401946
+5cfea5977b1a6e6ebfb4ef35
+p:  1594.0187607374883
+5cfe914456dc77779ab4ee4f
+p:  2642.8109806954462
+5cfe8287de6c33c764b4ee40
+p:  1309.8837842894097
+5cfe89319ed1a05fb8b4ee29
+p:  1377.320852833389
+5cfe850456dc77779ab4ee10
+p:  1743.524978817209
+5cfe7e47de6c33c764b4ee1f
+p:  2309.9834796142063
+5cfe87fedf6acbbb9ab4ee7c
+p:  2309.9834796142063
+5cfe795f476ac99e1db4edd1
+p:  1426.1641469212395
+5cfea1b57b1a6e6ebfb4ef12
+p:  2642.8109806954462
+5cfe86119a92d45764b4ee4a
+p:  1844.093537684792
+5cfe866505da571b9bb4ee3a
+p:  1627.3956297806924
+5cfe96719ed1a05fb8b4ee88
+p:  1627.3956297806924
+5cfe6be805da571b9bb4edb4
+p:  2607.5779993045726
+5cfe6b6156dc77779ab4ed86
+p:  2668.0026341486137
+5cfeadf29a92d45764b4ef39
+p:  1960.2228867213078
+5cfe6b9c8137a97d7cb4eda3
+p:  1426.1641469212395
+5cfe69aa9a92d45764b4ed8b
+p:  1671.4923482401946
+5cfe6c5bf2c6423039b4eda4
+p:  1671.4923482401946
+5cfe7cbd9ed1a05fb8b4edf0
+p:  1309.8837842894097
+5cfe7967476ac99e1db4edd2
+p:  1671.4923482401946
+5cfe7bcb9a92d45764b4ee15
+p:  2642.8109806954462
+5cfea026f3869ce6ebb4eed5
+p:  1353.1278355291602
+5cfe948ef3869ce6ebb4eea0
+p:  1572.712647418366
+5cfeb08b56dc77779ab4eefa
+p:  2426.1128286507223
+5cfe8d8a7b1a6e6ebfb4ee76
+p:  2426.1128286507223
+5cfe8839df6acbbb9ab4ee7d
+p:  2642.8109806954462
+5cfeaccf05da571b9bb4eed3
+p:  2426.1128286507223
+5cfeae76e896b76cf6b4ef38
+p:  1823.5123900345986
+5cfeadb5df6acbbb9ab4ef0c
+p:  2642.8109806954462
+5cfe680d476ac99e1db4ed8c
+p:  1821.2647989483753
+5cfe6fc97b1a6e6ebfb4edbb
+p:  1426.1641469212395
+5cfe899d9ed1a05fb8b4ee2c
+p:  1309.8837842894097
+5cfe79c656dc77779ab4edce
+p:  1404.032071628229
+5cfe70ed9ed1a05fb8b4edb3
+p:  1639.957225747146
+5cfe9945f2c6423039b4eed8
+p:  2526.68163165893
+5cfe7b88e896b76cf6b4edfe
+p:  2817.7750848567944
+5cfe82f8de6c33c764b4ee4a
+p:  2396.0990221263573
+5cfe7a00e896b76cf6b4edf0
+p:  1809.018219849911
+5cfeb09f9ed1a05fb8b4ef31
+p:  1377.320852833389
+5cfe6bca56dc77779ab4ed87
+p:  2457.805548596392
+5cfeb0c956dc77779ab4eefd
+p:  2526.68163165893
+5cfe656356dc77779ab4ed6e
+p:  2577.5641927802076
+5cfe9bff04a0f9c1ceb4ee8a
+p:  1309.8837842894097
+5cfe8359f3869ce6ebb4ee28
+p:  2426.1128286507223
+5cfe6be4de6c33c764b4edac
+p:  1401.9711296170108
+5cfe948ce896b76cf6b4eeba
+p:  1627.3956297806924
+5cfe6f43de6c33c764b4edc9
+p:  1401.9711296170108
+5cfe70b5e896b76cf6b4edb8
+p:  2577.5641927802076
+5cfeace77b1a6e6ebfb4ef51
+p:  2642.8109806954462
+5cfe82fdde6c33c764b4ee4b
+p:  2426.1128286507223
+5cfe8ab5616190610ab4ee7d
+p:  1627.3956297806924
+5cfe928e8137a97d7cb4eed0
+p:  1309.8837842894097
+5cfe881e476ac99e1db4ee43
+p:  1627.3956297806924
+5cfe8a859a92d45764b4ee67
+p:  1844.093537684792
+5cfe69af9a92d45764b4ed8c
+p:  2457.805548596392
+5cfe76f3de6c33c764b4edf2
+p:  1426.1641469212395
+5cfe697e8137a97d7cb4ed93
+p:  1821.2647989483753
+5cfe8a039ed1a05fb8b4ee2f
+p:  1844.093537684792
+5cfe95d956dc77779ab4ee67
+p:  1377.320852833389
+5cfe79cd56dc77779ab4edcf
+p:  1872.9113177955637
+5cfe8d13e896b76cf6b4ee7e
+p:  1627.3956297806924
+5cfe941b616190610ab4eeb9
+p:  1377.320852833389
+5cfe9a69616190610ab4eef2
+p:  1627.3956297806924
+5cfe7a0ce896b76cf6b4edf2
+p:  1557.5301667956312
+5cfe95917b1a6e6ebfb4eea7
+p:  1377.320852833389
+5cfe65019a92d45764b4ed70
+p:  2817.7750848567944
+5cfe7a10e896b76cf6b4edf3
+p:  1809.018219849911
+5cfe72e104a0f9c1ceb4eda3
+p:  1401.9711296170108
+5cfe8c25de6c33c764b4ee91
+p:  1309.8837842894097
+5cfe8ff8de6c33c764b4eea2
+p:  2526.68163165893
+5cfe9cf9f2c6423039b4eeea
+p:  1377.320852833389
+5cfe6629e896b76cf6b4ed7c
+p:  1426.1641469212395
+5cfe9ef104a0f9c1ceb4eea3
+p:  1844.093537684792
+5cfe6ba18137a97d7cb4eda4
+p:  1358.7270783772603
+5cfe8e1856dc77779ab4ee36
+p:  1309.8837842894097
+5cfe7fc0476ac99e1db4edee
+p:  1377.320852833389
+5cfe6aa7616190610ab4ed8e
+p:  1657.6847740672822
+5cfeaaa4de6c33c764b4ef51
+p:  1627.3956297806924
+5cfeaa6004a0f9c1ceb4eef7
+p:  1309.8837842894097
+5cfe8a3a9ed1a05fb8b4ee30
+p:  1823.5123900345986
+5cfe69657b1a6e6ebfb4ed94
+p:  1401.9711296170108
+5cfe9f738137a97d7cb4ef4d
+p:  1309.8837842894097
+5cfe8cb404a0f9c1ceb4ee00
+p:  1377.320852833389
+5cfe7834f2c6423039b4edff
+p:  2607.5779993045726
+5cfe8d63e896b76cf6b4ee80
+p:  2426.1128286507223
+5cfe8357e896b76cf6b4ee45
+p:  1309.8837842894097
+5cfe83718137a97d7cb4ee3b
+p:  1334.0768015936383
+5cfea2427b1a6e6ebfb4ef15
+p:  2642.8109806954462
+5cfe9f988137a97d7cb4ef4e
+p:  1309.8837842894097
+5cfe874ef3869ce6ebb4ee46
+p:  2426.1128286507223
+5cfeae86616190610ab4ef73
+p:  1377.320852833389
+5cfe75d856dc77779ab4edb8
+p:  2817.7750848567944
+5cfe8d6ae896b76cf6b4ee81
+p:  2526.68163165893
+5cfe66f78137a97d7cb4ed7f
+p:  1853.8015343211885
+5cfe83de05da571b9bb4ee30
+p:  2642.8109806954462
+5cfe8867476ac99e1db4ee46
+p:  2309.9834796142063
+5cfea9c9f3869ce6ebb4eefc
+p:  1594.0187607374883
+5cfe8de405da571b9bb4ee58
+p:  1627.3956297806924
+5cfe68dc04a0f9c1ceb4ed7c
+p:  1807.4572247754627
+5cfe67518137a97d7cb4ed81
+p:  1369.1125215085767
+5cfe83938137a97d7cb4ee3c
+p:  1713.5112558921353
+5cfeacfa7b1a6e6ebfb4ef53
+p:  1309.8837842894097
+5cfe71069ed1a05fb8b4edb4
+p:  1426.1641469212395
+5cfeb1b004a0f9c1ceb4ef42
+p:  1627.3956297806924
+5cfe8782f3869ce6ebb4ee49
+p:  1334.0768015936383
+5cfe6943f2c6423039b4ed91
+p:  1821.2647989483753
+5cfe9ab59a92d45764b4eec7
+p:  1377.320852833389
+5cfe8c9ae896b76cf6b4ee7c
+p:  2309.9834796142063
+5cfe72c99ed1a05fb8b4edbc
+p:  1881.6891896517916
+5cfe6c6cf2c6423039b4eda6
+p:  2668.0026341486137
+5cfe694cf2c6423039b4ed92
+p:  2817.7750848567944
+5cfe9bd1476ac99e1db4eefe
+p:  1627.3956297806924
+5cfe9431616190610ab4eebc
+p:  1334.0768015936383
+5cfe6e73f2c6423039b4edb9
+p:  1426.1641469212395
+5cfe8d71e896b76cf6b4ee82
+p:  1353.1278355291602
+5cfe8310de6c33c764b4ee4d
+p:  2642.8109806954462
+5cfe8791f3869ce6ebb4ee4a
+p:  2526.68163165893
+5cfe9c1c616190610ab4eefe
+p:  1377.320852833389
+5cfe8d77e896b76cf6b4ee83
+p:  2642.8109806954462
+5cfe67e5df6acbbb9ab4ed88
+p:  1671.4923482401946
+5cfe6956f2c6423039b4ed93
+p:  1639.957225747146
+5cfe9050476ac99e1db4ee9e
+p:  2426.1128286507223
+5cfe6ff87b1a6e6ebfb4edbe
+p:  1671.4923482401946
+5cfe841e05da571b9bb4ee31
+p:  1309.8837842894097
+5cfe793cf2c6423039b4ee02
+p:  2817.7750848567944
+5cfe8012de6c33c764b4ee2c
+p:  1309.8837842894097
+5cfe918a616190610ab4ee95
+p:  2309.9834796142063
+5cfe8b2c616190610ab4ee7f
+p:  1627.3956297806924
+5cfe9f5f9a92d45764b4eee1
+p:  1627.3956297806924
+5cfe9bda476ac99e1db4eeff
+p:  1627.3956297806924
+5cfe74eae896b76cf6b4eddf
+p:  2817.7750848567944
+5cfe7a838137a97d7cb4ee02
+p:  1404.032071628229
+5cfe6965f2c6423039b4ed94
+p:  1358.7270783772603
+5cfe6fb3f2c6423039b4edd1
+p:  1671.4923482401946
+5cfe86a505da571b9bb4ee3b
+p:  1627.3956297806924
+5cfe882e8137a97d7cb4ee5a
+p:  2642.8109806954462
+5cfe7025f3869ce6ebb4edc5
+p:  1671.4923482401946
+5cfe9b5c56dc77779ab4ee90
+p:  2309.9834796142063
+5cfe822b9a92d45764b4ee30
+p:  1309.8837842894097
+5cfe8d7de896b76cf6b4ee84
+p:  1309.8837842894097
+5cfe957a616190610ab4eec9
+p:  2426.1128286507223
+5cfe6d598137a97d7cb4edb2
+p:  2668.0026341486137
+5cfea03f7b1a6e6ebfb4ef07
+p:  1743.524978817209
+5cfe797d476ac99e1db4edd6
+p:  2817.7750848567944
+5cfe6d749ed1a05fb8b4ed90
+p:  2817.7750848567944
+5cfe7982476ac99e1db4edd7
+p:  2668.0026341486137
+5cfe94dbf3869ce6ebb4eea8
+p:  2642.8109806954462
+5cfe6fbcf2c6423039b4edd2
+p:  2607.5779993045726
+5cfe8aca8137a97d7cb4ee6c
+p:  1309.8837842894097
+5cfe95279a92d45764b4eea7
+p:  1334.0768015936383
+5cfe8c90e896b76cf6b4ee7b
+p:  1844.093537684792
+5cfea9d3476ac99e1db4ef4f
+p:  1595.860507287644
+5cfea84ade6c33c764b4ef39
+p:  2526.68163165893
+5cfe7db79a92d45764b4ee1a
+p:  1627.3956297806924
+5cfe7986476ac99e1db4edd8
+p:  1821.2647989483753
+5cfe6d889ed1a05fb8b4ed91
+p:  2457.805548596392
+5cfe6db39ed1a05fb8b4ed93
+p:  1382.9200956814889
+5cfe6d9d9ed1a05fb8b4ed92
+p:  1821.2647989483753
+5cfe6d259a92d45764b4eda6
+p:  1881.6891896517916
+5cfe8e8356dc77779ab4ee38
+p:  1627.3956297806924
+5cfe6afc616190610ab4ed94
+p:  2803.9675106838818
+5cfe938d476ac99e1db4eec4
+p:  1595.860507287644
+5cfe76f9de6c33c764b4edf3
+p:  1358.7270783772603
+5cfe7c6ade6c33c764b4ee0a
+p:  1360.7880203884783
+5cfe8a669ed1a05fb8b4ee32
+p:  1309.8837842894097
+5cfea2557b1a6e6ebfb4ef17
+p:  2426.1128286507223
+5cfe8bd556dc77779ab4ee27
+p:  2642.8109806954462
+5cfeaa978137a97d7cb4ef8a
+p:  2426.1128286507223
+5cfe76f99a92d45764b4ede8
+p:  1358.7270783772603
+5cfeaeb4df6acbbb9ab4ef10
+p:  2309.9834796142063
+5cfe8a86e896b76cf6b4ee71
+p:  2426.1128286507223
+5cfea0d68137a97d7cb4ef57
+p:  1353.1278355291602
+5cfe7ce09ed1a05fb8b4edf1
+p:  1334.0768015936383
+5cfe84a5e896b76cf6b4ee4c
+p:  1309.8837842894097
+5cfea1449a92d45764b4eef3
+p:  2396.0990221263573
+5cfe6a89476ac99e1db4ed9f
+p:  1821.2647989483753
+5cfe9a098137a97d7cb4ef27
+p:  1627.3956297806924
+5cfe748156dc77779ab4edad
+p:  1426.1641469212395
+5cfe6e01df6acbbb9ab4edc9
+p:  1671.4923482401946
+5cfe94f9f3869ce6ebb4eeab
+p:  2642.8109806954462
+5cfeb0fb56dc77779ab4ef00
+p:  1309.8837842894097
+5cfe749e56dc77779ab4edae
+p:  1426.1641469212395
+5cfea1def3869ce6ebb4eed7
+p:  1594.0187607374883
+5cfe9b1bde6c33c764b4eefa
+p:  1627.3956297806924
+5cfe6cf405da571b9bb4edbb
+p:  1426.1641469212395
+5cfe8b51f2c6423039b4ee84
+p:  1334.0768015936383
+5cfe69f39a92d45764b4ed8f
+p:  1358.7270783772603
+5cfe8797f3869ce6ebb4ee4b
+p:  1309.8837842894097
+5cfe72d49ed1a05fb8b4edbd
+p:  2457.805548596392
+5cfe9b20de6c33c764b4eefb
+p:  1334.0768015936383
+5cfe987805da571b9bb4ee82
+p:  1627.3956297806924
+5cfe79dd56dc77779ab4edd1
+p:  1872.9113177955637
+5cfe778a04a0f9c1ceb4edb5
+p:  1671.4923482401946
+5cfe905fde6c33c764b4eea4
+p:  1309.8837842894097
+5cfe7c43616190610ab4ee1a
+p:  2642.8109806954462
+5cfe773505da571b9bb4edfc
+p:  2600.383647603114
+5cfe8edd8137a97d7cb4eea4
+p:  2642.8109806954462
+5cfe9950f2c6423039b4eeda
+p:  1334.0768015936383
+5cfe7865de6c33c764b4edf9
+p:  1655.5201246825081
+5cfe7b008137a97d7cb4ee04
+p:  2817.7750848567944
+5cfe7ddb7b1a6e6ebfb4edf7
+p:  2309.9834796142063
+5cfe6613de6c33c764b4ed85
+p:  1639.957225747146
+5cfe70f7e896b76cf6b4edba
+p:  1426.1641469212395
+5cfe6618de6c33c764b4ed86
+p:  1358.7270783772603
+5cfe8924de6c33c764b4ee77
+p:  1309.8837842894097
+5cfe7c88df6acbbb9ab4ee33
+p:  1809.018219849911
+5cfe90f28137a97d7cb4eebe
+p:  2426.1128286507223
+5cfea1fff3869ce6ebb4eed8
+p:  1572.712647418366
+5cfe67a98137a97d7cb4ed83
+p:  2593.77042513166
+5cfe8fab04a0f9c1ceb4ee27
+p:  2309.9834796142063
+5cfe75248137a97d7cb4eddc
+p:  2607.5779993045726
+5cfe9f049a92d45764b4eee0
+p:  1309.8837842894097
+5cfe7c8edf6acbbb9ab4ee34
+p:  1655.5201246825081
+5cfeaf77df6acbbb9ab4ef13
+p:  2309.9834796142063
+5cfe7a97476ac99e1db4eddf
+p:  2817.7750848567944
+5cfe7c4d616190610ab4ee1b
+p:  1309.8837842894097
+5cfe71977b1a6e6ebfb4edc3
+p:  1821.2647989483753
+5cfe92819ed1a05fb8b4ee6d
+p:  1309.8837842894097
+5cfeafb5df6acbbb9ab4ef14
+p:  2642.8109806954462
+5cfea5d08137a97d7cb4ef70
+p:  1627.3956297806924
+5cfe8ea505da571b9bb4ee5b
+p:  1334.0768015936383
+5cfe7bde9a92d45764b4ee18
+p:  2426.1128286507223
+5cfe6da105da571b9bb4edbe
+p:  2017.3815592022816
+5cfe70329a92d45764b4edbd
+p:  1671.4923482401946
+5cfeab6504a0f9c1ceb4ef0a
+p:  2526.68163165893
+5cfe879cf3869ce6ebb4ee4c
+p:  2642.8109806954462
+5cfe87a3f3869ce6ebb4ee4d
+p:  2278.4482735218667
+5cfe8944476ac99e1db4ee51
+p:  1377.320852833389
+5cfeacc756dc77779ab4eee0
+p:  1334.0768015936383
+5cfe9503f3869ce6ebb4eeac
+p:  1627.3956297806924
+5cfe8f6c7b1a6e6ebfb4ee7f
+p:  2642.8109806954462
+5cfe7d329ed1a05fb8b4edf2
+p:  1309.8837842894097
+5cfeab77df6acbbb9ab4ef03
+p:  1377.320852833389
+5cfe98cede6c33c764b4eee0
+p:  1309.8837842894097
+5cfe85db7b1a6e6ebfb4ee50
+p:  1309.8837842894097
+5cfea9e27b1a6e6ebfb4ef41
+p:  2309.9834796142063
+5cfe8cc004a0f9c1ceb4ee02
+p:  1627.3956297806924
+5cfe82469a92d45764b4ee32
+p:  2526.68163165893
+5cfe6b4f7b1a6e6ebfb4ed9d
+p:  1671.4923482401946
+5cfe91a39a92d45764b4ee8c
+p:  1334.0768015936383
+5cfe864356dc77779ab4ee15
+p:  1377.320852833389
+5cfeaff6df6acbbb9ab4ef15
+p:  1627.3956297806924
+5cfeb1e704a0f9c1ceb4ef44
+p:  1743.524978817209
+5cfe8952476ac99e1db4ee52
+p:  1451.727550198128
+5cfe9b6556dc77779ab4ee91
+p:  1844.093537684792
+5cfe84ee04a0f9c1ceb4ede5
+p:  1309.8837842894097
+5cfe9b06df6acbbb9ab4eec4
+p:  1627.3956297806924
+5cfe8bee56dc77779ab4ee28
+p:  1309.8837842894097
+5cfe686cdf6acbbb9ab4ed91
+p:  1671.4923482401946
+5cfe8c60de6c33c764b4ee93
+p:  2309.9834796142063
+5cfe8969476ac99e1db4ee53
+p:  2426.1128286507223
+5cfe980d04a0f9c1ceb4ee6e
+p:  2426.1128286507223
+5cfe66cf8137a97d7cb4ed79
+p:  2593.77042513166
+5cfe8982476ac99e1db4ee54
+p:  2426.1128286507223
+5cfe8e5d56dc77779ab4ee37
+p:  1309.8837842894097
+5cfe93f604a0f9c1ceb4ee4e
+p:  1377.320852833389
+5cfe8ee37b1a6e6ebfb4ee78
+p:  2426.1128286507223
+5cfeb16ee896b76cf6b4ef44
+p:  1377.320852833389
+5cfeae10476ac99e1db4ef80
+p:  1334.0768015936383
+5cfe924404a0f9c1ceb4ee3d
+p:  2642.8109806954462
+5cfe8c91616190610ab4ee91
+p:  1334.0768015936383
+5cfe6b547b1a6e6ebfb4ed9e
+p:  1639.957225747146
+5cfe6eb09ed1a05fb8b4ed9b
+p:  2607.5779993045726
+5cfeb28904a0f9c1ceb4ef4a
+p:  1309.8837842894097
+5cfe6c598137a97d7cb4eda9
+p:  1426.1641469212395
+5cfeb24804a0f9c1ceb4ef48
+p:  2642.8109806954462
+5cfeaa097b1a6e6ebfb4ef42
+p:  2426.1128286507223
+5cfe870156dc77779ab4ee18
+p:  2642.8109806954462
+5cfead397b1a6e6ebfb4ef55
+p:  1627.3956297806924
+5cfe8fd37b1a6e6ebfb4ee84
+p:  2426.1128286507223
+5cfe7bd38137a97d7cb4ee16
+p:  1960.2228867213078
+5cfe899c476ac99e1db4ee55
+p:  2426.1128286507223
+5cfea1058137a97d7cb4ef58
+p:  2642.8109806954462
+5cfea49c9ed1a05fb8b4eeee
+p:  2642.8109806954462
+5cfe8fd87b1a6e6ebfb4ee85
+p:  2426.1128286507223
+5cfe8669f2c6423039b4ee5a
+p:  1377.320852833389
+5cfe9574df6acbbb9ab4eeae
+p:  2040.2102979386982
+5cfe6dcf9ed1a05fb8b4ed95
+p:  1426.1641469212395
+5cfea85bde6c33c764b4ef3a
+p:  2426.1128286507223
+5cfe8aac9ed1a05fb8b4ee36
+p:  1309.8837842894097
+5cfe9abf9a92d45764b4eec8
+p:  2426.1128286507223
+5cfe96ebde6c33c764b4eed2
+p:  2642.8109806954462
+5cfe68888137a97d7cb4ed84
+p:  2593.77042513166
+5cfe9e598137a97d7cb4ef43
+p:  2309.9834796142063
+5cfe79ea476ac99e1db4edda
+p:  1426.1641469212395
+5cfe9fc68137a97d7cb4ef4f
+p:  1309.8837842894097
+5cfe8f4ce896b76cf6b4ee93
+p:  2642.8109806954462
+5cfe8a929a92d45764b4ee68
+p:  2309.9834796142063
+5cfe67f256dc77779ab4ed7d
+p:  1358.7270783772603
+5cfea5d77b1a6e6ebfb4ef36
+p:  1627.3956297806924
+5cfe6caaf3869ce6ebb4eda5
+p:  1426.1641469212395
+5cfe8f2505da571b9bb4ee5d
+p:  1594.0187607374883
+5cfea9c7de6c33c764b4ef4d
+p:  1627.3956297806924
+5cfe6f189ed1a05fb8b4ed9d
+p:  2817.7750848567944
+5cfeb074df6acbbb9ab4ef17
+p:  1377.320852833389
+5cfe8804f3869ce6ebb4ee4f
+p:  1594.0187607374883
+5cfeaa3a7b1a6e6ebfb4ef43
+p:  1334.0768015936383
+5cfe7540de6c33c764b4edec
+p:  2607.5779993045726
+5cfe7b6ef2c6423039b4ee0b
+p:  2817.7750848567944
+5cfea4129ed1a05fb8b4eeea
+p:  1309.8837842894097
+5cfe9408476ac99e1db4eec6
+p:  2642.8109806954462
+5cfe70aff3869ce6ebb4edca
+p:  2817.7750848567944
+5cfe96b504a0f9c1ceb4ee62
+p:  1309.8837842894097
+5cfe6a229a92d45764b4ed91
+p:  2457.805548596392
+5cfe69918137a97d7cb4ed96
+p:  1426.1641469212395
+5cfe95fef2c6423039b4eec1
+p:  2426.1128286507223
+5cfea21bf3869ce6ebb4eed9
+p:  1353.1278355291602
+5cfe89b6476ac99e1db4ee56
+p:  1627.3956297806924
+5cfe99b505da571b9bb4ee87
+p:  2642.8109806954462
+5cfeb29804a0f9c1ceb4ef4b
+p:  1309.8837842894097
+5cfeb2b004a0f9c1ceb4ef4c
+p:  1309.8837842894097
+5cfe92889ed1a05fb8b4ee6e
+p:  1627.3956297806924
+5cfe9001f3869ce6ebb4ee73
+p:  1353.1278355291602
+5cfe7df6de6c33c764b4ee17
+p:  1627.3956297806924
+5cfe9981e896b76cf6b4eed7
+p:  1627.3956297806924
+5cfe7544de6c33c764b4eded
+p:  1671.4923482401946
+5cfe7548de6c33c764b4edee
+p:  1821.2647989483753
+5cfe900ef3869ce6ebb4ee74
+p:  1377.320852833389
+5cfe6814f3869ce6ebb4ed7a
+p:  2607.5779993045726
+5cfea4a59ed1a05fb8b4eeef
+p:  1844.093537684792
+5cfeb0b3df6acbbb9ab4ef18
+p:  2309.9834796142063
+5cfe6f429ed1a05fb8b4ed9f
+p:  2817.7750848567944
+5cfe83a98137a97d7cb4ee3e
+p:  2309.9834796142063
+5cfe852d04a0f9c1ceb4ede6
+p:  2526.68163165893
+5cfe6e7b476ac99e1db4edad
+p:  2817.7750848567944
+5cfe7ace616190610ab4ee13
+p:  1404.032071628229
+5cfe69978137a97d7cb4ed97
+p:  1821.2647989483753
+5cfe89ee476ac99e1db4ee58
+p:  2309.9834796142063
+5cfe8a0f476ac99e1db4ee59
+p:  2642.8109806954462
+5cfe8a1f476ac99e1db4ee5a
+p:  2426.1128286507223
+5cfe961956dc77779ab4ee6f
+p:  2309.9834796142063
+5cfe88008137a97d7cb4ee58
+p:  2526.68163165893
+5cfe98e104a0f9c1ceb4ee7d
+p:  1377.320852833389
+5cfe8a2f476ac99e1db4ee5b
+p:  2642.8109806954462
+5cfe6e3205da571b9bb4edc1
+p:  1382.9200956814889
+5cfe8a3f476ac99e1db4ee5c
+p:  2426.1128286507223
+5cfe8a53476ac99e1db4ee5d
+p:  1627.3956297806924
+5cfe7ba89ed1a05fb8b4ede6
+p:  1655.5201246825081
+5cfe83b08137a97d7cb4ee3f
+p:  1377.320852833389
+5cfe6cc9f3869ce6ebb4eda9
+p:  2607.5779993045726
+5cfe8adc9ed1a05fb8b4ee38
+p:  1309.8837842894097
+5cfe9607f2c6423039b4eec2
+p:  2642.8109806954462
+5cfe6a4be896b76cf6b4ed93
+p:  2607.5779993045726
+5cfe6523f3869ce6ebb4ed71
+p:  1671.4923482401946
+5cfe80897b1a6e6ebfb4ee13
+p:  2642.8109806954462
+5cfe8904f3869ce6ebb4ee50
+p:  1334.0768015936383
+5cfe753204a0f9c1ceb4edac
+p:  1426.1641469212395
+5cfe74f204a0f9c1ceb4edab
+p:  2668.0026341486137
+5cfe97e19ed1a05fb8b4ee8f
+p:  1309.8837842894097
+5cfe6e7bf2c6423039b4edba
+p:  2607.5779993045726
+5cfe68908137a97d7cb4ed85
+p:  2803.9675106838818
+5cfea6e2476ac99e1db4ef37
+p:  1353.1278355291602
+5cfe79f156dc77779ab4edd3
+p:  1621.4232647412853
+5cfe894dde6c33c764b4ee78
+p:  1627.3956297806924
+5cfe68998137a97d7cb4ed86
+p:  2803.9675106838818
+5cfe68a78137a97d7cb4ed87
+p:  2803.9675106838818
+5cfe7a409ed1a05fb8b4edda
+p:  1426.1641469212395
+5cfe892cf3869ce6ebb4ee51
+p:  1309.8837842894097
+5cfe9b9fde6c33c764b4eeff
+p:  1334.0768015936383
+5cfea994616190610ab4ef5a
+p:  1960.2228867213078
+5cfea72dde6c33c764b4ef2e
+p:  1334.0768015936383
+5cfe7b0a476ac99e1db4ede0
+p:  1872.9113177955637
+5cfeaa6604a0f9c1ceb4eef8
+p:  1844.093537

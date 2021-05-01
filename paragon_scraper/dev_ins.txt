@@ -1,0 +1,60 @@
+['', 'Address', 'AreaSpace_SQFT', 'Bathrooms', 'Bedrooms', 'Cooling', 'Date_available', 
+'DaysOnZillow', 'Deposit_fees', 'Description', 'HOAFee', 'Heating', 'Latitude', 'Laundry', 
+'Locality', 'Longitude', 'Lot', 'Parking', 'Pets', 'PredictionPrice', 'PredictionPriceHigh', 
+'PredictionPriceLow', 'PredictionRent', 'PredictionRentHigh', 'PredictionRentLow', 
+'Price', 'Price_PerSQFT', 'Rent', 'RentRatio', 'Rentzestimate', 'SaleHistory', 'Saves', 
+'State', 'Status', 'TimeStamp', 'TransitScore', 'Type', 'WalkScore', 'YearBuilt', 
+'ZestimatePrice', 'ZipCode', '_id', 'location', 'zid']
+
+
+['MLS #', '#Pics', 'Pics', 'VirTr', 'Status', 'Address', 'Price', 'DOM', 
+'Lot (SqFt)', 'City', 'Class', 'Age', 'Property Type', '$/SqFt', '1/4 Baths', '3/4 Baths', 
+'Address 2', 'Annual Rent', 'Annual Salary', 'Annual Tax Amount', 'Area', 'Area #', 
+'Beds', 'Building Name', 'Building Number', 'Building Unit Total', 'Capitalization Rate', 
+'Cash To Assume', 'City Limits (Y/N)', 'City Transfer Tax?', 'Country', 'County', 'Days On Market', 
+'Current Rent', 'Date Available', 'County ID', 'Elementary School District', 'Elementary School', 
+'Half Baths', 'High School', 'High School District', 'HOA Document Fee', 'HOA Exist Y/N', 'HOA Fee', 
+'HOA Fee Frequency', 'HOA Name Text', 'Lot Acres', 'Lot Size Area Max Search', 'Lot Size Area Maximum Units', 
+'Lot Size Area Min Search', 'Lot Size Source', 'LotSize SqFt County', 'Max # of Units in Building', 
+'Max # of Units in Complex', 'Middle School', 'PriceRangeLow', 'Rent List Price', 'Sale Price', 
+'Sale Price Per SqFt', 'State', 'Yard SqFt', 'Year Built', 'Zip Code']
+
+Condominium
+Townhouse
+Single Family Home
+
+Townhouse
+Condo
+Single Family
+
+
+AreaSpaceSQFT 
+Bathrooms 
+Bedrooms 
+Cooling 
+Dateavailable 
+DaysOnZillow 
+Depositfees
+HOAFee 
+Heating 
+Latitude 
+Laundry
+Longitude 
+Lot 
+Parking 
+Pets 
+Price 
+PricePerSQFT 
+Rent
+RentRatio
+Rentzestimate
+SaleHistory 
+Saves
+TransitScore
+WalkScore 
+YearBuilt
+location 
+
+
+{'zid': 'MLSML81841006', 'Locality': 'Santa Cruz', 'State': 'CA', 'ZipCode': '95062', 'Address': '22680 E Cliff Drive 3, Santa Cruz, CA 95062', 'Status': 'For sale', 'Type': 'Townhouse', 'Bedrooms': 3}
+{'zid': 'MLSML81841514', 'Locality': 'San Jose', 'State': 'CA', 'ZipCode': '95129', 'Address': '560 Greenmeadow Way, San Jose, CA 95129', 'Status': 'For sale', 'Type': 'Townhouse', 'Bedrooms': 2}

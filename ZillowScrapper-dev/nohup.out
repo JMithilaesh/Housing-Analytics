@@ -1,0 +1,1359 @@
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Duration: 0:01:40.189645
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+KeyError('latitude',) exception occoured while handling a zid. Moving to next zid....
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+Rotating IP...new proxy=104.131.17.56:3128
+http://104.131.17.56:3128
+Rotating IP...new proxy=52.144.46.241:3128
+MongoDB connected...
+PAGE:1
+https://www.zillow.com/homes/for_rent/92562_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/18175503_zpid
+Year data not found
+{'zid': '18175503', 'Latitude': 33.593952, 'Longitude': -117.19378, 'location': {'type': 'Point', 'coordinates': [-117.19378, 33.593952]}, 'Status': 'House for rent', 'Address': '36136 Provence Dr,\xa0Murrieta, CA 92562', 'Description': "Revised list price due to large response. Luxurious & energy efficient 3 bedroom dream lot in a highly desired Murrieta neighborhood. Tranquil Master Suite. Carpet flooring & tile throughout. Beautiful, Clean, comfortable & spacious living. Open floor-plan with granite kitchen island for guests to gather before settling down by the Living room fireplace. Vaulted ceilings. Upgraded appliances. Step outside to the Private rear yard with lush greenbelt views. Large covered patio with plenty of shade. Ready for fun barbecues and outside entertaining. Laundry area in the garage with hook ups. Large 2 Car Garage. Central Air & Heat and ceiling fans. Available September 7th 2020. Provide: Driver License, Pay stubs, verifiable Financial statement, Credit score of 700+. Renter's insurance required. Tenant to provide all utilities and landscape maintenance.", 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 19, 'TransitScore': 19, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1290, 'ZestimatePrice': 2150, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 2, 'Date_available': '9/7', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 2500, 'Rent': 2200}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019fe64c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/61302286_zpid
+Year data not found
+{'zid': '61302286', 'Latitude': 33.559506, 'Longitude': -117.203836, 'location': {'type': 'Point', 'coordinates': [-117.203836, 33.559506]}, 'Status': 'Condo for rent', 'Address': '24909 Madison Ave, UNIT 324,\xa0Murrieta, CA 92562', 'Description': 'BEAUTIFUL 2 BEDROOM 2 BATH CONDO IN CENTRAL MURRIETA WITH 1 CAR DETACHED GARAGE. KITCHEN OPEN TO FAMILY ROOM. TRASH & WATER INCLUDED IN RENT. HOA AMENITIES INCLUDE POOL, CLUBHOUSE, GYM. CLOSE TO SHOPS, GROCERY STORES. AWARD WINNING MURRIETA SCHOOLS. MINUTES FROM 15 & 215 FREEWAY.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 70, 'TransitScore': 23, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1159, 'ZestimatePrice': 1695, 'SaleHistory': '', 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '1 space', 'Price_PerSQFT': 2, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1800}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019600dc8>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/18172455_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '18172455', 'Latitude': 33.563483, 'Longitude': -117.302507, 'location': {'type': 'Point', 'coordinates': [-117.302507, 33.563483]}, 'Status': 'House for rent', 'Address': '20875 Avenida Castilla,\xa0Murrieta, CA 92562', 'Description': 'Very private Large Estate with views of La Cresta , Billiard room down stairs with a bar, sink, fridge and fireplace, kitchen has large walk in pantry, chefs kitchen with built-in large sub zero refrigerator, upgraded dishwasher, large double ovens, built-in microwave and trash compactor, granite counter tops, fireplace in formal living room, family room and a double fireplace in the master suite sharing the opposite fireplace side with the massive size master bathroom, this home has custom draperies/shutters, Ceiling to floor blackout drapery in the master bedroom, Master bathroom has huge walk-in hotel style aromatherapy steam shower with dual shower-heads and surround-sound throughout master bathroom, large Jacuzzi tub , additional master bathroom side for the wife with lots of cupboards and cabinet space with an additional four bedroom size built out closet area and built-in shoe racks. The master bedroom also has a another huge walk-in closet and a separate room off the master for additional closet space or nursery. There is an office area upstairs off the hallway . Individual balconies off bedrooms upstairs. The laundry room has a folding counter , a deep sink lots of cabinets and hanging space with a utility closet and extra spot for second refrigerator. Pool and Pond. This is a month to month lease . tenant pays for all utilities, trash and weekly pool service, tenant to receive a 65.00 monthly credit toward water bill. Pets are allowed with Pet Deposit. Horse barn and Arena will be considered at additional cost to the tenant. No smoking allowed.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 0, 'Bedrooms': 6, 'Bathrooms': 5, 'AreaSpace_SQFT': 6300, 'ZestimatePrice': 6257, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': '8/15', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'In Unit', 'Deposit_fees': 10000, 'Rent': 6550}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2018fa0f48>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69289212_zpid
+Year data not found
+{'zid': '69289212', 'Latitude': 33.556994, 'Longitude': -117.205349, 'location': {'type': 'Point', 'coordinates': [-117.205349, 33.556994]}, 'Status': 'Condo for rent', 'Address': 'Reserve At Madison Park Condominiums, UNIT 2322, 41410 Juniper St,\xa0Murrieta, CA 92562', 'Description': 'AVAILABLE FOR SEPT. 1, 2020 MOVE-IN!! *DUE TO COVID PRECAUTIONS, SHOWINGS ARE CURRENTLY LIMITED TO APPLICANTS THAT HAVE FILLED OUT AN APPLICATION AND HAVE PROVIDED THEIR CREDIT SCORE.* Spacious 854 sq. ft. Condo in The Reserves at Madison Park. Newer carpet and paint. Nice 1 Bed/ 1 Bath upper unit with high ceilings, laundry/utility room in unit, balcony, gas fireplace, private 1 car garage plus additional covered carport. (Garage is located right next to the condo building entrance, so no long haul for groceries.) All appliances available in the unit including refrigerator and washer and dryer. This is a nice development with great amenities. Large swimming pool, spa, tot lot, fitness center and even an indoor racquetball court. (Amenity availability is currently subject to Covid regulations.) The HOA does NOT allow Tenants to have pets (sorry). Owners do NOT allow smoking inside or on the premises. $1450 per month rent and $1450 security deposit PLUS $200 key/fob/remote/parking deposit. $30 per applicant credit check fee unless recent report provided or submitted through this listing app. Minimum 6 month lease and then converts to month-to-month. You will be renting from owners, not a management company, so we always offer expedient and personalized service! Owner pays for trash, sewer and water. Tenant responsible for gas, electric and cable. No pets allowed per the HOA rules. Must have minimum credit score of 650.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 70, 'TransitScore': 23, 'Bedrooms': 1, 'Bathrooms': 1, 'AreaSpace_SQFT': 854, 'ZestimatePrice': 1500, 'SaleHistory': '', 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '1 space', 'Price_PerSQFT': 2, 'Date_available': '9/1', 'Pets': 'No', 'Laundry': 'In Unit', 'Deposit_fees': 1650, 'Rent': 1450}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019aebf88>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69288936_zpid
+Year data not found
+{'zid': '69288936', 'Latitude': 33.550801, 'Longitude': -117.203697, 'location': {'type': 'Point', 'coordinates': [-117.203697, 33.550801]}, 'Status': 'Condo for rent', 'Address': '41696 Woodridge Ave, UNIT 2,\xa0Murrieta, CA 92562', 'Description': 'cute and cozy 2 bedroom condo comes with attached one car garage. washer and dryer included in the unit. this is a great condo in a gated community with pool and jacuzzi. all appliances included. there is also an entertainment center and electric fireplace included. nice balcony with room for a bbq . the master bedroom also has a sliding door out to the balcony.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 30, 'TransitScore': 20, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1072, 'ZestimatePrice': 1850, 'SaleHistory': [{'date': '7/31/2020', 'event': 'Listed for rent', 'price': '$1,875'}, {'date': '11/18/2010', 'event': 'Sold', 'price': '$130,000 (+0.1%)'}, {'date': '9/23/2010', 'event': 'Listed for sale', 'price': '$129,900 (-39.5%)'}, {'date': '5/25/2010', 'event': 'Sold', 'price': '$214,699 (-23.3%)'}, {'date': '11/30/2005', 'event': 'Sold', 'price': '$280,000'}], 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '1 space', 'Price_PerSQFT': 2, 'Date_available': 'Contact manager', 'Pets': 'Large dogs, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1875}Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+Rotating IP...new proxy=185.21.66.212:80
+http://185.21.66.212:80
+Rotating IP...new proxy=202.137.25.8:8080
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92567_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201aceb860>, 'Connection to 185.21.66.212 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=189.203.8.179:3128
+http://189.203.8.179:3128
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92567_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b470>, 'Connection to 189.203.8.179 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=193.150.117.61:8000
+http://193.150.117.61:8000
+no results for zip 92567
+no results for zip 92567
+no results for zip 92585
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92585_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1bbe0>, 'Connection to 193.150.117.61 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=94.141.235.180:8080
+http://94.141.235.180:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92585_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adb45f8>, 'Connection to 94.141.235.180 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=193.95.228.13:53281
+http://193.95.228.13:53281
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92585_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adbebe0>, 'Connection to 193.95.228.13 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=114.99.11.86:3000
+http://114.99.11.86:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92585_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adbf940>, 'Connection to 114.99.11.86 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=181.112.40.114:55914
+http://181.112.40.114:55914
+PAGE:1
+https://www.zillow.com/homes/for_sale/92585_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/52528621_zpid
+unable to fetch walk/trasit score
+{'zid': '52528621', 'Latitude': 33.70748, 'Longitude': -117.18025, 'location': {'type': 'Point', 'coordinates': [-117.18025, 33.70748]}, 'Price': 414900, 'Status': 'For sale', 'Address': '28450 Bavaria Dr,\xa0Menifee, CA 92585', 'Description': 'WORKING FROM HOME ? No Problem. This Spacious Absolutely Stunning Contemporary Remodeled SINGLE STORY home in a highly desirable with NO HOA & LOW TAX neighborhood. The home features and BRIGHT OPEN FLOOR PLAN, in the hills just east of the 215 fwy & True Pride in Ownership vibrantly displayed throughout. The spacious and tasteful open & airy kitchen features brand new white cabinets, beautiful modern granite countertop, hardwood tiled floors, 5.5 inch baseboards throughout, walk-in pantry, breakfast bar, BRAND NEW TOP OF LINE appliances. This home features 3 bedroom, plus a huge den/study with double doors currently used as the home office for the owners business, and 3 bathrooms. The MASSIVE Master suite large enough to separate into a 5th bedroom/nursery or office with its own closet and still have a huge master with a soaking tub and separate shower. This home has so many amazing "extra" features like money and time saving artificial turf in the backyard and extra insulation to keep the home nice and cool, to 8 ft fan in the master, private and covered full length of the patio. And last but certainly not least Epoxy Flooring in the 3-CAR GARAGE Its an absolute must see to appreciate. With the right offer, seller may even through in the appliances including top of line Washer and Dryer! Everything about this home screams "DREAM HOME". An absolute MUST SEE!', 'ZipCode': '92585', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 12, 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 2118, 'ZestimatePrice': 422833, 'SaleHistory': '', 'YearBuilt': '2001', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '7,405 sqft', 'Price_PerSQFT': 196, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019d43e88>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69266765_zpid
+unable to fetch walk/trasit score
+{'zid': '69266765', 'Latitude': 33.725739, 'Longitude': -117.211382, 'location': {'type': 'Point', 'coordinates': [-117.211382, 33.725739]}, 'Price': 450000, 'Status': 'For sale', 'Address': '25716 Mountain Glen Cir,\xa0Menifee, CA 92585', 'Description': 'Welcome to Menifee! This beautiful two story open concept home located on a CUL-DE-SAC has a 8200 sq. ft. lot for great entertaining. The backyard has plenty of room for a pool if so desired. The entry leads you into the private sitting room walking back to the open kitchen and grand family area with views to the backyard. Off the hall is the 4th bedroom and full bath for guests. There is also a convenient door to the three car garage that has an additional 4th roll up garage door that leads to another parking space in the backyard, for a boat or additional toys. Moving up to the 2nd floor brings you to a loft area that leads to the Master suite and Master bath which includes private water closet, soaking tub, walk in shower and double sinks. Also enjoy a large walk in closet. The laundry room is conveniently located off the loft, along with 2 other large bedrooms. The 18 panel solar system (paid in full) will more than cover all you electrical needs, pool, jacuzzi etc. The solar system is set up with internet capabilities, along with the sprinkler system and front door security camera. All can be controlled from your phone. LOWER TAXES and LOWER HOA"S and NO ELECTRIC BILLS. You\'ll love this community and the city that prides itself with a new police department and lots of future growth. DON"T miss this great home.', 'ZipCode': '92585', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 0, 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 2287, 'ZestimatePrice': 450001, 'SaleHistory': [{'date': '8/7/2020', 'event': 'Listed for sale', 'price': '$450,000 (+24.7%)'}, {'date': '5/4/2005', 'event': 'Sold', 'price': '$361,000'}], 'YearBuilt': '2005', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '8,276 sqft', 'Price_PerSQFT': 197, 'HOAFee': 48}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019611148>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/95956453_zpid
+unable to fetch walk/trasit score
+{'zid': '95956453', 'Latitude': 33.732935, 'Longitude': -117.134967, 'location': {'type': 'Point', 'coordinates': [-117.134967, 33.732935]}, 'Price': 380000, 'Status': 'For sale', 'Address': '30087 Pine Needle Rd,\xa0Menifee, CA 92585', 'Description': 'Looking for a Gorgeous single story home, in a great family oriented Community? Look no further! This upgraded 3 bedroom 2 bath home has a 3-car garage. Nestled among the gently sloping foothills of Menifee. Home features Spacious Kitchen which include Granite countertops, along with a walk in pantry. Home also features Quartz countertops in the Bathrooms. SOLAR INCLUDED along with the beneficial QuietCool Whole House Fan. This home is less than a mile away from Heritage High School! NO HOA', 'ZipCode': '92585', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 3, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1739, 'ZestimatePrice': 368860, 'SaleHistory': [{'date': '8/5/2020', 'event': 'Listed for sale', 'price': '$380,000 (+4.1%)'}, {'date': '3/3/2020', 'event': 'Listing removed', 'price': '$364,900'}, {'date': '2/5/2020', 'event': 'Listed for sale', 'price': '$364,900 (+21.8%)'}, {'date': '12/29/2015', 'event': 'Sold', 'price': '$299,500'}], 'YearBuilt': '2015', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '6,098 sqft', 'Price_PerSQFT': 219, 'HOAFee': 'None'}exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=36.92.128.11:55443
+http://36.92.128.11:55443
+Rotating IP...new proxy=144.52.244.182:9999
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+Rotating IP...new proxy=103.142.68.2:8080
+http://103.142.68.2:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b898>, 'Connection to 103.142.68.2 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=103.89.235.121:83
+http://103.89.235.121:83
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b160>, 'Connection to 103.89.235.121 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=180.250.85.204:8181
+http://180.250.85.204:8181
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adb4828>, 'Connection to 180.250.85.204 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=103.99.8.106:83
+http://103.99.8.106:83
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adb4f28>, 'Connection to 103.99.8.106 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=177.137.203.179:8090
+http://177.137.203.179:8090
+PAGE:1
+https://www.zillow.com/homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019816860>, 'Connection to 177.137.203.179 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=117.121.211.170:8080
+http://117.121.211.170:8080
+PAGE:1
+https://www.zillow.com/homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019816fd0>, 'Connection to 117.121.211.170 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=62.75.216.11:5836
+http://62.75.216.11:5836
+PAGE:1
+https://www.zillow.com/homes/for_rent/92551_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/2082119973_zpid
+Error window detected
+Rotating IP...new proxy=144.76.81.19:8000
+0
+Fetching...https://www.zillow.com/homes/for_sale/2082119973_zpid
+Year data not found
+{'zid': '2082119973', 'Latitude': 33.893066, 'Longitude': -117.20861, 'location': {'type': 'Point', 'coordinates': [-117.20861, 33.893066]}, 'Status': 'Condo for rent', 'Address': '15681 Lasselle St, APT 67,\xa0Moreno Valley, CA 92551', 'Description': 'TWO STORY CONDO WITH AN ATTACHED SINGLE CAR GARAGE. QUAINT KITCHEN WITH DINING SPACE, CARPET AND CEILING FANS THROUGHOUT, LARGE BEDROOMS WITH PLENTY OF CLOSET SPACE AND WASHER/DRYER INCLUDED. SORRY, NO PETS PLEASE', 'ZipCode': '92551', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 72, 'TransitScore': 35, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1140, 'ZestimatePrice': 1625, 'SaleHistory': [{'date': '5/22/2020', 'event': 'Listed for rent', 'price': '$1,575 (+5.4%)'}, {'date': '12/4/2019', 'event': 'Listing removed', 'price': '$1,495'}, {'date': '11/5/2019', 'event': 'Listed for rent', 'price': '$1,495'}], 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '1 space', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1575}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a143908>
+0
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=154.118.55.42:8768
+http://154.118.55.42:8768
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adb4eb8>, 'Connection to 154.118.55.42 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=178.33.44.77:80
+http://178.33.44.77:80
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201981e908>, 'Connection to 178.33.44.77 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=193.17.7.14:5836
+http://193.17.7.14:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=176.193.11.123:8080
+http://176.193.11.123:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a144cc0>, 'Connection to 176.193.11.123 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=180.183.7.229:8080
+http://180.183.7.229:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92551_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/17904903_zpid
+{'zid': '17904903', 'Latitude': 33.876516, 'Longitude': -117.216092, 'location': {'type': 'Point', 'coordinates': [-117.216092, 33.876516]}, 'Price': 395000, 'Status': 'For sale', 'Address': '16807 Via Pamplona,\xa0Moreno Valley, CA 92551', 'Description': 'STUNNING, SUPER CLEAN 3 BEDROOM 2 BATH SINGLE STORY OPEN FLOOR PLAN WITH PLENTY OF NATURAL LIGHT! AS YOU ENTER THRU THE FRONT DOOR, YOU WILL BE GREETED BY A FORMAL LIVING/DINING COMBO, CURRENTLY BEING USED AS A GREAT ROOM. LAMINATED WOOD FLOORS,PLANTATION SHUTTERS, AND CROWN MOULDING ARE JUST A FEW OF THE GREAT FEATURES IN THIS LOVELY HOME. SPACIOUS FEEL WITH 9 FOOT HIGH CEILINGS AND LARGE CEILING HEIGHT WINDOWS. TASTEFULLY DONE KITCHEN INCLUDES GRANITE COUNTERTOPS WITH FULL GRANITE BACKSPLASH AND A DESK AREA. KITCHEN OPEN TO THE FAMILY ROOM W/FIREPLACE , CURRENTLY BEING USED AS A DINING SPACE. SLIDING GLASS DOOR OFF THE KITCHEN LEADS YOU TO THE COVERED PATIO PERFECT FOR ENTERTAINING. DECORATIVE TREY CEILING IN KITCHEN W/RECESSED LIGHTS. SPACIOUS BEDROOMS ALL HAVE WALK IN CLOSETS AND CEILING FANS. MASTER BEDROOM INCLUDES CATHEDRAL CEILING. VERY NICELY DONE GARAGE CONVERSION (NOT PART OF THE LIVING SQ FT) GIVES YOU ADDED SPACE. CAN EASILY BE CONVERTED BACK TO A 3RD CAR GARAGE. GARAGE IS SUPER CLEAN WITH EPOXY FLOORS AND BUILT IN GARAGE CABINETRY. BACKYARD IS NICELY DONE, LOW MAINTENANCE, WITH A LOT OF VEGGIE PLANTS. GREAT CURB APPEAL, WELL MAINTAINED, PLENTY OF AMENITIES AT MORENO VALLEY RANCH INCLUDES A PRIVATE LAKE, PARKS, POOL, SPA, PADDLE BOATS, BASKETBALL COURTS, GYM, CLUBHOUSE & BBQ AREA. WALKING DISTANCE TO ELEMENTARY SCHOOL.', 'ZipCode': '92551', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 25, 'TransitScore': 33, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1664, 'ZestimatePrice': 351050, 'SaleHistory': '', 'YearBuilt': '1992', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '6,098 sqft', 'Price_PerSQFT': 237, 'HOAFee': 50}Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=95.211.196.208:5836
+http://95.211.196.208:5836
+Rotating IP...new proxy=202.138.239.126:8080
+MongoDB connected...
+PAGE:1
+https://www.zillow.com/homes/for_rent/92545_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/69261751_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '69261751', 'Latitude': 33.727985, 'Longitude': -117.041219, 'location': {'type': 'Point', 'coordinates': [-117.041219, 33.727985]}, 'Status': 'House for rent', 'Address': '6519 W Stetson Ave,\xa0Hemet, CA 92545', 'Description': "Come see this stunning double gated ranch home tucked away from the city yet close to amenities and major highways for commuting. This beautifully manicured home offers nearly 2.5 acres of space for all your work vehicles, equipment, or toys. Home's front exterior features remote gate access, circular drive, fountain feature, and outdoor seating surrounded by a manicured palm tree setting. Enter the custom 8ft double entry doors, and you'll find so many upgrades with terra cotta floors, vaulted ceilings and ceiling fans throughout. Bathrooms boast privacy glass block tile, dual sinks, and vanity table. Oversized master bedroom is light and airy with dual oversized his and her walk in closets and tub/shower. The Executive office with builtins provides privacy and luxury for those working at home. Your chef will enjoy the gourmet kitchen with stainless steel appliances, island with custom pendulum lighting and open floorplan to the family room. Step outside to the covered back patio and you will marvel at th ample room to entertain, park your toys, and just roam around. Backyard features a covered outdoor kitchen with circular dining seating, outdoor fireplace and brick oven. Paved roads access all areas of the property with custom concrete and accessory structures for additional storage or a workshop. You will not want to miss this amazing home.", 'ZipCode': '92545', 'State': 'CA', 'Locality': 'Hemet', 'WalkScore': 0, 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 2759, 'ZestimatePrice': 3037, 'SaleHistory': [{'date': '8/7/2020', 'event': 'Listed for rent', 'price': '$3,200'}, {'date': '5/7/2004', 'event': 'Sold', 'price': '$75,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '10 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 3200}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019fc1448>
+0
+zid: 69289552 already exist in db
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/63313433_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '63313433', 'Latitude': 33.74773, 'Longitude': -117.052007, 'location': {'type': 'Point', 'coordinates': [-117.052007, 33.74773]}, 'Status': 'House for rent', 'Address': '219 La Amistad Way,\xa0Hemet, CA 92545', 'Description': 'Hwy 74 and California - 219 La Amistad Way, Hemet 92545 - Gorgeous One Story Residential home in Lovely Hemet - California Avenue. Great Community... - Walk Into a large living and dining room area. Large Family room and Nice Size Kitchen with sliding door and kitchen window. Gorgeous outside Covered Patio. 2 Nice size bedrooms, 1 hall full bathroom, 1 Master Bedroom, and Master Bath. This lovely home will not last long. (RLNE6009822)', 'ZipCode': '92545', 'State': 'CA', 'Locality': 'Hemet', 'WalkScore': 2, 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 1968, 'ZestimatePrice': 2000, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Available now', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 1900, 'Rent': 2295}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019662988>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17988123_zpid
+Error window detected
+Rotating IP...new proxy=191.102.94.82:999
+0
+Fetching...https://www.zillow.com/homes/for_sale/17988123_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17988123', 'Latitude': 33.723305, 'Longitude': -117.013672, 'location': {'type': 'Point', 'coordinates': [-117.013672, 33.723305]}, 'Status': 'House for rent', 'Address': '4114 Rexford Dr,\xa0Hemet, CA 92545', 'Description': 'Great 2 Bedroom, 2 Bath Home features Fresh Paint. Tile throughout the Main Living Areas only the bedrooms have carpet. Kitchen has tile Counter tops a Built In Microwave and all the appliances are Stainless Steel and Black. Kitchen Has Breakfast Bar. Open Family Room has Brick Fireplace. Attached Two car Garage and Nice Size Fenced Backyard. Close to Schools and Shopping.', 'ZipCode': '92545', 'State': 'CA', 'Locality': 'Hemet', 'WalkScore': 35, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1222, 'ZestimatePrice': 1475, 'SaleHistory': [{'date': '7/31/2020', 'event': 'Listed for rent', 'price': '$1,450'}, {'date': '6/18/2013', 'event': 'Sold', 'price': '$130,000 (+85.7%)'}, {'date': '3/15/2013', 'event': 'Sold', 'price': '$70,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1450}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2018fcce88>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17974033_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17974033', 'Latitude': 33.751276, 'Longitude': -116.99693, 'location': {'type': 'Point', 'coordinates': [-116.99693, 33.751276]}, 'Status': 'House for rent', 'Address': '2407 Chanaral Ave,\xa0Hemet, CA 92545', 'Description': '55+ 2BR/1BA Duplex in the Fabulous Valle Hermosa!! 1 Garage plus 1 covered Patio! - Rent: $1,100 Deposit: $1,500 Address: 2407 Chanaral, Hemet CA . This is one of the best 55+ communities in Hemet. Single Story 2bd/1ba, AC, Washer/Dryer hookups, Ceiling Fans, 1 Car Garage, Close by shopping, Dining. This 2 bedroom 1 bathroom duplex has low maintenance backyard... Amazing cool breezes. Quiet 55+ community. Pets OK with additional deposit and owner approval. Tenants pay all the utilities and yard maintenance.', 'ZipCode': '92545', 'State': 'CA', 'Locality': 'Hemet', 'WalkScore': 66, 'Bedrooms': 2, 'Bathrooms': 1, 'AreaSpace_SQFT': 820, 'ZestimatePrice': 1100, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '1 space', 'Price_PerSQFT': 1, 'Date_available': 'Available now', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 1500, 'Rent': 1100}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20193d8fc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69287006_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '69287006', 'Latitude': 33.71753, 'Longitude': -117.003919, 'location': {'type': 'Point', 'coordinates': [-117.003919, 33.71753]}, 'Status': 'House for rent', 'Address': '3066 Caper Bush Ct,\xa0Hemet, CA 92545', 'Description': 'WONDERFUL WEST HEMET HOME LOCATED ON A CULDESAC IN WILLOWALK COMMUNITY. HOME FEATURES; 4 BEDROOMS, 3.5 BATH, 3 CAR GARAGE, WITH A LOFT, SEPARATE LIVING ROOM AND FAMILY ROOM, OPEN KITCHEN WITH GRANITE COUNTERS AND LOTS OF CABINET SPACE, WALK-IN PANTRY, FIREPLACE IN FAMILY ROOM, NEW CARPET AND PAINT THROUGHOUT , SPACIOUS MASTER BEDROOM WITH WALK-IN CLOSET, SPACIOUS MASTER BATHROOM WITH DUAL SINKS,GOOD SIZED LAUNDRY ROOM UPSTAIRS, JACK AND JILL BATHROOM, NEW CARPETING AND PAINT THROUGHOUT. LOCATED CONVENIENTLY CLOSE TO SHOPPING, SCHOOLS AND COMMUTER FRIENDLY. A MUST SEE!! PLEASE CALL FOR DETAILS.', 'ZipCode': '92545', 'State': 'CA', 'Locality': 'Hemet', 'WalkScore': 14, 'Bedrooms': 4, 'Bathrooms': 3.5, 'AreaSpace_SQFT': 3105, 'ZestimatePrice': 2035, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1995}exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=103.133.150.234:8080
+http://103.133.150.234:8080
+Rotating IP...new proxy=114.99.23.171:3000
+MongoDB connected...
+no results for zip 92554
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92554_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=201.52.56.62:3128
+http://201.52.56.62:3128
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92554_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=163.172.192.254:5836
+http://163.172.192.254:5836
+no results for zip 92554
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=171.35.173.32:9999
+http://171.35.173.32:9999
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019876b00>, 'Connection to 171.35.173.32 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=1.197.203.93:9999
+http://1.197.203.93:9999
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201987a4e0>: Failed to establish a new connection: [Errno 113] No route to host',)))
+Rotating IP...new proxy=182.34.36.67:9999
+http://182.34.36.67:9999
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201987a7b8>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=62.205.169.74:53281
+http://62.205.169.74:53281
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f20198b1358>, 'Connection to 62.205.169.74 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=193.106.130.249:8080
+http://193.106.130.249:8080
+PAGE:1
+https://www.zillow.com/homes/for_rent/92584_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/95920789_zpid
+Error window detected
+Rotating IP...new proxy=113.161.207.99:60626
+0
+Fetching...https://www.zillow.com/homes/for_sale/95920789_zpid
+Error window detected
+Rotating IP...new proxy=223.214.196.160:3000
+0
+Fetching...https://www.zillow.com/homes/for_sale/17933568_zpid
+Error window detected
+Rotating IP...new proxy=51.195.45.230:8080
+0
+Fetching...https://www.zillow.com/homes/for_sale/17933568_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17933568', 'Latitude': 33.678519, 'Longitude': -117.162087, 'location': {'type': 'Point', 'coordinates': [-117.162087, 33.678519]}, 'Status': 'House for rent', 'Address': '28526 Bridge Water Ln,\xa0Menifee, CA 92584', 'Description': 'Room to rent, $ 600 month to month, 10 ft by 10 ft, single person, unfurnished, upstairs, share bathroom, no pets, utilities included, laundry, parking on street, Menifee Lakes access around Lake, walking, biking fishing', 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 31, 'Bedrooms': 1, 'Bathrooms': 1, 'AreaSpace_SQFT': 100, 'ZestimatePrice': 2300, 'SaleHistory': [{'date': '8/7/2020', 'event': 'Listed for rent', 'price': '$600'}, {'date': '7/24/2002', 'event': 'Sold', 'price': '$272,500 (+51.4%)'}, {'date': '6/12/1998', 'event': 'Sold', 'price': '$180,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 6, 'Date_available': '9/1', 'Pets': 'No', 'Laundry': 'In Unit, Shared', 'Deposit_fees': 200, 'Rent': 600}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20192b7f08>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/69271499_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '69271499', 'Latitude': 33.703978, 'Longitude': -117.175666, 'location': {'type': 'Point', 'coordinates': [-117.175666, 33.703978]}, 'Status': 'House for rent', 'Address': '28702 Middlesbrough Ct,\xa0Menifee, CA 92584', 'Description': "Stunning Pool Home in Menifee! This home boasts; Four spacious bedrooms. Three bathrooms. Tiled entry. Plantation shutters. High ceilings. Ceiling Fans. Formal living room. Family room with media niche and cozy fireplace. Dining room. Open kitchen has; Recessed lighting, granite counter tops, large center island and butler's pantry! Master bedroom offers; En suite bathroom, dual sink vanity, separate tub and walk in shower. Guest bedrooms has a private balcony. Large landing at top of stairs. Resort style back yard with pool and spa with large decking and outdoor bar area for entertaining. This is a huge lot and also offers a large grass area. Beautiful landscaping in front and tropical in back yard. Large 3 car garage and fully fenced. This is a rare find and won't last long!! NO PETS. Renter's insurance required with a $300,000. policy.", 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2877, 'ZestimatePrice': 2650, 'SaleHistory': [{'date': '7/30/2020', 'event': 'Listed for rent', 'price': '$2,650'}, {'date': '1/30/2009', 'event': 'Sold', 'price': '$252,000 (+2.1%)'}, {'date': '11/22/2008', 'event': 'Listing removed', 'price': '$246,900'}, {'date': '11/19/2008', 'event': 'Listed for sale', 'price': '$246,900 (-4.7%)'}, {'date': '8/26/2008', 'event': 'Sold', 'price': '$259,200 (-45.9%)'}, {'date': '6/16/2006', 'event': 'Sold', 'price': '$479,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2650}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a4818c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17932990_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17932990', 'Latitude': 33.681545, 'Longitude': -117.165184, 'location': {'type': 'Point', 'coordinates': [-117.165184, 33.681545]}, 'Status': 'House for rent', 'Address': '30250 Shoreline Dr,\xa0Menifee, CA 92584', 'Description': "Incredible views of the Lake! This is a 3 bedroom 2 bath home on Menifee Lake. Custom Paint through out. This home features Formal Living room and Separate Family room with Fireplace and custom built ins. Gorgeous New Vinyl Planking in the downstairs level. The kitchen has been remodeled with new cabinets, new kitchen sink and new counter tops. Large Master Bedroom opens to Master Bathroom with dual sinks, soaking tub and separate shower. Indoor Laundry and two car garage. Enjoy the view of the lake from your fully landscaped backyard. Don't miss out on this one! Tenant is required to provide $300,000 in Renters Insurance", 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 54, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1746, 'ZestimatePrice': 2350, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'None', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2350}IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+Rotating IP...new proxy=178.255.171.184:8080
+http://178.255.171.184:8080
+Rotating IP...new proxy=138.97.200.82:8080
+MongoDB connected...
+no results for zip 92552
+no results for zip 92552
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92556_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad0ab70>, 'Connection to 178.255.171.184 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=195.133.49.217:5836
+http://195.133.49.217:5836
+no results for zip 92556
+no results for zip 92556
+PAGE:1
+https://www.zillow.com/homes/for_rent/92571_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/2078417012_zpid
+Error window detected
+Rotating IP...new proxy=212.129.46.114:5836
+0
+Fetching...https://www.zillow.com/homes/for_sale/2078417012_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '2078417012', 'Latitude': 33.828201, 'Longitude': -117.180521, 'location': {'type': 'Point', 'coordinates': [-117.180521, 33.828201]}, 'Status': 'House for rent', 'Address': '3042 S Cayenne Way,\xa0Perris, CA 92571', 'Description': 'Lovely move-in condition family home with very large second story bonus room. Large master suite with spacious bathroom. Landscaped front and rear yards. Open concept living, dining and family room, kitchen. Extremely clean and spacious! No pets please.', 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 4, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2711, 'ZestimatePrice': '', 'SaleHistory': [{'date': '8/2/2020', 'event': 'Listed for rent', 'price': '$2,195'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2195}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20193aaf48>
+0
+Fetching...https://www.zillow.com/homes/for_sale/54955233_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '54955233', 'Latitude': 33.837694, 'Longitude': -117.192714, 'location': {'type': 'Point', 'coordinates': [-117.192714, 33.837694]}, 'Status': 'House for rent', 'Address': '1491 Avila Dr,\xa0Perris, CA 92571', 'Description': "Fully remodeled with all high quality laminated flooring, newer kitchen and bathrooms. Just bring your furniture and family to enjoy this nice quiet community. Kitchen has stainless steel appliances, and breakfast bar over the family area with fireplace and media niche. Upstairs, Master bedroom, a suited bedroom with bathroom and two more bedrooms, Also includes upstairs laundry room. High rating school district with community recreation center with large pool, spa, and kid's pool with playground, along with tennis and basketball courts. Furniture, washer and dry not included just for display only Renter pay for all utilities, 1st month's rent due at signing and 1 month deposit. No smoking allowed. 4 bed 3.5 bath", 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 4, 'Bedrooms': 4, 'Bathrooms': 3.5, 'AreaSpace_SQFT': 2677, 'ZestimatePrice': 2450, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '6 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/1', 'Pets': 'No', 'Laundry': 'In Unit', 'Deposit_fees': 2450, 'Rent': 2450}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20196c09c8>
+0
+PAGE:1
+https://www.zillow.com/homes/for_sale/92571_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/17895634_zpid
+unable to fetch walk/trasit score
+{'zid': '17895634', 'Latitude': 33.842126, 'Longitude': -117.202233, 'location': {'type': 'Point', 'coordinates': [-117.202233, 33.842126]}, 'Price': 349900, 'Status': 'For sale', 'Address': '3865 Raintree Cir,\xa0Perris, CA 92571', 'Description': "Beautifully kept, expansive May Ranch Home! This home Boasts 3 spacious secondary rooms with large closets, an enormous bonus room/den, and a magnificent master suite!! As soon as you walk into the home, you will see the beautifully redone stairs, living room and dining room. Towards the back the kitchen and family room (with fireplace) allow for the whole family to spend their new quarantine life together and retreat to their own spaces when need be. 1825 Sq ft house has upgraded laminate flooring throughout with crown molding, giving it that extra detail of perfection. The 6098 sq ft lot has a Patio in the backyard to relax on hot summer nights with fully functioning Jacuzzi inside its own private enclosed Gazebo and lots of extra room for your pets, children's playground or possible pool. With no HOA, low property taxes and no mellow roos this home is truly perfect. The love and care throughout the property really show and make the home ready to embrace it's new owners!", 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 6, 'Bedrooms': 5, 'Bathrooms': 3, 'AreaSpace_SQFT': 1825, 'ZestimatePrice': 362993, 'SaleHistory': [{'date': '8/6/2020', 'event': 'Listed for sale', 'price': '$349,900 (+162.1%)'}, {'date': '12/17/1998', 'event': 'Sold', 'price': '$133,500'}], 'YearBuilt': '1998', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '5 spaces', 'Lot': '6,098 sqft', 'Price_PerSQFT': 192, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019b39ec8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17895479_zpid
+Error window detected
+Rotating IP...new proxy=212.83.128.56:5836
+0
+Fetching...https://www.zillow.com/homes/for_sale/17895479_zpid
+unable to fetch walk/trasit score
+{'zid': '17895479', 'Latitude': 33.838353, 'Longitude': -117.199974, 'location': {'type': 'Point', 'coordinates': [-117.199974, 33.838353]}, 'Price': 299000, 'Status': 'For sale', 'Address': '1195 Autumnwood Ln,\xa0Perris, CA 92571', 'Description': 'Single Family Home located in a desirable area of Perris. Conveniently located near Morgan Park, walking distance from May Ranch Elementary School, close to Rancho Verde High School and Moreno Valley College.', 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 7, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1407, 'ZestimatePrice': 299002, 'SaleHistory': [{'date': '7/28/2020', 'event': 'Listed for sale', 'price': '$299,000 (+3886.7%)'}, {'date': '8/28/1997', 'event': 'Sold', 'price': '$7,500 (-92.3%)'}, {'date': '2/21/1997', 'event': 'Sold', 'price': '$97,500'}], 'YearBuilt': '1997', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '3,920 sqft', 'Price_PerSQFT': 213, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019621f88>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/83152466_zpid
+unable to fetch walk/trasit score
+{'zid': '83152466', 'Latitude': 33.827166, 'Longitude': -117.18051, 'location': {'type': 'Point', 'coordinates': [-117.18051, 33.827166]}, 'Price': 355000, 'Status': 'For sale', 'Address': '3014 Cayenne Way,\xa0Perris, CA 92571', 'Description': 'WELCOME TO THE DESIRABLE COMMUNITY OF **OLIVE GROVE!** JUST THE 3 BEDROOM, 2 BATH HOME YOU HAVE BEEN LOOKING FOR!! YOU WILL FIND A WONDERFUL **GREAT ROOM** WITH FIREPLACE AND KITCHEN. YOU WILL ENJOY THE LARGE PANTRY AND AN ABUNDANT AMOUNT OF CABINETS AND COUNTER SPACE WITH A BREAKFAST COUNTER BAR. THIS FLOORPLAN FEATURES THE LARGE MAIN BEDROOM ON ONE SIDE OF THE HOUSE AND THE SECONDARY BEDROOMS ON THE OTHER. SEPARATE TUB AND SHOWER AND TWO CLOSETS, ONE BEING A WALK-IN CLOSET. CUSTOM SHUTTERS AND CEILING FANS THROUGHOUT. ENJOY THOSE SUMMER NIGHTS ON YOUR COZY PATIO WITH PATIO COVER AND BEAUTIFUL HARDSCAPE!! CALL TO SEE TODAY!', 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 4, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1870, 'ZestimatePrice': 356253, 'SaleHistory': [{'date': '8/5/2020', 'event': 'Listed for sale', 'price': '$355,000 (+33%)'}, {'date': '12/13/2007', 'event': 'Sold', 'price': '$267,000'}], 'YearBuilt': '2007', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '5,227 sqft', 'Price_PerSQFT': 190, 'HOAFee': 'None'}IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+Rotating IP...new proxy=198.232.160.7:8080
+http://198.232.160.7:8080
+Rotating IP...new proxy=125.26.179.95:8080
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92570_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+Rotating IP...new proxy=182.32.230.104:9999
+http://182.32.230.104:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92570_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:761: The handshake operation timed out',)))
+Rotating IP...new proxy=103.82.43.9:51811
+http://103.82.43.9:51811
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92570_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1bd30>, 'Connection to 103.82.43.9 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=103.83.38.27:5836
+http://103.83.38.27:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92570_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=138.117.85.137:999
+http://138.117.85.137:999
+no results for zip 92570
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019c68048>, 'Connection to 138.117.85.137 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=179.43.96.178:8080
+http://179.43.96.178:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019c68b38>, 'Connection to 179.43.96.178 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=89.189.172.88:8080
+http://89.189.172.88:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019c68e80>, 'Connection to 89.189.172.88 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=177.99.162.132:3128
+http://177.99.162.132:3128
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019c6f9b0>, 'Connection to 177.99.162.132 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=113.124.92.19:9999
+http://113.124.92.19:9999
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019c682b0>, 'Connection to 113.124.92.19 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=179.96.109.52:8080
+http://179.96.109.52:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92570_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/246911256_zpid
+Error window detected
+Rotating IP...new proxy=51.79.145.244:8080
+0
+Fetching...https://www.zillow.com/homes/for_sale/246911256_zpid
+unable to fetch walk/trasit score
+{'zid': '246911256', 'Latitude': 33.77591, 'Longitude': -117.231404, 'location': {'type': 'Point', 'coordinates': [-117.231404, 33.77591]}, 'Price': 369900, 'Status': 'For sale', 'Address': '252 W 11th St,\xa0Perris, CA 92570', 'Description': 'LOCATED AT CLOSE PROXIMITY TO DOWNTOWN PERRIS. LOW TAXES NO HOA. DELIGHT YOURSELF IN THIS BEAUTIFUL MOVE-IN READY ONE STORY RESIDENCE FEATURING: 4 BEDROOMS, 2.5 BATHROOMS. 10 FOOT CEILINGS, RECESS LIGHTING, TANK-LESS WATER HEATER. EXQUISITE TILE FLOORS LAY FROM THE ENTRYWAY THROUGHOUT AND CARPET IN THE BEDROOMS. AS YOU WALK INTO THE MAIN ENTRANCE YOU WILL FIND YOURSELF IN A HIGH CEILING CORRIDOR LEADING YOU INTO THE A LIVING ROOM TO THE DINNING ROOM. OPEN SPACE KITCHEN IS FITTED W/GRANITE COUNTERS, ISLAND & STAINLESS STEEL APPLIANCES. MASTER BEDROOM FINDS ITSELF ON A SEPARATE WING OF THE HOME FOR ADDITIONALLY PRIVACY, MASTER EXTENDS ITSELF TO PERFECTLY PLACED WALK IN CLOSET AS YOU MAKE YOUR WAY THROUGH MASTER BATHROOM. INDOOR LAUNDRY ROOM WITH SINK. ALLEY ACCESS TO GARAGE, FINISHED WITH DRYWALL.', 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 50, 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 1765, 'ZestimatePrice': 369900, 'SaleHistory': [{'date': '8/5/2020', 'event': 'Listed for sale', 'price': '$369,900 (+14.5%)'}, {'date': '3/29/2018', 'event': 'Sold', 'price': '$323,000'}], 'YearBuilt': '2017', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '4 spaces', 'Lot': '5,662 sqft', 'Price_PerSQFT': 210, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20195f0348>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17908021_zpid
+unable to fetch walk/trasit score
+{'zid': '17908021', 'Latitude': 33.830036, 'Longitude': -117.257716, 'location': {'type': 'Point', 'coordinates': [-117.257716, 33.830036]}, 'Price': 360000, 'Status': 'For sale', 'Address': '23222 Norrisgrove Ave,\xa0Perris, CA 92570', 'Description': "This charming, 3 bedroom single story home, feels like you're stepping into your own private paradise. The front is full of lush greenery and bright, colorful flowers scattered throughout. Enjoy your morning cup of coffee under the covered patio and watch beautiful butterflies fly around the garden. With fresh exterior paint, 2 car garage, RV parking, and extended driveway theres tons of room for all of your cars and toys. The entrance leads into a dining room full of natural light. Comfortably host your family gatherings with a family room, informal living room, and bar top counterspace, perfect for serving food. 2 bedrooms share a gorgeous remodeled bathroom. The master bedroom has its own attached bathroom complete with double sinks, shower and bathtub. Take two steps to open the curtains and enjoy natural light through your own private entrance to the back yard. An entertainers dream, there is a covered patio, grass, and planters full of lemon, lime, peach, and orange fruit trees to provide all of the garnishes you need to mix yummy drinks in the built in BBQ island. This home wont last. Schedule your tour today!", 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1420, 'ZestimatePrice': 360001, 'SaleHistory': [{'date': '8/7/2020', 'event': 'Price change', 'price': '$360,000 (+5.9%)'}, {'date': '8/5/2020', 'event': 'Listed for sale', 'price': '$340,000 (+279.9%)'}, {'date': '10/18/1994', 'event': 'Sold', 'price': '$89,500'}], 'YearBuilt': '1990', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '6 spaces', 'Lot': '7,405 sqft', 'Price_PerSQFT': 254, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019ab9dc8>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/79819018_zpid
+unable to fetch walk/trasit score
+{'zid': '79819018', 'Latitude': 33.768995, 'Longitude': -117.351374, 'location': {'type': 'Point', 'coordinates': [-117.351374, 33.768995]}, 'Price': 720000, 'Status': 'For sale', 'Address': '17601 Baluchi Ct,\xa0Perris, CA 92570', 'Description': 'Spacious Executive Home in Gavilan Hills with Rolling Views. Single story 5 bedroom 4 bathroom home with a 3 car garage and breathtaking views of the hills and horizon. This home features a double door entrance to formal living & dining rooms and a spacious family room with a fireplace. Backyard has been tastefully done with hardscape, built in barbecue and entertaining area with Koi pond and deck with a breaktaking view. The kitchen is large with plenty of cabinetry, granite counters, stainless steel appliances, double oven, walk in pantry & large center island. Master suite is spacious with master bathroom featuring dual sinks, two closets, separate tub & shower. Additional features include 10 foot ceilings, indoor laundry room, tile flooring, and built in desk in hallway. On Septic and Propane.', 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 1, 'Bedrooms': 5, 'Bathrooms': 4, 'AreaSpace_SQFT': 3295, 'ZestimatePrice': 720001, 'SaleHistory': [{'date': '8/6/2020', 'event': 'Listed for sale', 'price': '$720,000 (+56.9%)'}, {'date': '5/6/2010', 'event': 'Sold', 'price': '$459,000'}, {'date': '3/31/2010', 'event': 'Listing removed', 'price': '$459,000'}, {'date': '12/12/2009', 'event': 'Listed for sale', 'price': '$459,000'}], 'YearBuilt': '2008', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '8 spaces', 'Lot': '2.52 acres', 'Price_PerSQFT': 219, 'HOAFee': 'None'}IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+Rotating IP...new proxy=103.87.170.237:45585
+http://103.87.170.237:45585
+Rotating IP...new proxy=181.39.48.2:8080
+MongoDB connected...
+PAGE:1
+https://www.zillow.com/homes/for_rent/92549_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/2083024402_zpid
+Error window detected
+Rotating IP...new proxy=186.46.222.26:8080
+0
+Fetching...https://www.zillow.com/homes/for_sale/2083024402_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '2083024402', 'Latitude': 33.762672, 'Longitude': -116.736303, 'location': {'type': 'Point', 'coordinates': [-116.736303, 33.762672]}, 'Status': 'House for rent', 'Address': '24795 Schaffer Dr,\xa0Idyllwild, CA 92549', 'Description': 'Come see this great home, very large, 3 bedroom 2 bath with a loft upstairs and laundry downstairs also a work out room or Beautiful Knotty Pine Interior re-modeled not long ago. Large yard and Carport, Available for lease with approved credit. Non-Smokers and small pet under 30 lbs.', 'ZipCode': '92549', 'State': 'CA', 'Locality': 'Idyllwild', 'Bedrooms': 3, 'Bathrooms': 1.5, 'AreaSpace_SQFT': 1109, 'ZestimatePrice': '', 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'None', 'Parking': '8 spaces', 'Price_PerSQFT': 2, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 'Contact manager', 'Rent': 2500}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a2c0048>
+0
+Traceback (most recent call last):
+  File "/home/testapiuser/HouseApp_2/ZillowScrapper-dev/main.py", line 481, in find_articles_by_zip
+    self.scrapeArticle(result, card_type)
+  File "/home/testapiuser/HouseApp_2/ZillowScrapper-dev/main.py", line 325, in scrapeArticle
+    returndata["Latitude"] = json.loads(returnString(result.script))['geo']['latitude']
+KeyError: 'latitude'
+
+0
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92549_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=172.105.113.134:3128
+http://172.105.113.134:3128
+PAGE:1
+https://www.zillow.com/homes/for_sale/92549_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/18047807_zpid
+unable to fetch walk/trasit score
+{'zid': '18047807', 'Latitude': 33.747454, 'Longitude': -116.696224, 'location': {'type': 'Point', 'coordinates': [-116.696224, 33.747454]}, 'Price': 450000, 'Status': 'For sale', 'Address': '25810 Sunset View Dr,\xa0Idyllwild, CA 92549', 'Description': 'This mountain home has a cool retro vibe. You will find a durable, eco-friendly marmoleum floor, along with custom industrial lighting. The home has an open floor plan with two large bedrooms on the main floor, along with a newly remodeled bathroom. The bathroom has a beautiful freestanding sink, new penny tile floors, and edison lighting. The shower preserves the open and fun feel of the house with a large glass enclosure complete with a retro shower valve set and a rain maker shower head. On the main level is a loft overlooking the living room which has the original western red cedar walls, a vaulted ceiling, and floor to ceiling windows. Hunker down with your favorite blanket next to the cracking fire and enjoy the amazing views of nature and skyline from the glass windows all around. From the living room you can walk out of the large wood french doors to the deck where you can relax in the hot tub and watch the sunset. What more could you ask for? How about a separate second level living space! The lower level is complete with a center living room area, a built in Queen size bed, and a full bathroom. This house is perfect for relaxing the day away.', 'ZipCode': '92549', 'State': 'CA', 'Locality': 'Idyllwild', 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 1400, 'ZestimatePrice': 445488, 'SaleHistory': '', 'YearBuilt': '1973', 'Type': 'Single Family', 'Heating': 'No Data', 'Cooling': 'No Data', 'Parking': '3 spaces', 'Lot': '10,454 sqft', 'Price_PerSQFT': 321}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019636848>
+0
+zid: 2079472194 already exist in db
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/18046029_zpid
+unable to fetch walk/trasit score
+{'zid': '18046029', 'Latitude': 33.755553, 'Longitude': -116.745638, 'location': {'type': 'Point', 'coordinates': [-116.745638, 33.755553]}, 'Price': 280000, 'Status': 'For sale', 'Address': '25245 Rosaline Rd,\xa0Idyllwild, CA 92549', 'Description': "Time to work from home? And gain rental income when you are elsewhere? The knotty pine ceiling and cedar slab walls satisfy the rustic cabin lovers as you sit by the fire or prepare to feast. Vaulted ceiling bedrooms and newly remodeled master bath upstairs. Very well loved cabin with many upgrades: Tankless water heater, dual pane windows, forced air heating, new floors and fresh paint. The kitchen has a classy remodel while keeping the rustic cabin feel intact, see for yourself with the cabinets, drawers, new appliances and island alongside the natural edge slab bar. Modern meet Rustic. Doggy doors and gated pet area for easy pet access. This home has three decks for your outdoor entertainment from the sunrise to sunset. A workshop (can be turned into sleeping quarters) and 'she-shed' in the back for personal item storage or arts-n-crafts. What are your ideas? Flat parking for multiple vehicles and RV with room to build a carport or garage. WD and appliances included.*Termite, Septic, Home Inspections on file. Property boundaries are marked. House is completely empty of furniture. Ready for an easy close.", 'ZipCode': '92549', 'State': 'CA', 'Locality': 'Idyllwild', 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1250, 'ZestimatePrice': '', 'SaleHistory': '', 'YearBuilt': '1979', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'No Data', 'Parking': 'Off street', 'Lot': '0.28 acres', 'Price_PerSQFT': 224, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2018f58588>
+0
+Fetching...https://www.zillow.com/homes/for_sale/18046390_zpid
+unable to fetch walk/trasit score
+{'zid': '18046390', 'Latitude': 33.758591, 'Longitude': -116.73446, 'location': {'type': 'Point', 'coordinates': [-116.73446, 33.758591]}, 'Price': 449000, 'Status': 'For sale', 'Address': '24820 Ponderosa Dr,\xa0Idyllwild, CA 92549', 'Description': "TUCKED AWAY ON A WOODED MOUNTAIN RIDGE, THIS ONE OF A KIND CUSTOM VIEW HOME WAS BUILT AS A RETREAT GET-A-WAY FROM A BUSY CITY LIFE, A PLACE TO UNWIND AND REPLENISH ONE'S CREATIVE SIDE. OFFERING PRIVACY AND SECLUSION, THIS THREE LEVEL, 3 BD. 2.5 BATH HOME WAS BUILT AND DESIGNED TO CAPTURE THE FOREST SETTING AND TREE TOP VIEWS OF BLUE SKIES AND MOUNTAIN RIDGES. VAULTED CEDAR CEILINGS, CEDAR PANELED WALLS AND VIEWS FROM EVERY ROOM MAKE THIS HOME A JOY TO ESCAPE TO. THERE ARE 2 MASTER BEDROOMS , ONE ON THE MAIN LEVEL AND A LOFT MASTER ON THE UPPER LEVEL, PLUS A GUEST BED ROOM/DEN ON THE LOWER LEVEL WITH IT'S OWN ENTRY AND DECK. THE GOURMET KITCHEN WITH GRANITE COUNTER TOPS AND HICKORY CABINETS OPENS TO A SPACIOUS DINING ROOM NOOK AREA MAKING ENTERTAINING EASY. STEP DOWN LIVING ROOM AREA HAS VAULTED WOOD CEILINGS, AND FRENCH DOORS THAT OPEN TO VIEW INSPIRING REDWOOD DECKING. THE FURNISHINGS ARE NEGOTIABLE WITH THE RIGHT PRICE. MUSIC RULES IN THIS HOUSE SO BRING YOUR GUITAR AND PIANO AND PLAY TO YOUR HEARTS CONTENT!", 'ZipCode': '92549', 'State': 'CA', 'Locality': 'Idyllwild', 'WalkScore': 0, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1598, 'ZestimatePrice': 407113, 'SaleHistory': '', 'YearBuilt': '1981', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'No Data', 'Parking': 'No Data', 'Lot': '0.31 acres', 'Price_PerSQFT': 281}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019ceb988>
+0
+Fetching...https://www.zillow.com/homes/for_sale/18046673_zpid
+unable to fetch walk/trasit score
+{'zid': '18046673', 'Latitude': 33.75044, 'Longitude': -116.726623, 'location': {'type': 'Point', 'coordinates': [-116.726623, 33.75044]}, 'Price': 535000, 'Status': 'For sale', 'Address': '25610 Double Tree Dr,\xa0Idyllwild, CA 92549', 'Description': 'BEAUTIFUL CEDAR AND GLASS MOUNTAIN HOME LOCATED IN PRESTIGIOUS "CEDAR GLEN" WITH AN EXTRA LOT ADDED IN FOR PRIVACY. AS YOU ENTER ON THE MAIN LEVEL OF THIS 3 BD. 2.5 BATH HOME, THE ROOM OPENS TO VAULTED CEILINGS FRAMED BY FLOOR TO CEILING WINDOWS IN THE STEP DOWN LIVING ROOM AREA, CAPTURING THE FOREST SETTING AND SPACIOUS OUTSIDE DECKING. THE PERFECT HOME FOR ENTERTAINING. COME PLAY THE PIANO OR RELAX WITH FRIENDS BY THE FIREPLACE OR READ YOUR LATEST NOVEL. THERE ARE TWO BEDROOMS ON THIS LEVEL, AN OPEN KITCHEN/DINING AREA, A SPACIOUS LIVING ROOM WITH PIANO, AND A FULL BATH WITH LAUNDRY ROOM. THE STAIRWELL LEADS TO A LOFT BEDROOM AND HALF BATH. YOU WILL LOVE THE PIECE AND QUIET THIS HOME OFFERS. THERE IS A SINGLE CAR GARAGE AT THE GROUND LEVEL WITH A HUGE ENCLOSED 1000 SQ. FT STORAGE AREA ATTACHED TO IT. WHAT A WORKSHOP THAT WOULD MAKE! THIS HOME CAN COME TURN KEY LESS SOME PERSONAL ITEMS. CURRENTLY THIS HOME IS BEING USED AS A VACATION RENTAL AND CAN ONLY BE SHOWN WHEN VACANT, AN APPOINTMENT MUST BE MADE TO SHOW. THERE IS AN INFORMAL HOA FOR CEDAR GLEN.', 'ZipCode': '92549', 'State': 'CA', 'Locality': 'Idyllwild', 'WalkScore': 5, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2560, 'ZestimatePrice': 399434, 'SaleHistory': [{'date': '8/6/2020', 'event': 'Listed for sale', 'price': '$535,000 (+12.8%)'}, {'date': '2/24/2006', 'event': 'Sold', 'price': '$474,500'}], 'YearBuilt': '1979', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'No Data', 'Parking': '2 spaces', 'Lot': '0.42 acres', 'Price_PerSQFT': 209}IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f1fd8790708>
+0
+Fetching...https://www.zillow.com/homes/for_sale/18182164_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '18182164', 'Latitude': 33.558826, 'Longitude': -117.196706, 'location': {'type': 'Point', 'coordinates': [-117.196706, 33.558826]}, 'Status': 'House for rent', 'Address': '25189 Monroe Ave,\xa0Murrieta, CA 92562', 'Description': 'Very nice 4 bedroom, 3 Bath Home with tile flooring through out, granite counter tops in the kitchen, over-sized garage and a large work shop in the back perfect for storage or working on projects. The home sits on 3.10 acres next to the N 15 FWY. Owner is renting the home and fenced in yard area only. Other businesses or entities may/can rent the land for business or personal use. Land has an income producing billboard separate from the rental agreement. Owner will possibly entertain Rent with Option to Buy. Property has tones of potential!', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 24, 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2046, 'ZestimatePrice': 3429, 'SaleHistory': [{'date': '7/24/2020', 'event': 'Listed for rent', 'price': '$2,600 (-7.1%)'}, {'date': '5/14/2020', 'event': 'Listing removed', 'price': '$2,800'}, {'date': '1/6/2020', 'event': 'Listed for rent', 'price': '$2,800 (+7.7%)'}, {'date': '1/24/2018', 'event': 'Listing removed', 'price': '$2,600'}, {'date': '1/2/2018', 'event': 'Listed for rent', 'price': '$2,600 (+8.3%)'}, {'date': '12/3/2015', 'event': 'Listing removed', 'price': '$2,400'}, {'date': '11/12/2015', 'event': 'Listed for rent', 'price': '$2,400'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 'Contact manager', 'Rent': 2600}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a0ea8c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/18179109_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '18179109', 'Latitude': 33.57698, 'Longitude': -117.184438, 'location': {'type': 'Point', 'coordinates': [-117.184438, 33.57698]}, 'Status': 'House for rent', 'Address': '24681 Morningstar Dr,\xa0Murrieta, CA 92562', 'Description': 'New paint & upgraded carpet. Laundry in garage. Extra room in garage with a/c.This is not the 2nd bedroom. only a room. Large private back yard with patio. Renter responsible for maintaining yard. Renter pays for ALL utilities. Require credit report showing on time payments and ability to maintain the property in good condition. Will consider extra ordinary circumstances if otherwise. I.E. medical conditions. Will post pictures later.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 23, 'Bedrooms': 2, 'Bathrooms': 1, 'AreaSpace_SQFT': 965, 'ZestimatePrice': 1795, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 2, 'Date_available': 'Available now', 'Pets': 'No', 'Laundry': 'In Unit', 'Deposit_fees': 1795, 'Rent': 1795}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201ad993c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/2084369108_zpid
+Year data not found
+{'zid': '2084369108', 'Latitude': 33.600523, 'Longitude': -117.180577, 'location': {'type': 'Point', 'coordinates': [-117.180577, 33.600523]}, 'Status': 'Townhouse for rent', 'Address': '35859 Neala Ln,\xa0Murrieta, CA 92562', 'Description': 'Welcome to the gorgeous gated community of Vista Bella in Murrieta. 6 months new, 4 bedroom, 2.5 bath Duet.-Home. This large and spacious floorplan offers a Great room that is adjoining to a Beautiful Kitchen which features white shaker style cabinets , gray granite counter tops, GE stainless steel appliances, (Refrigerator/Washer/Dryer included) a large center island and wood plank look flooring. Eco Friendly with a whole house fan, tankless water heater, LED lighting, and ceiling fans. Enjoy your privacy in your own fenced patio area. The 2 Car Attached Garage Plus a private side Driveway offers plenty of parking. Located centrally to award winning schools, close to shopping and restaurants, and commuter friendly to both the 215 and I-15 freeways. This is a BEAUTY! Small dog may be considered.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 36, 'TransitScore': 18, 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1685, 'ZestimatePrice': 2395, 'SaleHistory': [{'date': '7/29/2020', 'event': 'Price change', 'price': '$2,475 (+3.1%)'}, {'date': '7/17/2020', 'event': 'Listed for rent', 'price': '$2,400'}, {'date': '1/30/2020', 'event': 'Listing removed', 'price': '$2,400'}, {'date': '12/11/2019', 'event': 'Listed for rent', 'price': '$2,400'}, {'date': '12/2/2019', 'event': 'Sold', 'price': '$376,963 (+1.4%)'}, {'date': '8/28/2019', 'event': 'Pending sale', 'price': '$371,900'}, {'date': '5/19/2019', 'event': 'Listed for sale', 'price': '$371,900'}], 'Type': 'Townhouse', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '5 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2475}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201918cfc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/61302263_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '61302263', 'Latitude': 33.558316, 'Longitude': -117.203796, 'location': {'type': 'Point', 'coordinates': [-117.203796, 33.558316]}, 'Status': 'Condo for rent', 'Address': '24909 Madison Ave, UNIT 2711,\xa0Murrieta, CA 92562', 'Description': 'Great location! 2 bedroom, 2 bath lower level corner unit, kitchen opens to living area. Over sized storage closet, large laundry room, private patio and i car attached garage. All new appliances, tiled kitchen floors, freshly painted kitchen cabinets and interior, new carpet in bedrooms, new window coverings, new bath room vanities, laminate flooring in family dining and living area. Built in computer work area off family dining area. Close to pool, club house, gated community, close to I-15 and I - 215 freeways. Walking distance to shopping. Washer, dryer and refrigerator included in rental. This condo will not last! Upgrades throughout.', 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 23, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1159, 'ZestimatePrice': 1850, 'SaleHistory': '', 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '1 space', 'Price_PerSQFT': 2, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 'Contact manager', 'Rent': 1950}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20191dc088>
+0
+Fetching...https://www.zillow.com/homes/for_sale/89234218_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '89234218', 'Latitude': 33.566005, 'Longitude': -117.224191, 'location': {'type': 'Point', 'coordinates': [-117.224191, 33.566005]}, 'Status': 'House for rent', 'Address': '41808 Davidson St,\xa0Murrieta, CA 92562', 'Description': "Make yourself at home at this charming 5 bedroom 3.5 bathroom home located in Murrietta! Located on the West side of Murrieta in the area of Kenton Place. Spacious formal living and dining rooms. Relax in the large family room with fireplace that opens to the kitchen. The kitchen has attractive white cabinets that contrast with black granite countertops. Downstairs office/den with 1/2 bath. Dramatic staircase leading to second story. The master bedroom and bath is light and bright w separate vanities and large soaking tub and separate shower w wonderful walk-in closets. Upstairs has four additional bedrooms w easy access to bathroom between bedrooms one ensuite next to large bonus room. Downstairs laundry room. Did we mention there a Four car garage.... Front yard is nicely landscaped w relaxing porch and extended driveway. 15,000 sq.ft + backyard with large BBQ area. Spacious backyard w walkways and hardscape is ideal for entertaining. No HOA. Don't miss this opportunity to make this home yours! Contact our leasing agent Charles Chamarro for more information! Professionally managed by Pathlight Property Management, the exclusive property manager for Home Partners of America, offering excellent customer service, 24/7 emergency maintenance service, online application and payments, and pet-friendly options. HOA occupancy restrictions may apply. We care about your health and safety as well as the community during the COVID-19 crisis. Even when using a self-showing option, please comply with all local directives and orders aimed at reducing exposure. Any information of special interest should be verified with Pathlight Property Management.**ALERT: If you see an ad for this home on Craigslist, please notify our office. We do not advertise any of our homes on Craigslist and it is likely fraud.** Contact us to schedule a showing.", 'ZipCode': '92562', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 12, 'Bedrooms': 5, 'Bathrooms': 4, 'AreaSpace_SQFT': 4173, 'ZestimatePrice': 3663, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/13', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 3700}Rotating IP...new proxy=103.149.240.202:8080
+http://103.149.240.202:8080
+Rotating IP...new proxy=45.174.77.241:999
+MongoDB connected...
+no results for zip 92553
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b9b0>, 'Connection to 103.149.240.202 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=109.195.251.81:8080
+http://109.195.251.81:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad0a828>, 'Connection to 109.195.251.81 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=182.148.206.153:9999
+http://182.148.206.153:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adcaf60>, 'Connection to 182.148.206.153 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=185.198.184.14:48122
+http://185.198.184.14:48122
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=223.214.197.19:3000
+http://223.214.197.19:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adca400>: Failed to establish a new connection: [Errno 113] No route to host',)))
+Rotating IP...new proxy=136.228.168.62:8080
+http://136.228.168.62:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adbd940>, 'Connection to 136.228.168.62 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=36.248.132.85:9999
+http://36.248.132.85:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adbde48>, 'Connection to 36.248.132.85 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=64.56.218.161:8080
+http://64.56.218.161:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad6aba8>, 'Connection to 64.56.218.161 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=24.172.225.122:53281
+http://24.172.225.122:53281
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=197.246.178.154:8080
+http://197.246.178.154:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad769e8>, 'Connection to 197.246.178.154 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=114.101.252.142:3000
+http://114.101.252.142:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad76e48>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=154.118.55.42:8768
+http://154.118.55.42:8768
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad83ba8>, 'Connection to 154.118.55.42 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=113.121.67.123:9999
+http://113.121.67.123:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad92630>, 'Connection to 113.121.67.123 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=43.248.24.158:51166
+http://43.248.24.158:51166
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=43.247.39.126:80
+http://43.247.39.126:80
+PAGE:1
+https://www.zillow.com/homes/for_sale/92553_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/18002886_zpid
+{'zid': '18002886', 'Latitude': 33.936668, 'Longitude': -117.222539, 'location': {'type': 'Point', 'coordinates': [-117.222539, 33.936668]}, 'Price': 330000, 'Status': 'For sale', 'Address': '25213 Todd Dr,\xa0Moreno Valley, CA 92553', 'Description': 'You can make this your home, located minutes away from the 60 and 215 freeways. Schools and shopping are also a short drive away. This Moreno Valley home features 3 bedrooms, 2 baths, kitchen, dining area, and a family room. It has a large front and back yard. The home has an attached 2 car garage with remote access garage opener. Laminate flooring is located throughout the home with carpeted bedrooms and tiled bathroom floors. The large backyard has a wood patio and there is plenty of room for the kids to play. For a quick getaway, Lake Perris Recreation Area is located 4.5 miles away. This home is waiting for a new family, let it be you. Hurry, will sell fast!', 'ZipCode': '92553', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 65, 'TransitScore': 32, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1116, 'ZestimatePrice': 330000, 'SaleHistory': '', 'YearBuilt': '1981', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '7,405 sqft', 'Price_PerSQFT': 296, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019bb08c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/18009550_zpid
+unable to fetch walk/trasit score
+{'zid': '18009550', 'Latitude': 33.903818, 'Longitude': -117.237332, 'location': {'type': 'Point', 'coordinates': [-117.237332, 33.903818]}, 'Price': 280000, 'Status': 'For sale', 'Address': '14960 Perham Dr,\xa0Moreno Valley, CA 92553', 'Description': 'Cozy 3 bed 2 bath 2 car garage with central A/C single family residence this is a standard sale located in Moreno Valley. Great for first time buyers.', 'ZipCode': '92553', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 28, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 996, 'ZestimatePrice': 280001, 'SaleHistory': '', 'YearBuilt': '1987', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '5,227 sqft', 'Price_PerSQFT': 281, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201906c348>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/18003561_zpid
+{'zid': '18003561', 'Latitude': 33.922641, 'Longitude': -117.212863, 'location': {'type': 'Point', 'coordinates': [-117.212863, 33.922641]}, 'Price': 345000, 'Status': 'For sale', 'Address': '13637 Chara Ave,\xa0Moreno Valley, CA 92553', 'Description': 'Welcome to 13637 Chara Ct in Moreno Valley Ca. Situated at the end of the culdesac, this home has plenty of privacy and seclusion from high flow traffic. The house features three bedrooms two baths on a single story floor plan, additionally it offers an open kitchen, dining room family room and two car garage.', 'ZipCode': '92553', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 19, 'TransitScore': 22, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1457, 'ZestimatePrice': 345084, 'SaleHistory': [{'date': '8/4/2020', 'event': 'Listed for sale', 'price': '$345,000 (+23.3%)'}, {'date': '2/10/2017', 'event': 'Listing removed', 'price': '$279,900'}, {'date': '12/23/2016', 'event': 'Listed for sale', 'price': '$279,900 (-16.7%)'}, {'date': '8/12/2005', 'event': 'Sold', 'price': '$336,000'}], 'YearBuilt': '1985', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '9,147 sqft', 'Price_PerSQFT': 237, 'HOAFee': 'None'}IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+Rotating IP...new proxy=185.184.243.197:5836
+http://185.184.243.197:5836
+Rotating IP...new proxy=177.70.79.74:3128
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92582_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201acea8d0>, 'Connection to 185.184.243.197 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=220.179.214.37:3000
+http://220.179.214.37:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92582_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1ca90>, 'Connection to 220.179.214.37 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=88.99.77.51:5836
+http://88.99.77.51:5836
+PAGE:1
+https://www.zillow.com/homes/for_rent/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=158.69.129.2:3128
+http://158.69.129.2:3128
+PAGE:1
+https://www.zillow.com/homes/for_rent/92582_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/69286245_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '69286245', 'Latitude': 33.790749, 'Longitude': -116.998382, 'location': {'type': 'Point', 'coordinates': [-116.998382, 33.790749]}, 'Status': 'House for rent', 'Address': '300 N Kirby St,\xa0San Jacinto, CA 92582', 'Description': 'Beautiful and spacious 4 bedroom home in San Jacinto available for immediate move-in! Request a self-viewing today and apply for FREE!', 'ZipCode': '92582', 'State': 'CA', 'Locality': 'San Jacinto', 'WalkScore': 4, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1340, 'ZestimatePrice': 1795, 'SaleHistory': [{'date': '8/4/2020', 'event': 'Listed for rent', 'price': '$1,795 (+9.1%)'}, {'date': '7/23/2019', 'event': 'Listing removed', 'price': '$1,645'}, {'date': '7/12/2019', 'event': 'Listed for rent', 'price': '$1,645 (+4.4%)'}, {'date': '6/30/2018', 'event': 'Listing removed', 'price': '$1,575'}, {'date': '6/20/2018', 'event': 'Listed for rent', 'price': '$1,575'}, {'date': '6/5/2012', 'event': 'Sold', 'price': '$93,100 (-70.5%)'}, {'date': '12/28/2005', 'event': 'Sold', 'price': '$316,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '1 space', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1795}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a058fc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/96000556_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '96000556', 'Latitude': 33.794321, 'Longitude': -116.981769, 'location': {'type': 'Point', 'coordinates': [-116.981769, 33.794321]}, 'Status': 'House for rent', 'Address': '1148 Milwaukee Park,\xa0San Jacinto, CA 92582', 'Description': "2695 sq. ft. spacious house built in December 2012 is a perfect place to call home. This two-story beautiful home has 5 bedrooms, 3 full baths and 3 car attached garage with additional room for RV parking. Spacious living room with high ceilings entry and recessed lighting. Custom tiles in the entry continues to family room with fireplace. Large kitchen with plenty of cabinet space and pantry. Granite counter top island with sink and dark brown cabinetry. One bed and full bath downstairs. All bedrooms have custom ceiling fans. Additional storage hall cabinetry upstairs. Master bedroom with a very large walk-in closet has a soak bath tub with separate glass shower enclosure. Nice size Patio and landscaped low maintenance backyard. Gas range, dishwasher & microwave in kitchen included. Location is close to the park, Diamond Valley Lake, Soboba Casino etc. Schools and shops are within walking distance. Ramona Expressway for easy access. Minimum one-year lease. Credit & Background Check One month rent as deposit Income 2.5 Times Rent Requires verification. Lower Credit Score might require additional deposit Pet negotiable. Pet negotiable. No smoking inside home Application Fee $35 Proof of renter's insurance required Negotiable", 'ZipCode': '92582', 'State': 'CA', 'Locality': 'San Jacinto', 'WalkScore': 18, 'Bedrooms': 5, 'Bathrooms': 3, 'AreaSpace_SQFT': 2695, 'ZestimatePrice': 1995, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': '8/10', 'Pets': 'Cats', 'Laundry': 'Contact manager', 'Deposit_fees': 1995, 'Rent': 1995}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019726808>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/79825956_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '79825956', 'Latitude': 33.780948, 'Longitude': -117.022894, 'location': {'type': 'Point', 'coordinates': [-117.022894, 33.780948]}, 'Status': 'House for rent', 'Address': '670 Indigo Sky Way,\xa0San Jacinto, CA 92582', 'Description': 'Rent is for one bedroom, not house. This room has bathroom shared with one room. All utilities included with rent. Month to Month agreement, $650 security deposit, total to get in is $1,300 ($650 rent and $650 deposit)', 'ZipCode': '92582', 'State': 'CA', 'Locality': 'San Jacinto', 'WalkScore': 1, 'Bedrooms': 1, 'Bathrooms': 1, 'AreaSpace_SQFT': 130, 'ZestimatePrice': 2250, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '4 spaces', 'Price_PerSQFT': 5, 'Date_available': 'Available now', 'Pets': 'No', 'Laundry': 'In Unit', 'Deposit_fees': 650, 'Rent': 650}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20193acd48>
+0
+zid: 2079329593 already exist in db
+PAGE:1
+https://www.zillow.com/homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f20198b0208>, 'Connection to 158.69.129.2 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=185.89.0.205:34927
+http://185.89.0.205:34927
+PAGE:1
+https://www.zillow.com/homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=170.83.108.65:8080
+http://170.83.108.65:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f20198b0470>, 'Connection to 170.83.108.65 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=175.42.122.220:9999
+http://175.42.122.220:9999
+PAGE:1
+https://www.zillow.com/homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f20198b0f60>, 'Connection to 175.42.122.220 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=31.44.12.20:5836
+http://31.44.12.20:5836
+PAGE:1
+https://www.zillow.com/homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92582_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201989db70>, 'Connection to 31.44.12.20 timed out. (connect timeout=20.0)'))Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=190.6.28.21:999
+http://190.6.28.21:999
+Rotating IP...new proxy=103.26.55.86:8080
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92546_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad0a898>, 'Connection to 190.6.28.21 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=190.171.164.98:8080
+http://190.171.164.98:8080
+no results for zip 92546
+no results for zip 92546
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92564_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1a588>, 'Connection to 190.171.164.98 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=14.207.76.51:8080
+http://14.207.76.51:8080
+no results for zip 92564
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92564_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a2fee80>, 'Connection to 14.207.76.51 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=183.87.153.98:49602
+http://183.87.153.98:49602
+no results for zip 92564
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adc4a20>, 'Connection to 183.87.153.98 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=122.4.40.74:8888
+http://122.4.40.74:8888
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adc47f0>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=112.111.217.205:9999
+http://112.111.217.205:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adc4a58>, 'Connection to 112.111.217.205 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=62.210.58.180:5836
+http://62.210.58.180:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adcb828>, 'Connection to 62.210.58.180 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=194.114.128.149:61213
+http://194.114.128.149:61213
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=117.57.62.116:3000
+http://117.57.62.116:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add7710>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=110.77.236.230:8080
+http://110.77.236.230:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=189.129.135.110:999
+http://189.129.135.110:999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a1a1cc0>, 'Connection to 189.129.135.110 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=118.175.244.111:8080
+http://118.175.244.111:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a1999b0>, 'Connection to 118.175.244.111 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=59.42.207.82:808
+http://59.42.207.82:808
+PAGE:1
+https://www.zillow.com/homes/for_rent/92586_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/17917607_zpid
+Error window detected
+Rotating IP...new proxy=187.92.132.14:8080
+0
+Fetching...https://www.zillow.com/homes/for_sale/17917607_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17917607', 'Latitude': 33.716225, 'Longitude': -117.20434, 'location': {'type': 'Point', 'coordinates': [-117.20434, 33.716225]}, 'Status': 'House for rent', 'Address': '26108 Fairlane Dr,\xa0Menifee, CA 92586', 'Description': '26108 Fairlane St, Sun City Ca. 92586. *55 and over community. 1328 SQ FT. 2 bed / 2 baths. New carpet and laminate flooring. Complete interior paint. New LED lighting throughout. New electrical plugs and switches throughout. New paddle fans in bedrooms and family room. Kitchen: fresh and clean and modernized with serving counter open to family room area. Garage: Spacious allowing for 2 car parking equipped with automatic garage door opener. Laundry area in garage is set up for electric washer and dryer which must be provided by tenant. Newer upgraded heating air cond system (3 years old) Fenced in back yard. Front yard and back yard are low maintenance rock and gravel (Sun City style). Lease price includes membership to SCCA and the use of swimming pools and associated facilities. *55 and older community *Asking $1,600 per month *685 or better credit score required *Tenants subject to background check *2-3 references in writing required *1 small dog or cat allowed 10lbs or less', 'ZipCode': '92586', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 26, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1328, 'ZestimatePrice': 1595, 'SaleHistory': [{'date': '8/8/2020', 'event': 'Listed for rent', 'price': '$1,600 (+60.8%)'}, {'date': '12/10/2013', 'event': 'Listing removed', 'price': '$995'}, {'date': '10/11/2013', 'event': 'Listed for rent', 'price': '$995'}, {'date': '10/11/2013', 'event': 'Sold', 'price': '$150,000 (+14975.4%)'}, {'date': '9/29/2013', 'event': 'Listed for sale', 'price': '$995 (-99.5%)'}, {'date': '6/21/2007', 'event': 'Sold', 'price': '$200,000 (+166.7%)'}, {'date': '1/6/1998', 'event': 'Sold', 'price': '$75,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Available now', 'Pets': 'Cats, small dogs', 'Laundry': 'None', 'Deposit_fees': 1600, 'Rent': 1600}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2014d20608>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69284023_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '69284023', 'Latitude': 33.691444, 'Longitude': -117.195716, 'location': {'type': 'Point', 'coordinates': [-117.195716, 33.691444]}, 'Status': 'House for rent', 'Address': '29557 Williamette Way,\xa0Menifee, CA 92586', 'Description': 'Gorgeous Large 2 Story for Rent ; 3 Car Garage ; Beautiful Front Yard ; Granite Countertops ; HUGE LOFT ; Quiet Community ; Great Location by many Convenient Stores and Freeway; Renters Responsible for Utilities: Power, Water, Gas, Trash, Sewer Application Fee: $25/adult No Smoking', 'ZipCode': '92586', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 23, 'Bedrooms': 5, 'Bathrooms': 3, 'AreaSpace_SQFT': 3399, 'ZestimatePrice': 2400, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Available now', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 2750, 'Rent': 2450}exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=167.172.191.249:39591
+http://167.172.191.249:39591
+Rotating IP...new proxy=59.37.18.243:3128
+MongoDB connected...
+PAGE:1
+https://www.zillow.com/homes/for_rent/92557_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/17872768_zpid
+Error window detected
+Rotating IP...new proxy=201.91.82.155:3128
+0
+Fetching...https://www.zillow.com/homes/for_sale/17872768_zpid
+Year data not found
+{'zid': '17872768', 'Latitude': 33.975434, 'Longitude': -117.268504, 'location': {'type': 'Point', 'coordinates': [-117.268504, 33.975434]}, 'Status': 'House for rent', 'Address': '10025 Miracanto Way,\xa0Moreno Valley, CA 92557', 'Description': 'This phenomenal one-story home has great curb appeal with its beautifully landscaped front yard. The interior features tile flooring and carpeting. The kitchen has off-white wood cabinets, recessed lighting, and efficient appliances. The bedrooms provide great closet space including a walk-in closet in the primary bedroom! In addition, this home boasts a spacious back yard, a three-car garage, and a beautiful view of rolling hills surrounding the neighborhood. Apply today! This Invitation Home is being enjoyed by another resident, but it will be available soon. You can still apply contact us for more details or apply now. CONSENT TO TEXT MESSAGING: By entering your mobile phone number, you expressly consent to receive text messages from Invitation Homes. Msg & Data rates may apply. Lease your Invitation Home through InvitationHomes.com or with the help of a licensed leasing agent. All leasing information is believed to be accurate, but changes may have occurred since photographs were taken and square footage is estimated. Furthermore, prices and dates may change without notice. Please note, refrigerators are not included in any of our California homes our residents must provide their own refrigerator. Invitation Homes does not lease homes through Craigslist or other classified advertising services. Please note this home may be governed by a HOA and could require additional applications and/or fees. To better serve our residents, Invitation Homes is pet-friendly with some breed restrictions and allows up to three pets with a monthly fee. Air Filter Delivery service is required at an additional fee above the rental price. If your home has a pool, there is a $95 monthly pool fee. Broker participation welcome, so please refer to MLS. Please contact your leasing agent for more information.', 'ZipCode': '92557', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 9, 'TransitScore': 18, 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 2143, 'ZestimatePrice': 2300, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': '8/22', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2715}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a0fef08>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17873922_zpid
+Year data not found
+{'zid': '17873922', 'Latitude': 33.948542, 'Longitude': -117.251816, 'location': {'type': 'Point', 'coordinates': [-117.251816, 33.948542]}, 'Status': 'House for rent', 'Address': '11850 Wild Flax Ln,\xa0Moreno Valley, CA 92557', 'Description': 'Beautiful Moreno Valley home featuring three bedrooms and two and a half bathrooms. Also features a loft and bonus room. There are two bathrooms upstairs and one bathroom downstairs with laundry hook ups. The kitchen includes a refrigerator. Backyard is fully fenced. Located next to plenty of restaurants/shopping and award winning schools!', 'ZipCode': '92557', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 36, 'TransitScore': 29, 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1600, 'ZestimatePrice': 1950, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1995}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019b2f388>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/17873993_zpid
+Year data not found
+{'zid': '17873993', 'Latitude': 33.94764, 'Longitude': -117.249295, 'location': {'type': 'Point', 'coordinates': [-117.249295, 33.94764]}, 'Status': 'House for rent', 'Address': '11936 Bayless St,\xa0Moreno Valley, CA 92557', 'Description': 'Single Story home sweet home. Two secluded bedrooms, two perfectly situated bathrooms on opposite sides of the house. Eat in kitchen and private backyard. Two car garage and lawn care included. Above Ironwood and close to a variety of conveniences.', 'ZipCode': '92557', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 36, 'TransitScore': 28, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 825, 'ZestimatePrice': 1525, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 2, 'Date_available': 'Available now', 'Pets': 'Cats, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 1700, 'Rent': 1650}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201952d508>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17875650_zpid
+Year data not found
+{'zid': '17875650', 'Latitude': 33.947631, 'Longitude': -117.27364, 'location': {'type': 'Point', 'coordinates': [-117.27364, 33.947631]}, 'Status': 'House for rent', 'Address': '11925 Barclay Dr,\xa0Moreno Valley, CA 92557', 'Description': 'This wonderfully unique and spacious two story home features 4 bedrooms, 2.5 bathroom with incredible nature light throughout. Tile and wood flooring , living room and separate dinning room with large fireplace. Kitchen with breakfast bar and views of the tropical garden setting. Cozy front yard courtyard and backyard patio great for entertainment. Close to schools, shopping and more... This wonderfully unique and spacious two story home features 4 bedrooms, 2.5 bathroom with incredible nature light throughout. Tile and wood flooring , living room and separate dinning room with large fireplace. Kitchen with breakfast bar and views of the tropical garden setting. Cozy front yard courtyard and backyard patio great for entertainment. Close to schools, shopping and more...', 'ZipCode': '92557', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 35, 'TransitScore': 33, 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1800, 'ZestimatePrice': 2250, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Available now', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 2250, 'Rent': 2200}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20190bfb08>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17868633_zpid
+Year data not found
+{'zid': '17868633', 'Latitude': 33.948973, 'Longitude': -117.290543, 'location': {'type': 'Point', 'coordinates': [-117.290543, 33.948973]}, 'Status': 'House for rent', 'Address': '21345 Lilium Ct,\xa0Moreno Valley, CA 92557', 'Description': '3 Miles from UCRiverside Open house Sat 8th from 5 pm to 6pm Home comes with 3 bedrooms and 3 baths 2 car garage, formal living room, spacious kitchen with an additional eating area. Master bedroom has own bath Close to UC Riverside RENTAL CRITERIA 1. Income verified at 3 times of rent, 5-month paystub 2. Rental history for past 2 years (including contact names and numbers for landlords) please Call open house Sat 8 th 5pm to 6 pm', 'ZipCode': '92557', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 13, 'TransitScore': 29, 'Bedrooms': 3, 'Bathrooms': 3, 'AreaSpace_SQFT': 1600, 'ZestimatePrice': 1950, 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/1', 'Pets': 'Cats, small dogs', 'Laundry': 'In Unit', 'Deposit_fees': 2200, 'Rent': 1950}Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=125.92.104.60:4216
+http://125.92.104.60:4216
+Rotating IP...new proxy=114.103.168.68:3000
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:761: The handshake operation timed out',)))
+Rotating IP...new proxy=183.88.228.208:8080
+http://183.88.228.208:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1a048>, 'Connection to 183.88.228.208 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=47.93.28.142:8080
+http://47.93.28.142:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1a438>, 'Connection to 47.93.28.142 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=221.122.91.36:10159
+http://221.122.91.36:10159
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',)))
+Rotating IP...new proxy=181.143.10.130:36535
+http://181.143.10.130:36535
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adb5c88>, 'Connection to 181.143.10.130 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=200.38.19.236:80
+http://200.38.19.236:80
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92548_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add99b0>, 'Connection to 200.38.19.236 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=77.221.52.78:61815
+http://77.221.52.78:61815
+HTTPSConnectionPool(host='www.zillow.com', port=443): Read timed out.
+Rotating IP...new proxy=202.44.193.186:8080
+http://202.44.193.186:8080
+no results for zip 92548
+PAGE:1
+https://www.zillow.com/homes/for_sale/92548_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/82810484_zpid
+Error window detected
+Rotating IP...new proxy=176.123.7.19:3128
+0
+Fetching...https://www.zillow.com/homes/for_sale/82810484_zpid
+Error window detected
+Rotating IP...new proxy=101.109.17.235:8080
+0
+Fetching...https://www.zillow.com/homes/for_sale/2087616164_zpid
+Error window detected
+Rotating IP...new proxy=185.232.66.126:5836
+0
+Fetching...https://www.zillow.com/homes/for_sale/2087616164_zpid
+unable to fetch walk/trasit score
+{'zid': '2087616164', 'Latitude': 33.777659, 'Longitude': -117.110051, 'location': {'type': 'Point', 'coordinates': [-117.110051, 33.777659]}, 'Price': 997000, 'Status': 'For sale', 'Address': '31625 Sierra Verde Rd,\xa0Homeland, CA 92548', 'Description': 'SECLUDED FAMILY RETREAT... This 5.5 acre estate in the gated community of Sky Mesa features an approximately 5,700 square foot single story contemporary residence with three bedrooms in the main house and a two bedroom guest house. The open floor plan is enhanced with unique fixtures throughout and offers spectacular views through the many windows. The kitchen offers commercial grade appliances in an open floor plan to family room or game room with bar. The living and dining room share a see through fireplace with lighted soffits. The master suite and bath are spacious in size and offer unique bath features. The gentle topography allows for many uses and includes approximately 300 fruit and nut trees and a graded pad. The pool is a tropical delight and is enhanced with a palapa bar and barbecue. The driveway is detailed in pavers and offers extra parking for large gatherings. There is room for horses if desired, or any other amenities one may want.', 'ZipCode': '92548', 'State': 'CA', 'Locality': 'Homeland', 'Bedrooms': 5, 'Bathrooms': 8, 'AreaSpace_SQFT': 5700, 'ZestimatePrice': 972739, 'SaleHistory': '', 'YearBuilt': '1992', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '5.55 acres', 'Price_PerSQFT': 175, 'HOAFee': 260}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019877b08>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/17992234_zpid
+unable to fetch walk/trasit score
+{'zid': '17992234', 'Latitude': 33.740603, 'Longitude': -117.105763, 'location': {'type': 'Point', 'coordinates': [-117.105763, 33.740603]}, 'Price': 299500, 'Status': 'For sale', 'Address': '31820 Mcwade Ave,\xa0Homeland, CA 92548', 'Description': 'LOCATION, LOCATION,LOCATION!!!!!!! 3 BEDROOMS - BIG MASTER BEDROOM- WITH ITS PRIVATE ENTRANCE . 1 1/2 BATHROOM, HUGE LOT. PROPERTY IS IN A RURAL AREA PERFECT FOR YOUR ANIMALS AND TOYS. NEW KITCHEN WITH GRANITE COUNTERTOP. CLOSE TO SCHOOLS, HIGWAY 74, POST OFFICE, SHOPPING CENTERS. HORSE PROPERTY, GAZEBO FOR YOUR FAMILY PARTIES. PROPERTY IS SOLD IN AS IS CONDITION VIEW ON ALL FOUR CORNERS.', 'ZipCode': '92548', 'State': 'CA', 'Locality': 'Homeland', 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1173, 'ZestimatePrice': 303683, 'SaleHistory': '', 'YearBuilt': '1964', 'Type': 'Single Family', 'Heating': 'Wall', 'Cooling': 'Wall', 'Parking': '2 spaces', 'Lot': '0.3 acres', 'Price_PerSQFT': 255, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019f48948>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17965848_zpid
+unable to fetch walk/trasit score
+{'zid': '17965848', 'Latitude': 33.774775, 'Longitude': -117.107261, 'location': {'type': 'Point', 'coordinates': [-117.107261, 33.774775]}, 'Price': 1200000, 'Status': 'For sale', 'Address': '23676 Tapatia Rd,\xa0Homeland, CA 92548', 'Description': 'A stunning architectural masterpiece this custom retreat is a fortress to call your own! Nestled on a verdant hilltop resides a property crafted by a Chilean Architect, Carlos Milovic Garcia. Located in a prestigious gated community, this 10-acre property is anything but ordinary. Eye-catching details include wood flooring, soaring high ceilings, an abundance of natural sunlight, wall niches, along with extraordinary wooden crafted handmade doors, pillars, ceiling beams & rock walls. Master Chef kitchen offers Dacor and Meile appliances, stainless steel counter tops & a center Island. Lush landscaping with vegetable garden, fruit trees & African & South American cacti surrounds the property creating a private Utopia of your own with multiple patios and balconies, each with breathtaking views from every angle of the property, along with a private grotto like spa & multiple secret tranquil spots to relax and get away. The property consists of two 5 acre lots combined which allow for an additional home or guest house to be built for extended family. Beautifully designed home with boulder rock accents, 2 controlled gated entryways, a security camera system & Brazilian stone paved pathways throughout', 'ZipCode': '92548', 'State': 'CA', 'Locality': 'Homeland', 'Bedrooms': 3, 'Bathrooms': 3, 'AreaSpace_SQFT': 3380, 'ZestimatePrice': 1149870, 'SaleHistory': '', 'YearBuilt': '2000', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '12 spaces', 'Lot': '4.99 acres', 'Price_PerSQFT': 355, 'HOAFee': 520}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2014ad8808>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17965865_zpid
+unable to fetch walk/trasit score
+{'zid': '17965865', 'Latitude': 33.783623, 'Longitude': -117.114652, 'location': {'type': 'Point', 'coordinates': [-117.114652, 33.783623]}, 'Price': 825000, 'Status': 'For sale', 'Address': '23035 Sky Mesa Rd,\xa0Homeland, CA 92548', 'Description': 'Exquisite custom home of 3,303 square feet with exceptional detail in the interior, featuring four bedrooms and 3 bathrooms. The gentle 4.3 acres offers spectacular views and sunsets. Beautifully landscaped and features a 52x82 concrete court that could be turned into numerous amenities. The living room features a wet bar and fireplace. Beautiful moldings throughout with built in shelving and encased windows. The kitchen has an island, double ovens with warming drawer, granite counters and a pantry. This is open to an eating area and family room which egresses to the covered patio area. The primary bedroom is on the main floor and offers arched windows that take advantage of the views, with an inset area for the bed. It includes a sitting area as well. There is an expansive balcony on the upper level. This gated community consists of homes on acreage and breathtaking views for miles. Read the supplemental page for Owners Thoughts of why they wanted to live there.', 'ZipCode': '92548', 'State': 'CA', 'Locality': 'Homeland', 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 3303, 'ZestimatePrice': 825000, 'SaleHistory': '', 'YearBuilt': '1999', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '4.3 acres', 'Price_PerSQFT': 250, 'HOAFee': 260}Rotating IP...new proxy=175.42.129.231:9999
+http://175.42.129.231:9999
+Rotating IP...new proxy=183.88.219.206:41564
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad0a8d0>, 'Connection to 175.42.129.231 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=222.89.32.182:9999
+http://222.89.32.182:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1a898>, 'Connection to 222.89.32.182 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=118.113.247.127:9999
+http://118.113.247.127:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1ae10>, 'Connection to 118.113.247.127 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=119.42.125.171:8080
+http://119.42.125.171:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adc80b8>, 'Connection to 119.42.125.171 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=49.86.26.215:9999
+http://49.86.26.215:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adc8898>, 'Connection to 49.86.26.215 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=202.165.47.26:8080
+http://202.165.47.26:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add97f0>, 'Connection to 202.165.47.26 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=191.241.34.210:8080
+http://191.241.34.210:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add9cf8>, 'Connection to 191.241.34.210 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=122.4.49.7:9999
+http://122.4.49.7:9999
+PAGE:1
+https://www.zillow.com/homes/for_rent/92555_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/79836476_zpid
+Error window detected
+Rotating IP...new proxy=159.224.166.129:38779
+0
+Fetching...https://www.zillow.com/homes/for_sale/79836476_zpid
+Error window detected
+Rotating IP...new proxy=182.148.206.110:9999
+0
+Fetching...https://www.zillow.com/homes/for_sale/243346699_zpid
+Error window detected
+Rotating IP...new proxy=115.77.191.180:53281
+0
+Fetching...https://www.zillow.com/homes/for_sale/243346699_zpid
+Message: timeout: Timed out receiving message from renderer: 126.201
+  (Session info: chrome=81.0.4044.113)
+ exception while fetching houseurl [self.driver.get()]
+Rotating IP...new proxy=124.122.145.252:8888
+0
+Fetching...https://www.zillow.com/homes/for_sale/243346699_zpid
+Year data not found
+{'zid': '243346699', 'Latitude': 33.936674, 'Longitude': -117.193882, 'location': {'type': 'Point', 'coordinates': [-117.193882, 33.936674]}, 'Status': 'House for rent', 'Address': '12680 Lemon Tree Rd,\xa0Moreno Valley, CA 92555', 'Description': 'Most convenient to shopping center & Kaiser hospital Easy access to FWY Best neighborhood in town Tenant pay all utility & trash service', 'ZipCode': '92555', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 30, 'TransitScore': 19, 'Bedrooms': 6, 'Bathrooms': 4.5, 'AreaSpace_SQFT': 4200, 'ZestimatePrice': 3000, 'SaleHistory': [{'date': '8/3/2020', 'event': 'Listed for rent', 'price': '$3,200 (+6.8%)'}, {'date': '8/12/2018', 'event': 'Listing removed', 'price': '$2,995'}, {'date': '7/14/2018', 'event': 'Listed for rent', 'price': '$2,995'}, {'date': '8/9/2017', 'event': 'Sold', 'price': '$463,500'}], 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/1', 'Pets': 'No', 'Laundry': 'In Unit', 'Deposit_fees': 5000, 'Rent': 3200}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a0a5e88>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/95834912_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '95834912', 'Latitude': 33.932515, 'Longitude': -117.190002, 'location': {'type': 'Point', 'coordinates': [-117.190002, 33.932515]}, 'Status': 'House for rent', 'Address': '12954 Cobblestone Ln,\xa0Moreno Valley, CA 92555', 'Description': '** Home for Rent ** $2,475/Month + $3,500 Security Deposit ** Beautiful Home located in a Gated Community ** Features 4 Bedrooms and 2.5 Baths ** Looks Like New ** Home is Equipped with Solar Panels so you will save on electricity, very likely could cover your entire electrical bill ** Seller will pay for routine pest control, landscaping and trash service ** 2 Car Attached Garage ** Central Air Conditioning and Heat ** Indoor Laundry Room Upstairs ** Living Room + Family Room ** Beautiful Kitchen with Granite Counter Tops ** Dining Area ** Spacious Kitchen **Fully Landscaped ** Beautify Front and Back Yard ** Walking Distance to Major Shopping Centers ** Close to Schools and Parks ** The pictures speak for themselves ** Must See **', 'ZipCode': '92555', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 19, 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2047, 'ZestimatePrice': 2350, 'SaleHistory': [{'date': '7/12/2020', 'event': 'Listed for rent', 'price': '$2,475'}, {'date': '6/13/2018', 'event': 'Sold', 'price': '$359,000 (-0.3%)'}, {'date': '5/14/2018', 'event': 'Pending sale', 'price': '$359,900'}, {'date': '4/2/2018', 'event': 'Listed for sale', 'price': '$359,900 (+44%)'}, {'date': '7/17/2014', 'event': 'Listing removed', 'price': '$250,000 (-3.3%)'}, {'date': '8/5/2009', 'event': 'Sold', 'price': '$258,500'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '4 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2475}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019186b08>
+0
+Fetching...https://www.zillow.com/homes/for_sale/54895241_zpid
+Year data not found
+{'zid': '54895241', 'Latitude': 33.909824, 'Longitude': -117.157609, 'location': {'type': 'Point', 'coordinates': [-117.157609, 33.909824]}, 'Status': 'House for rent', 'Address': '28930 Rainier Way,\xa0Moreno Valley, CA 92555', 'Description': '55+ Senior Community! Super clean and super nice! This home was just painted and looks fantastic! This is the two (2) bedroom, two (2) bathroom model in the Mountain View 55+ gated community, which features a pool, tennis courts, and a clubhouse! The home has been very well taken care of and it shows. When you enter the property, you are greeted with wonderful wood-look flooring that extends throughout the home. The family room is a great size and has a fireplace. Off the family room is a nice eating area and a nice round kitchen with plenty of cabinets and white appliances. On the other side of the home is a great master bedroom with a large walk-in closet and wonderful ensuite bathroom that features double sinks and a stall shower. The second bedroom sits at the end of the home across for a second full bathroom. Finally, you have an indoor laundry room and direct access to the two-car garage. Outback is a no-maintenance yard, a solid patio cover, and great privacy! Check out the virtual tour!', 'ZipCode': '92555', 'State': 'CA', 'Locality': 'Moreno Valley', 'WalkScore': 15, 'TransitScore': 10, 'Bedrooms': 2, 'Bathrooms': 2, 'AreaSpace_SQFT': 1226, 'ZestimatePrice': 1710, 'SaleHistory': [{'date': '7/9/2020', 'event': 'Listed for rent', 'price': '$1,700'}, {'date': '8/3/2017', 'event': 'Sold', 'price': '$265,000'}, {'date': '6/24/2017', 'event': 'Pending sale', 'price': '$265,000'}, {'date': '5/28/2017', 'event': 'Listed for sale', 'price': '$265,000 (+43.2%)'}, {'date': '1/6/2014', 'event': 'Sold', 'price': '$185,000 (+48.6%)'}, {'date': '10/9/2001', 'event': 'Sold', 'price': '$124,500'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1700}Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+Rotating IP...new proxy=36.91.42.61:8080
+http://36.91.42.61:8080
+Rotating IP...new proxy=94.139.169.242:8080
+MongoDB connected...
+no results for zip 92572
+no results for zip 92572
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201aceb7b8>, 'Connection to 36.91.42.61 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=186.148.184.227:999
+http://186.148.184.227:999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad197f0>, 'Connection to 186.148.184.227 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=171.35.168.51:9999
+http://171.35.168.51:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a034e10>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=123.160.69.82:9999
+http://123.160.69.82:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a04da90>, 'Connection to 123.160.69.82 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=123.160.68.205:9999
+http://123.160.68.205:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a04dda0>, 'Connection to 123.160.68.205 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=114.103.176.26:3000
+http://114.103.176.26:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a05d908>, 'Connection to 114.103.176.26 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=186.211.105.41:8080
+http://186.211.105.41:8080
+PAGE:1
+https://www.zillow.com/homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201989b588>, 'Connection to 186.211.105.41 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=27.43.186.18:9999
+http://27.43.186.18:9999
+PAGE:1
+https://www.zillow.com/homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a31dd30>, 'Connection to 27.43.186.18 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=183.88.112.9:8080
+http://183.88.112.9:8080
+PAGE:1
+https://www.zillow.com/homes/for_rent/92583_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/17967780_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17967780', 'Latitude': 33.774172, 'Longitude': -116.937634, 'location': {'type': 'Point', 'coordinates': [-116.937634, 33.774172]}, 'Status': 'House for rent', 'Address': '1365 Verdi Ct,\xa0San Jacinto, CA 92583', 'Description': 'This 1397 square foot single family home has 3 bedrooms and 2.0 bathrooms. It is located at 1365 Verdi Ct San Jacinto, California.', 'ZipCode': '92583', 'State': 'CA', 'Locality': 'San Jacinto', 'WalkScore': 9, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1397, 'ZestimatePrice': 1800, 'SaleHistory': [{'date': '8/8/2020', 'event': 'Listed for rent', 'price': '$1,400'}, {'date': '6/2/2016', 'event': 'Listing removed', 'price': '$1,400 (+5.7%)'}, {'date': '5/12/2015', 'event': 'Listing removed', 'price': '$1,325'}, {'date': '4/11/2015', 'event': 'Listed for rent', 'price': '$1,325'}, {'date': '4/25/2013', 'event': 'Sold', 'price': '$131,500 (-52.8%)'}, {'date': '12/30/2004', 'event': 'Sold', 'price': '$278,500 (+108.6%)'}, {'date': '8/31/2000', 'event': 'Sold', 'price': '$133,500'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'In Unit', 'Deposit_fees': 'Contact manager', 'Rent': 1400}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019d64688>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17966712_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '17966712', 'Latitude': 33.811238, 'Longitude': -116.965054, 'location': {'type': 'Point', 'coordinates': [-116.965054, 33.811238]}, 'Status': 'House for rent', 'Address': '375 Blue Ridge Ln,\xa0San Jacinto, CA 92583', 'Description': "Welcome to your new home! This 3 bedroom 2 bath is just what you have been looking for! Refinished counters in the kitchen, New blinds throughout, LED lighting, recessed lights in the kitchen, entry, and living room, and ceiling fans in every room. This home features a large backyard and RV parking, central air and heat with a thermostat that can be controlled from your phone. Nice front and back yard for your pet's and the price includes bi-weekly landscaping too. Come take a look at this beautiful home! You will be glad you did! Available Immediately Upon Approval!", 'ZipCode': '92583', 'State': 'CA', 'Locality': 'San Jacinto', 'WalkScore': 10, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1154, 'ZestimatePrice': 1700, 'SaleHistory': [{'date': '8/7/2020', 'event': 'Listed for rent', 'price': '$1,795'}, {'date': '7/6/2015', 'event': 'Listing removed', 'price': '$142,000'}, {'date': '7/2/2015', 'event': 'Sold', 'price': '$142,000 (+37.2%)'}, {'date': '6/22/2000', 'event': 'Sold', 'price': '$103,500 (+16.3%)'}, {'date': '2/13/1998', 'event': 'Sold', 'price': '$89,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '3 spaces', 'Price_PerSQFT': 2, 'Date_available': 'Available now', 'Pets': 'Cats, small dogs', 'Laundry': 'In Unit', 'Deposit_fees': 1795, 'Rent': 1795}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20193c6e08>
+0
+PAGE:1
+https://www.zillow.com/homes/for_sale/92583_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92583_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201990f6a0>, 'Connection to 183.88.112.9 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=180.211.192.122:8080
+http://180.211.192.122:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92583_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92694_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201990fc18>, 'Connection to 180.211.192.122 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=110.77.236.230:8080
+http://110.77.236.230:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92694_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=185.184.243.210:5836
+http://185.184.243.210:5836
+no results for zip 92694
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92694_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201a31fe10>, 'Connection to 185.184.243.210 timed out. (connect timeout=20.0)'))Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+JSONDecodeError('Expecting value: line 1 column 1 (char 0)',) exception occoured while handling a zid. Moving to next zid....
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+Setting up new proxy for fetching cards...
+Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception AttributeError("'NoneType' object has no attribute 'find_next'",)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+Rotating IP...new proxy=81.12.108.133:3128
+http://81.12.108.133:3128
+Rotating IP...new proxy=115.221.243.185:9999
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201acea908>, 'Connection to 81.12.108.133 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=106.104.170.66:8080
+http://106.104.170.66:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1ca20>, 'Connection to 106.104.170.66 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=51.38.155.119:3128
+http://51.38.155.119:3128
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=114.101.250.166:3000
+http://114.101.250.166:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ade3a58>, 'Connection to 114.101.250.166 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=46.8.28.71:8080
+http://46.8.28.71:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ade3da0>, 'Connection to 46.8.28.71 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=114.101.253.40:3000
+http://114.101.253.40:3000
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add5a20>: Failed to establish a new connection: [Errno 113] No route to host',)))
+Rotating IP...new proxy=62.210.58.188:5836
+http://62.210.58.188:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(104, 'Connection reset by peer')))
+Rotating IP...new proxy=212.129.57.39:5836
+http://212.129.57.39:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201adbfb38>: Failed to establish a new connection: [Errno 111] Connection refused',)))
+Rotating IP...new proxy=195.178.56.35:8080
+http://195.178.56.35:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad6c0f0>, 'Connection to 195.178.56.35 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=185.107.56.31:5836
+http://185.107.56.31:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad6cc88>, 'Connection to 185.107.56.31 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=139.255.123.2:36466
+http://139.255.123.2:36466
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad7a7b8>, 'Connection to 139.255.123.2 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=115.84.99.182:51265
+http://115.84.99.182:51265
+no results for zip 92581
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad850b8>, 'Connection to 115.84.99.182 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=62.210.58.177:5836
+http://62.210.58.177:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad7add8>, 'Connection to 62.210.58.177 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=36.91.124.124:8080
+http://36.91.124.124:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad92c88>, 'Connection to 36.91.124.124 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=114.99.11.21:4216
+http://114.99.11.21:4216
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Rotating IP...new proxy=1.20.156.230:80
+http://1.20.156.230:80
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad857f0>, 'Connection to 1.20.156.230 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=195.154.59.133:5836
+http://195.154.59.133:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ada2588>, 'Connection to 195.154.59.133 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=70.169.145.164:48678
+http://70.169.145.164:48678
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92581_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ada2828>, 'Connection to 70.169.145.164 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=109.74.36.99:8080
+http://109.74.36.99:8080
+no results for zip 92581
+no results for zip 92685
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92685_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:761: The handshake operation timed out',)))
+Rotating IP...new proxy=212.129.32.60:5836
+http://212.129.32.60:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92685_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f20197caf28>, 'Connection to 212.129.32.60 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=96.30.53.124:3128
+http://96.30.53.124:3128
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92685_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019f13a58>, 'Connection to 96.30.53.124 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=200.77.51.22:999
+http://200.77.51.22:999
+no results for zip 92685
+PAGE:1
+https://www.zillow.com/homes/for_rent/92806_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92806_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019fb5a58>, 'Connection to 200.77.51.22 timed out. (connect timeout=20.0)'))Setting up new proxy for fetching cards...
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f1fd8799f48>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17909500_zpid
+unable to fetch walk/trasit score
+{'zid': '17909500', 'Latitude': 33.8459, 'Longitude': -117.33992, 'location': {'type': 'Point', 'coordinates': [-117.33992, 33.8459]}, 'Price': 395000, 'Status': 'For sale', 'Address': '18770 Birch St,\xa0Perris, CA 92570', 'Description': 'If you are at all familiar with this Perris neighborhood then you\'ll immediately recognize what an opportunity this property is. It is nestled on a sweeping 41,817 square foot lot and with its "Great Bones" it\'s the perfect candidate for a value increasing make-over. Here are just a few of its features: *Its beautiful driveway, manicured hedges, and large entrance enhance its eye-catching curb appeal *You\'ll step into a flowing 1,442 square foot floor plan *A myriad of windows emphasizes the smooth ceiling and wood-burning fireplace *The family\'s cook is going to appreciate the galley kitchens\' open concept, tile counters, built-in appliances with its direct patio access making it perfect for entertaining*The family room flows seamlessly with the kitchen *3bedrooms; The master suite has a large double- door closet, and private bathroom with "His & Her" sinks *A total of 1.75 bathrooms *Functionally located laundry *Central heat & air for year-round comfort *You\'re going to enjoy the colossal backyard and its beautiful trees *Plenty of parking on the oversized concrete driveway or in the 2 car direct access garage * BONUS! Enclosed full shed on your magnificent lot, it\'s great for an ADU conversation* Great location! With lots of community activities nearby; horse trails and stables, March Field Air Museum, Hiking Harford Springs County Park. So here is your chance to put in a little sweat equity and turn this "Diamond-In-The-Rough" into your dream home', 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 0, 'Bedrooms': 3, 'Bathrooms': 2, 'AreaSpace_SQFT': 1442, 'ZestimatePrice': 395205, 'SaleHistory': [{'date': '8/1/2020', 'event': 'Listed for sale', 'price': '$395,000'}, {'date': '9/17/2011', 'event': 'Listing removed', 'price': '$1,295'}, {'date': '9/9/2011', 'event': 'Price change', 'price': '$1,295 (-7.2%)'}, {'date': '8/24/2011', 'event': 'Price change', 'price': '$1,395 (-5.4%)'}, {'date': '8/7/2011', 'event': 'Listed for rent', 'price': '$1,475'}], 'YearBuilt': '1988', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '0.96 acres', 'Price_PerSQFT': 274, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a2608c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17886562_zpid
+unable to fetch walk/trasit score
+{'zid': '17886562', 'Latitude': 33.803653, 'Longitude': -117.4116, 'location': {'type': 'Point', 'coordinates': [-117.4116, 33.803653]}, 'Price': 560000, 'Status': 'For sale', 'Address': '14180 Descanso Dr,\xa0Perris, CA 92570', 'Description': "Welcome Home! For the past 4+ decades this property was taken care of by Mr. and Mrs. 'Clean and Loving'! With a manicured private driveway, backyard full of fruit trees and a decorative pond with goldfish, you will be surrounded with privacy and tranquility. Only minutes away from the hustle and bustle of city life, shopping, restaurants, and more; this home is well located just a few miles from the 15, 91, and 215 freeways. With the Toll Road extension close by, your commute can be a breeze too. An ample amount of vacant land will allow you to build out your dream estate - pool, workshop, horse stables and arena and much, much more! Corona Norco Unified School District for the little ones. What are you waiting for? Call me for a private showing!", 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 0, 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 1585, 'ZestimatePrice': 555223, 'SaleHistory': [{'date': '8/6/2020', 'event': 'Listed for sale', 'price': '$560,000'}], 'YearBuilt': '1972', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Lot': '2.46 acres', 'Price_PerSQFT': 353, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20195b75c8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/2078421905_zpid
+unable to fetch walk/trasit score
+{'zid': '2078421905', 'Latitude': 33.784735, 'Longitude': -117.23055, 'location': {'type': 'Point', 'coordinates': [-117.23055, 33.784735]}, 'Price': 329900, 'Status': 'For sale', 'Address': '218 W 2nd St,\xa0Perris, CA 92570', 'Description': 'For Sale only Located in the City of Perris you will find this beautiful renovated 4 bedrooms and 1 bath home sitting on a 15,246 Sq. Ft lot per tax assessor. This Beautiful home is a turn-key 4 bedrooms and 1 baths offering an open floor plan for entertainment, tile flooring through out, new laminate flooring, cozy living room, nice remodel kitchen, good size a full bath and new front door. Huge yard with custom cement slab is perfect for entertainment. Property has been upgraded! NEW flooring - NEW laminate - NEW quartz counter tops - NEW kitchen cabinets - NEW doors and brass door knobs - NEW exterior and interior paint - NEW base boards - and so many others upgrades COME AND SEE THIS GREAT OPPORTUNITY !! IT WILL NOT LAST !!', 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 73, 'Bedrooms': 4, 'Bathrooms': 1, 'AreaSpace_SQFT': 1096, 'ZestimatePrice': 329902, 'SaleHistory': [{'date': '8/1/2020', 'event': 'Listed for sale', 'price': '$329,900'}], 'YearBuilt': '1947', 'Type': 'Single Family', 'Heating': 'Wall', 'Cooling': 'None', 'Parking': 'No Data', 'Lot': '0.35 acres', 'Price_PerSQFT': 301, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a249f48>
+0
+Fetching...https://www.zillow.com/homes/for_sale/2111312937_zpid
+unable to fetch walk/trasit score
+{'zid': '2111312937', 'Latitude': 33.769088, 'Longitude': -117.240609, 'location': {'type': 'Point', 'coordinates': [-117.240609, 33.769088]}, 'Price': 359900, 'Status': 'For sale', 'Address': '0 River Rd,\xa0Perris, CA 92570', 'Description': "Brand New Fleetwood home. Approx. 1600 sq. ft. 4 bedroom 2 bathroom siting on over one half acre. Home sits level to the ground on permanent foundation. Open concept floor plan, many upgrades. 9' vaulted ceiling in living room, large kitchen island with distressed cabinets, stainless steel appliances and side by side refrigerator, large walk in pantry, separate laundry room, large master bedroom and bathroom with tons of storage.", 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 1700, 'ZestimatePrice': 358107, 'SaleHistory': '', 'YearBuilt': '2020', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'None', 'Parking': 'No Data', 'Lot': '0.59 acres', 'Price_PerSQFT': 212, 'HOAFee': 'None'}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2014d37688>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69268556_zpid
+unable to fetch walk/trasit score
+{'zid': '69268556', 'Latitude': 33.736876, 'Longitude': -117.231124, 'location': {'type': 'Point', 'coordinates': [-117.231124, 33.736876]}, 'Price': 519000, 'Status': 'For sale', 'Address': '229 Caldera St,\xa0Perris, CA 92570', 'Description': 'Beautiful home in the south part of Perris next to borderline of Menifee at Monument Park Ranch. Very desirable community near shopping and schools, and parks. 5 minutes to freeway access. Extra large family room and formal living room. Not one but two guest rooms, one of them with its own walking closet and its own retreat. Large breakfast area and of course a fancy dining room area with super high ceilings. New carpet and new paint through out the whole house. Ceramic tile in kitchen, guest bathroom, and in the spacy laundry room. many windows for extra light. two bedrooms downstairs and 4 bedrooms upstairs. The extra large master upstairs has two walking closets, his and hers. Master bathroom has spa/jacuzzi. two bathrooms down stairs and 3 bathrooms upstairs for those large parties and large family reunions. Landscape in process of being renovated.', 'ZipCode': '92570', 'State': 'CA', 'Locality': 'Perris', 'WalkScore': 0, 'Bedrooms': 6, 'Bathrooms': 5, 'AreaSpace_SQFT': 3809, 'ZestimatePrice': 519003, 'SaleHistory': '', 'YearBuilt': '2005', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '9,147 sqft', 'Price_PerSQFT': 136, 'HOAFee': 'None'}Setting up new proxy for fetching cards...
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019864ac8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/54956584_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '54956584', 'Latitude': 33.68377, 'Longitude': -117.186377, 'location': {'type': 'Point', 'coordinates': [-117.186377, 33.68377]}, 'Status': 'House for rent', 'Address': '27162 Swift St,\xa0Menifee, CA 92584', 'Description': 'This is very large two story and fantastic home which has spacious 5 bedroom , one bedroom with bath downstairs which is very ideal. Nice kitchen,beautiful tile and carpet throughout. you will be fascinated to see sun room and and loft The home is centrally located easy access to free way I-215 and I-15 and off of Newport road , close to shopping , restaurants and walking distance to elementary school . Single family home. Do not disturb the tenant, only give tour with appointment and with condition of having mask , social distance and gloves. parking garage attached.Small dog ok with adding deposit quiet neighborhood and you will love it', 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'Bedrooms': 5, 'Bathrooms': 3, 'AreaSpace_SQFT': 2868, 'ZestimatePrice': 2495, 'SaleHistory': [{'date': '7/22/2020', 'event': 'Listed for rent', 'price': '$2,495'}, {'date': '5/20/2011', 'event': 'Sold', 'price': '$210,000 (+11.3%)'}, {'date': '1/28/2011', 'event': 'Sold', 'price': '$188,700 (-58.1%)'}, {'date': '9/29/2005', 'event': 'Sold', 'price': '$450,000 (+103.2%)'}, {'date': '1/31/2002', 'event': 'Sold', 'price': '$221,500'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Other', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/1', 'Pets': 'Small dogs', 'Laundry': 'Shared', 'Deposit_fees': 3742, 'Rent': 2495}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019c57fc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/2078820311_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '2078820311', 'Latitude': 33.659837, 'Longitude': -117.187941, 'location': {'type': 'Point', 'coordinates': [-117.187941, 33.659837]}, 'Status': 'House for rent', 'Address': '27050 Tupelo Rd,\xa0Menifee, CA 92584', 'Description': 'BEAUTIFUL CUSTOM BUILT, SINGLE STORY, RANCH STYLE HOME, ON A LARGE LOT IN MENIFEE. GREAT LOT TO HAVE YOUR RV, BOAT, TRAILER(S), WORK VEHICLES, ETC. THIS HOME HAS 3 LARGE BEDROOMS WITH CEILING FANS, 2-1/2 BATHS, 3 CAR GARAGE WITH STORAGE SHELVES AND WORK BENCH AREA, HAS NEWER WOOD-LOOK VINYL FLOORING THROUGHOUT, NEWER INTERIOR AND EXTERIOR PAINT, UPGRADED WINDOWS, NEW REAR PATIO CONCRETE AND UPGRADES, LARGE KITCHEN WITH NEWER RANGE, NEWER DISHWASHER, SPACIOUS BREAKFAST BAR AND OPENS TO THE DINING ROOM. VERY LARGE PANTRY/LAUNDRY ROOM OFF KITCHEN AND MUCH MORE. THIS HOME IS WALKING DISTANCE TO PALOMA VALLEY HIGH SCHOOL. THIS HOME HAS HAD RECENT EXTENSIVE RE-HAB WORK AND IS LIKE NEW IN MANY WAYS! A MUST SEE! FOR ALL DETAILS NECESSARY TO RENT THIS HOME, PLEASE GO TO THE MANAGEMENT COMPANY WEBSITE.', 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 2, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1800, 'ZestimatePrice': '', 'SaleHistory': [{'date': '7/5/2020', 'event': 'Listed for rent', 'price': '$2,295'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2295}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019580b08>
+0
+Fetching...https://www.zillow.com/homes/for_sale/59415739_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '59415739', 'Latitude': 33.682049, 'Longitude': -117.191621, 'location': {'type': 'Point', 'coordinates': [-117.191621, 33.682049]}, 'Status': 'House for rent', 'Address': '26836 Hanford St,\xa0Menifee, CA 92584', 'Description': 'Beautiful Family Home with Solar! Includes Electric! - Immaculate home for rent in sought after neighborhood near freeways and shopping. Home offers 4 bedrooms and 3 full bathrooms (1 bedroom and 1 full bath are downstairs). Beautiful upgrades throughout to include hard surface floors, granite kitchen counters laid over upgraded cabinets, custom built entertainment center, wood finished doors, faux wood blinds, stainless steel appliances and so much more. Backyard is entertainers delight with covered patios, accent lighting, high end artificial grass, water feature and plenty of room to enjoy. To top it all off, the home is solar powered and there will be no electric bill to pay. Cost of solar is included in the rent No Pets Allowed (RLNE5902745)', 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'Bedrooms': 4, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 2000, 'ZestimatePrice': 2400, 'SaleHistory': [{'date': '7/1/2020', 'event': 'Listed for rent', 'price': '$2,550'}, {'date': '10/14/2003', 'event': 'Sold', 'price': '$261,500'}], 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'No', 'Laundry': 'Contact manager', 'Deposit_fees': 2650, 'Rent': 2550}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a470248>
+0
+zid: 17934831 already exist in db
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201987ac50>, 'Connection to 193.106.130.249 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=194.34.132.232:5836
+http://194.34.132.232:5836
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201987ac18>, 'Connection to 194.34.132.232 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=207.244.250.124:11531
+http://207.244.250.124:11531
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+Rotating IP...new proxy=195.239.16.90:8080
+http://195.239.16.90:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019f376a0>, 'Connection to 195.239.16.90 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=119.129.239.11:3128
+http://119.129.239.11:3128
+PAGE:1
+https://www.zillow.com/homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/1_p
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/1_p (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f2019f37c50>, 'Connection to 119.129.239.11 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=45.169.163.73:8080
+http://45.169.163.73:8080
+PAGE:1
+https://www.zillow.com/homes/for_sale/92584_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/139181038_zpid
+unable to fetch walk/trasit score
+{'zid': '139181038', 'Latitude': 33.680954, 'Longitude': -117.210503, 'location': {'type': 'Point', 'coordinates': [-117.210503, 33.680954]}, 'Price': 574900, 'Status': 'For sale', 'Address': '25750 Roundup Cir,\xa0Menifee, CA 92584', 'Description': "Welcome home to 25750 Roundup Circle located in the impressive Audie Murphy Ranch Community. This highly sought after NextGen Jasmine Model home is inspired by Magnolia Farms. Completely upgraded this stunner boasts 5 bedrooms, 4.5 bathrooms & over 3300 sq. ft of pristine living and over $100k in upgrades. Complete w/plantation shutters throughout, rustic wood laminate flooring & upgraded tile flooring in bathrooms. The farmhouse design is seen throughout including designer shiplap accent wall in the downstairs dining room & master retreat. Gourmet kitchen features a large center island w/breakfast bar, stainless steel appliances, pantry, farm style sink, upgraded quartz countertops & opens out to the family room with direct access to pool sized backyard. Yard features California Room Style living w/Alumawood Patio cover, artificial turf w/paver border, & block gas firepit surround by stamped concrete & dog run. NextGen Suite has a private entrance w/living room & kitchenette complete w/microwave, refrigerator, ample kitchen space, direct garage access & private stamped concrete patio with Alumawood cover & fan. Space is ideal for guests, in-laws, or teen. Upstairs are the secondary bedrooms. Two adjoined with Jack & Jill bathroom & the other has a private bath. Master boasts impressive dual sink counter tops, large walk-in closet & relaxing soaking tub. Located within walking distance to parks, close to HOA amenities & energy efficient solar. Don't let this beauty slip away", 'ZipCode': '92584', 'State': 'CA', 'Locality': 'Menifee', 'WalkScore': 24, 'Bedrooms': 5, 'Bathrooms': 4, 'AreaSpace_SQFT': 3319, 'ZestimatePrice': 574901, 'SaleHistory': [{'date': '8/5/2020', 'event': 'Listed for sale', 'price': '$574,900 (+8.5%)'}, {'date': '7/25/2019', 'event': 'Listing removed', 'price': '$529,900'}, {'date': '7/10/2019', 'event': 'Listed for sale', 'price': '$529,900 (+17.2%)'}, {'date': '3/3/2017', 'event': 'Sold', 'price': '$452,000 (-61.4%)'}, {'date': '12/2/2013', 'event': 'Sold', 'price': '$1,170,000'}], 'YearBuilt': '2017', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '3 spaces', 'Lot': '8,276 sqft', 'Price_PerSQFT': 173, 'HOAFee': 135}exception IndexError('list index out of range',)in scrape for history for sale/rent 
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+exception IndexError('list index out of range',)in scrape for history for sale/rent 
+Rotating IP...new proxy=118.67.221.82:8080
+http://118.67.221.82:8080
+Rotating IP...new proxy=218.91.6.100:9999
+MongoDB connected...
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201aceb860>, 'Connection to 118.67.221.82 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=1.10.188.93:34871
+http://1.10.188.93:34871
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b0b8>, 'Connection to 1.10.188.93 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=223.100.166.3:36945
+http://223.100.166.3:36945
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ad1b588>, 'Connection to 223.100.166.3 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=118.113.245.14:9999
+http://118.113.245.14:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ade3438>, 'Connection to 118.113.245.14 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=78.11.85.2:8080
+http://78.11.85.2:8080
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201ade3828>, 'Connection to 78.11.85.2 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=110.243.29.246:9999
+http://110.243.29.246:9999
+HTTPSConnectionPool(host='www.zillow.com', port=443): Max retries exceeded with url: /homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/ (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f201add8940>, 'Connection to 110.243.29.246 timed out. (connect timeout=20.0)'))
+Rotating IP...new proxy=201.20.111.142:8080
+http://201.20.111.142:8080
+PAGE:1
+https://www.zillow.com/homes/for_rent/92563_rb/house,townhouse,condo_type/any_days/1_p
+0
+Fetching...https://www.zillow.com/homes/for_sale/61303440_zpid
+Error window detected
+Rotating IP...new proxy=113.120.142.94:8888
+0
+Fetching...https://www.zillow.com/homes/for_sale/61303440_zpid
+Error window detected
+Rotating IP...new proxy=194.58.182.73:41258
+0
+Fetching...https://www.zillow.com/homes/for_sale/61303648_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '61303648', 'Latitude': 33.555429, 'Longitude': -117.110493, 'location': {'type': 'Point', 'coordinates': [-117.110493, 33.555429]}, 'Status': 'House for rent', 'Address': '38937 Rockinghorse Rd,\xa0Murrieta, CA 92563', 'Description': "Don't miss out on this great 4 bedroom home for rent in Murrieta! Upon entering this home you are met with the lovely formal living room, fully carpeted with tons of natural lighting. The spacious kitchen features granite countertops, lots of upper and lower cabinet space and is open with the living room. The large living room features custom tile, a fireplace, and direct access to the backyard. Upstairs you will find the three bedrooms, full bathroom, and spacious master suite. The master bathroom features dual sinks, separate stand up shower/ bath tub, and large walk-in closet. Backyard you will find a large grass area and concrete patio, perfect for entertaining or spending outside with family on warm days! This home is conveniently located near the I-15 and I-215 freeways, great schools, shopping and entertainment!", 'ZipCode': '92563', 'State': 'CA', 'Locality': 'Murrieta', 'Bedrooms': 4, 'Bathrooms': 2, 'AreaSpace_SQFT': 2204, 'ZestimatePrice': '', 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': '9/10', 'Pets': 'Cats, large dogs, small dogs', 'Laundry': 'In Unit', 'Deposit_fees': 2400, 'Rent': 2400}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f201a101f48>
+0
+0
+Fetching...https://www.zillow.com/homes/for_sale/52476158_zpid
+unable to fetch walk/trasit score
+Year data not found
+{'zid': '52476158', 'Latitude': 33.549954, 'Longitude': -117.152587, 'location': {'type': 'Point', 'coordinates': [-117.152587, 33.549954]}, 'Status': 'House for rent', 'Address': '26625 Silver Oaks Dr,\xa0Murrieta, CA 92563', 'Description': 'FANTASTIC MURRIETA FOUR BEDROOM 1732 Sq Ft, Built 2000. Vaulted Ceilings thru-out, Gourmet kitchen w: stainless steel appliances (micro, dish, range/oven).All bedrooms offer ample living/closet space and have ceiling fans. Huge backyard w/ covered patio. Award Winning Schools. Close to all major shopping and Commuter Friendly "215 and 15 Freeways. Close to Torrey Pines Park.', 'ZipCode': '92563', 'State': 'CA', 'Locality': 'Murrieta', 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 1732, 'ZestimatePrice': '', 'SaleHistory': '', 'Type': 'Single Family', 'Heating': 'Other', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2250}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019e13bc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/64434568_zpid
+Year data not found
+{'zid': '64434568', 'Latitude': 33.603707, 'Longitude': -117.165717, 'location': {'type': 'Point', 'coordinates': [-117.165717, 33.603707]}, 'Status': 'House for rent', 'Address': '28319 Kara St,\xa0Murrieta, CA 92563', 'Description': 'Lovely two story home, located in a gated community. This home offers new paint throughout, along with new kitchen appliances. The downstairs includes a large living room, family room, open kitchen, half bath and utility room, along with direct garage access to the two car garage. The upstairs offers a large master bedroom and bathroom, 2 spare bedrooms and bathroom, laundry room and loft. The backyard is private with half being concrete and the other half including new sod.', 'ZipCode': '92563', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 6, 'TransitScore': 17, 'Bedrooms': 3, 'Bathrooms': 3, 'AreaSpace_SQFT': 2058, 'ZestimatePrice': 2400, 'SaleHistory': [{'date': '8/5/2020', 'event': 'Listed for rent', 'price': '$2,300'}, {'date': '12/8/2005', 'event': 'Sold', 'price': '$380,000'}], 'Type': 'Single Family', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 2300}
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f2019aba408>
+0
+Fetching...https://www.zillow.com/homes/for_sale/69279399_zpid
+Year data not found
+{'zid': '69279399', 'Latitude': 33.598867, 'Longitude': -117.165636, 'location': {'type': 'Point', 'coordinates': [-117.165636, 33.598867]}, 'Status': 'Condo for rent', 'Address': '28314 Socorro St, UNIT 110,\xa0Murrieta, CA 92563', 'Description': 'Beautiful 2 story condo, located in the Skyview Ridge Community. This Condo is located close to the community pool and includes 3 bedrooms, 2 full bathrooms and a half bath down stairs. The downstairs includes a family room, formal dining area, small living room, open kitchen, inside laundry closet, direct 2 car garage access, and a front porch. The upstairs offers 2 spare bedrooms, a hall full bathroom, a master bedroom and bathroom.', 'ZipCode': '92563', 'State': 'CA', 'Locality': 'Murrieta', 'WalkScore': 14, 'TransitScore': 18, 'Bedrooms': 3, 'Bathrooms': 2.5, 'AreaSpace_SQFT': 1508, 'ZestimatePrice': 1995, 'SaleHistory': '', 'Type': 'Condo', 'Heating': 'Forced air', 'Cooling': 'Central', 'Parking': '2 spaces', 'Price_PerSQFT': 1, 'Date_available': 'Contact manager', 'Pets': 'Contact manager', 'Laundry': 'Contact manager', 'Deposit_fees': 'Contact manager', 'Rent': 1995}exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+IndexError('list index out of range',)
+exception fetching card 2TypeError("'NoneType' object is not subscriptable",)
+IndexError('list index out of range',)
+
+Inserted data with post id <pymongo.results.InsertOneResult object at 0x7f20197c4cc8>
+0
+Fetching...https://www.zillow.com/homes/for_sale/17902736_zpid
+unable to fetch walk/trasit score
+{'zid': '17902736', 'Latitude': 33.800429, 'Longitude': -117.220504, 'location': {'type': 'Point', 'coordinates': [-117.220504, 33.800429]}, 'Price': 385000, 'Status': 'For sale', 'Address': '261 Momento Ave,\xa0Perris, CA 92571', 'Description': "Classic updated 90's contemporary home sited on a tranquil street in sunny Perris, CA.! This 4 bedroom 3 bath home has been updated in all the right places and has all the amenities included. A comfortable and cozy family oriented layout, with spacious living and dining rooms, plus a cozy family room complete with a gas fireplace that is perfect for any occasion. Your kitchen has been completely updated with all new quartz counter-tops, a complete matching Whirlpool stainless steel appliance package and soft close shaker cabinetry! Enjoy all new engineered wood flooring throughout, accented with high rise baseboards and custom interior paint. In addition, all new LED lighting has been installed in all the right places offering a soft, gracious ambient light in the entire home. All 3 Bathrooms have been fully updated as well with new flooring, commodes, vanities, fixtures and custom paint. This home has a lot of custom sized windows, so we installed custom roller shades for you to add ease of use while allowing the light to shine during the day without the heat. Lastly, enjoy a wonderful fully covered back patio, perfect for entertaining family & friends. Call today to schedule your private showing!! Showings begin on 7/11/2020", 'ZipCode': '92571', 'State': 'CA', 'Locality': 'Perris', 'Bedrooms': 4, 'Bathrooms': 3, 'AreaSpace_SQFT': 1749, 'ZestimatePrice': 390295, 'SaleHistory': '', 'YearBuilt': '1990', 'Type': 'Single Family', 'Heating': 'Forced air', 'C

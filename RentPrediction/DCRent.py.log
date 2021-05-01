@@ -1,0 +1,390 @@
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['Rent'] = z1
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-04-18 02:00:10
+Successfully connect to DB.
+train score for random_forest: 0.8941104445380874
+test score for random_forest: -0.8852047318840578
+The mean absolute error is:$ 674.3165837683559
+r_Score: -0.7434558729652021
+Voting Regressor (in): 0.9986234446659058
+Voting Regressor: -0.7434558729652021
+5d09067f77fd8ce7c4a12ee4
+p:  1914.1655720760155
+5d005da1ff22082ccb620d57
+p:  4309.816346278764
+5ceb324ff87e7e7b9d8fc765
+p:  2369.367702635488
+5d0904e7f25c021be11f6d5b
+p:  2204.81341984676
+5d090d3c77fd8ce7c4a12eee
+p:  2449.0167365543266
+5d090831f25c021be11f6d66
+p:  2237.191195777157
+5d090791f25c021be11f6d64
+p:  2449.0167365543266
+5d090cc077fd8ce7c4a12eed
+p:  1886.5911124434351
+5d090df277fd8ce7c4a12eef
+p:  1970.605404197515
+5d005c93ff22082ccb620d4c
+p:  2416.638960623929
+5d005e64e0ad6e1ee06bfb8c
+p:  3905.786909658571
+5d09100d77fd8ce7c4a12ef2
+p:  2159.3202900485203
+5d0909f277fd8ce7c4a12eea
+p:  2759.8527945556734
+5d0908a7f25c021be11f6d69
+p:  1864.7251549692564
+5d005e09e0ad6e1ee06bfb88
+p:  2136.5834736422703
+5d090c8177fd8ce7c4a12eec
+p:  1864.7251549692564
+5d0904dbf25c021be11f6d5a
+p:  2449.0167365543266
+5cf1ae63c861f78be8f6585b
+p:  3837.425479142993
+5cf1cb62c861f78be8f658bd
+p:  4193.9779460148
+5ce9db6a88d397001ec715ec
+p:  3812.1624277561605
+5cf61acfd2cbf50265241002
+p:  4152.584354714969
+5cf61322d2cbf50265240fd6
+p:  4193.9779460148
+5d00800a70941a08216bfc48
+p:  2360.2091363440195
+5d00a44a7e20b8a59c91b196
+p:  4502.2024752466195
+5cf5d656d2cbf50265240f09
+p:  4372.491344311302
+5cf1c302c861f78be8f6589c
+p:  4272.059374417985
+5cf1ac86c861f78be8f65856
+p:  4441.107029753783
+5cf1abf6c861f78be8f65855
+p:  4081.260139928353
+5d09c4fef184f611416d98a6
+p:  4876.618876474542
+5cf6208cd2cbf5026524101e
+p:  4264.6652021109585
+5cf60f2dd2cbf50265240fac
+p:  2507.905964983631
+5ce9c40a88d397001ec71590
+p:  3973.0593863843724
+5d0081b8fef208a89691b099
+p:  3920.9760976119624
+5d005e6de0ad6e1ee06bfb8d
+p:  1924.3774987192564
+5d09097377fd8ce7c4a12ee7
+p:  2473.4926218413675
+5d0909a077fd8ce7c4a12ee8
+p:  1871.5026180895138
+5d0909db77fd8ce7c4a12ee9
+p:  1871.5026180895138
+5d0d2daee2ea012a7414ae01
+p:  4258.112105533318
+5d0d363243207cb60914ae2b
+p:  4710.533533206781
+5d0d3a24e2ea012a7414ae6e
+p:  2071.4231152792236
+5d12a697b7ae3de20d8d6e92
+p:  1862.2858116794237
+5d19b810a22b896835d02ed3
+p:  2388.9124783232755
+5d264c1eddcb4129edeb690e
+p:  1871.5026180895138
+5d264f73ddcb4129edeb6913
+p:  3361.724081516888
+5d265799ddcb4129edeb691f
+p:  2222.3119733933927
+5d265a49ddcb4129edeb6925
+p:  3962.060462691393
+5d266b84ddcb4129edeb693f
+p:  4770.365638499034
+5d26736dddcb4129edeb694a
+p:  2433.522284927305
+5d267e20ddcb4129edeb6956
+p:  2336.146440296573
+5d388cb67110e453a0b03a7f
+p:  2639.2014467915797
+5d3ea738bd7b3d656007b68e
+p:  4322.393226374097
+5d42c6735059a34d102fa175
+p:  1915.7598713425464
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['Rent'] = z1
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-04-18 03:00:15
+Successfully connect to DB.
+train score for random_forest: 0.8869446827736378
+test score for random_forest: -0.9817037355072468
+The mean absolute error is:$ 674.3165837683559
+r_Score: -0.7434558729652021
+Voting Regressor (in): 0.9986234446659058
+Voting Regressor: -0.7434558729652021
+5d09067f77fd8ce7c4a12ee4
+p:  1914.1655720760155
+5d005da1ff22082ccb620d57
+p:  4309.816346278764
+5ceb324ff87e7e7b9d8fc765
+p:  2369.367702635488
+5d0904e7f25c021be11f6d5b
+p:  2204.81341984676
+5d090d3c77fd8ce7c4a12eee
+p:  2449.0167365543266
+5d090831f25c021be11f6d66
+p:  2237.191195777157
+5d090791f25c021be11f6d64
+p:  2449.0167365543266
+5d090cc077fd8ce7c4a12eed
+p:  1886.5911124434351
+5d090df277fd8ce7c4a12eef
+p:  1970.605404197515
+5d005c93ff22082ccb620d4c
+p:  2416.638960623929
+5d005e64e0ad6e1ee06bfb8c
+p:  3905.786909658571
+5d09100d77fd8ce7c4a12ef2
+p:  2159.3202900485203
+5d0909f277fd8ce7c4a12eea
+p:  2759.8527945556734
+5d0908a7f25c021be11f6d69
+p:  1864.7251549692564
+5d005e09e0ad6e1ee06bfb88
+p:  2136.5834736422703
+5d090c8177fd8ce7c4a12eec
+p:  1864.7251549692564
+5d0904dbf25c021be11f6d5a
+p:  2449.0167365543266
+5cf1ae63c861f78be8f6585b
+p:  3837.425479142993
+5cf1cb62c861f78be8f658bd
+p:  4193.9779460148
+5ce9db6a88d397001ec715ec
+p:  3812.1624277561605
+5cf61acfd2cbf50265241002
+p:  4152.584354714969
+5cf61322d2cbf50265240fd6
+p:  4193.9779460148
+5d00800a70941a08216bfc48
+p:  2360.2091363440195
+5d00a44a7e20b8a59c91b196
+p:  4502.2024752466195
+5cf5d656d2cbf50265240f09
+p:  4372.491344311302
+5cf1c302c861f78be8f6589c
+p:  4272.059374417985
+5cf1ac86c861f78be8f65856
+p:  4441.107029753783
+5cf1abf6c861f78be8f65855
+p:  4081.260139928353
+5d09c4fef184f611416d98a6
+p:  4876.618876474542
+5cf6208cd2cbf5026524101e
+p:  4264.6652021109585
+5cf60f2dd2cbf50265240fac
+p:  2507.905964983631
+5ce9c40a88d397001ec71590
+p:  3973.0593863843724
+5d0081b8fef208a89691b099
+p:  3920.9760976119624
+5d005e6de0ad6e1ee06bfb8d
+p:  1924.3774987192564
+5d09097377fd8ce7c4a12ee7
+p:  2473.4926218413675
+5d0909a077fd8ce7c4a12ee8
+p:  1871.5026180895138
+5d0909db77fd8ce7c4a12ee9
+p:  1871.5026180895138
+5d0d2daee2ea012a7414ae01
+p:  4258.112105533318
+5d0d363243207cb60914ae2b
+p:  4710.533533206781
+5d0d3a24e2ea012a7414ae6e
+p:  2071.4231152792236
+5d12a697b7ae3de20d8d6e92
+p:  1862.2858116794237
+5d19b810a22b896835d02ed3
+p:  2388.9124783232755
+5d264c1eddcb4129edeb690e
+p:  1871.5026180895138
+5d264f73ddcb4129edeb6913
+p:  3361.724081516888
+5d265799ddcb4129edeb691f
+p:  2222.3119733933927
+5d265a49ddcb4129edeb6925
+p:  3962.060462691393
+5d266b84ddcb4129edeb693f
+p:  4770.365638499034
+5d26736dddcb4129edeb694a
+p:  2433.522284927305
+5d267e20ddcb4129edeb6956
+p:  2336.146440296573
+5d388cb67110e453a0b03a7f
+p:  2639.2014467915797
+5d3ea738bd7b3d656007b68e
+p:  4322.393226374097
+5d42c6735059a34d102fa175
+p:  1915.7598713425464
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['Rent'] = z1
+/home/testapiuser/HouseApp_2/RentPrediction/DCRent.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-04-18 04:00:19
+Successfully connect to DB.
+train score for random_forest: 0.8841987483571943
+test score for random_forest: -0.8097732699275361
+The mean absolute error is:$ 727.8513624970573
+r_Score: -1.1137506401821704
+Voting Regressor (in): 0.9986031913594504
+Voting Regressor: -1.1137506401821704
+5d09067f77fd8ce7c4a12ee4
+p:  1935.3087961639599
+5d005da1ff22082ccb620d57
+p:  4285.533139438025
+5ceb324ff87e7e7b9d8fc765
+p:  2394.786407153677
+5d0904e7f25c021be11f6d5b
+p:  2164.435683944061
+5d090d3c77fd8ce7c4a12eee
+p:  2445.7614955526324
+5d090831f25c021be11f6d66
+p:  2205.2608508215853
+5d090791f25c021be11f6d64
+p:  2445.7614955526324
+5d090cc077fd8ce7c4a12eed
+p:  1906.859529785113
+5d090df277fd8ce7c4a12eef
+p:  1962.4332830019648
+5d005c93ff22082ccb620d4c
+p:  2404.9363286751086
+5d005e64e0ad6e1ee06bfb8c
+p:  4091.610806339538
+5d09100d77fd8ce7c4a12ef2
+p:  2136.3786394141694
+5d0909f277fd8ce7c4a12eea
+p:  2694.754215333992
+5d0908a7f25c021be11f6d69
+p:  1890.0667105392
+5d005e09e0ad6e1ee06bfb88
+p:  2136.3786394141694
+5d090c8177fd8ce7c4a12eec
+p:  1890.0667105392
+5d0904dbf25c021be11f6d5a
+p:  2445.7614955526324
+5cf1ae63c861f78be8f6585b
+p:  3948.5715865980474
+5cf1cb62c861f78be8f658bd
+p:  4282.393642087847
+5ce9db6a88d397001ec715ec
+p:  3801.70518182084
+5cf61acfd2cbf50265241002
+p:  4280.085171960773
+5cf61322d2cbf50265240fd6
+p:  4282.393642087847
+5d00800a70941a08216bfc48
+p:  2328.1312160045163
+5d00a44a7e20b8a59c91b196
+p:  4535.82208480454
+5cf5d656d2cbf50265240f09
+p:  4396.036207006972
+5cf1c302c861f78be8f6589c
+p:  4189.913482410856
+5cf1ac86c861f78be8f65856
+p:  4417.511724424541
+5cf1abf6c861f78be8f65855
+p:  4090.1254599503663
+5d09c4fef184f611416d98a6
+p:  4883.738995893893
+5cf6208cd2cbf5026524101e
+p:  4245.608069488968
+5cf60f2dd2cbf50265240fac
+p:  2633.38016383347
+5ce9c40a88d397001ec71590
+p:  4155.945767277039
+5d0081b8fef208a89691b099
+p:  4096.023382964808
+5d005e6de0ad6e1ee06bfb8d
+p:  1946.5231314376374
+5d09097377fd8ce7c4a12ee7
+p:  2493.6342328413302
+5d0909a077fd8ce7c4a12ee8
+p:  1899.363229379699
+5d0909db77fd8ce7c4a12ee9
+p:  1899.363229379699
+5d0d2daee2ea012a7414ae01
+p:  4256.533979551639
+5d0d363243207cb60914ae2b
+p:  4491.019044252166
+5d0d3a24e2ea012a7414ae6e
+p:  2053.6897535205203
+5d12a697b7ae3de20d8d6e92
+p:  1847.8417528734299
+5d19b810a22b896835d02ed3
+p:  2400.281159178703
+5d264c1eddcb4129edeb690e
+p:  1899.363229379699
+5d264f73ddcb4129edeb6913
+p:  3209.845614318686
+5d265799ddcb4129edeb691f
+p:  2213.472097765688
+5d265a49ddcb4129edeb6925
+p:  4218.485715198345
+5d266b84ddcb4129edeb693f
+p:  4766.3692740923925
+5d26736dddcb4129edeb694a
+p:  2460.4951947553927
+5d267e20ddcb4129edeb6956
+p:  2340.897566587187
+5d388cb67110e453a0b03a7f
+p:  2688.426873894975
+5d3ea738bd7b3d656007b68e
+p:  4328.838505605764
+5d42c6735059a34d102fa175
+p:  1934.1327808717242

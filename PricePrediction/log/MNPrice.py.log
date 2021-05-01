@@ -1,0 +1,850 @@
+Current date and time: 2020-06-07 15:34:20
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9304998255333556
+test score for random_forest: 0.5503907626265545
+The mean absolute error is:$ 91242.72013414292
+r_Score: 0.5100980297542277
+Voting Regressor (in): 0.9899313688217317
+Voting Regressor: 0.5100980297542277
+5d0819417c1d83daee248b86
+p:  278689.34593454644
+5d0a4ed4fa7544d5f27ba68a
+p:  147354.27466165437
+5d0b660519aeb54ebe6efc11
+p:  157670.44286200666
+5d0e87e52b8f60b82b8f8d2b
+p:  225201.7963672229
+5d0e8b512b8f60b82b8f8d36
+p:  190829.46487804252
+5d18571b253e7cfd9b98bd16
+p:  222537.55035047556
+5d185a8c253e7cfd9b98bd2a
+p:  444214.0160887935
+5d1c6939dbebfd779eefbd5c
+p:  246059.58351708428
+5d26865addcb4129edeb696c
+p:  179353.97110699513
+5d26b0a6107c1d579eeb69b8
+p:  205814.93797588162
+5d2985f4199bf96b6045acb7
+p:  368809.8360907484
+5d2b889047cfe46363877be7
+p:  162955.89731207298
+5d2ccc5baa1ce31ade80b07f
+p:  480124.71406828356
+5d2d042baa1ce31ade80b11f
+p:  274490.26374424685
+5d2d1724aa1ce31ade80b14c
+p:  259620.19798231887
+5d2d1e1eaa1ce31ade80b159
+p:  434125.4535346717
+5d2d1e3faa1ce31ade80b15a
+p:  267869.6753629244
+5d2d1e5baa1ce31ade80b15b
+p:  384246.9179110567
+5d2e00cfb39b58f1d2167cb8
+p:  340018.941026657
+5d31acaed708b0a3d0a64ea2
+p:  207862.92198261782
+5d34a55518f8dde30a0abc74
+p:  364987.9714701302
+5d34f98f18f8dde30a0abd0e
+p:  538271.7741954951
+5d350fb618f8dde30a0abd41
+p:  256688.92947225535
+5d35107518f8dde30a0abd4b
+p:  240631.24845718368
+5d3511b318f8dde30a0abd59
+p:  120106.9870855666
+5d35151418f8dde30a0abd81
+p:  261881.84959369217
+5d3515e218f8dde30a0abd89
+p:  290423.80428316526
+5d3515f118f8dde30a0abd8a
+p:  218295.33550380962
+5d35166b18f8dde30a0abd90
+p:  292168.4662269574
+5d351c2418f8dde30a0abdd0
+p:  154212.17893862008
+5d353a4e18f8dde30a0abdf6
+p:  253942.0511616444
+5d38dd5bdd2d94d3c8b03c92
+p:  262274.56251291203
+5d38ec4402947826d9b03cb9
+p:  253888.80932559207
+5d3e719fbd7b3d656007b5fc
+p:  259639.5218585849
+5d3e972dbd7b3d656007b65d
+p:  230486.1627014982
+5d442af10c2b93cba458ade7
+p:  221496.94156930098
+5d474df0d57846aad03cb3c5
+p:  155635.2446534814
+5d47827dd57846aad03cb46a
+p:  262232.7282744926
+Current date and time: 2020-06-08 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9323516722528621
+test score for random_forest: 0.5861936410657678
+The mean absolute error is:$ 92104.12106161809
+r_Score: 0.5123415850102222
+Voting Regressor (in): 0.9894670122262346
+Voting Regressor: 0.5123415850102222
+5d0819417c1d83daee248b86
+p:  278179.8289876173
+5d0a4ed4fa7544d5f27ba68a
+p:  143774.42745762542
+5d0b660519aeb54ebe6efc11
+p:  153629.4444236685
+5d0e87e52b8f60b82b8f8d2b
+p:  221684.7883021806
+5d0e8b512b8f60b82b8f8d36
+p:  194897.83477002184
+5d18571b253e7cfd9b98bd16
+p:  218711.5695080735
+5d185a8c253e7cfd9b98bd2a
+p:  446143.5645145704
+5d1c6939dbebfd779eefbd5c
+p:  253996.68420738546
+5d26865addcb4129edeb696c
+p:  187244.9771491427
+5d26b0a6107c1d579eeb69b8
+p:  203235.641074943
+5d2985f4199bf96b6045acb7
+p:  360760.4212678634
+5d2b889047cfe46363877be7
+p:  163007.06054933812
+5d2ccc5baa1ce31ade80b07f
+p:  439191.013345248
+5d2d042baa1ce31ade80b11f
+p:  258341.90366060723
+5d2d1724aa1ce31ade80b14c
+p:  224959.83522411785
+5d2d1e1eaa1ce31ade80b159
+p:  482252.89614766766
+5d2d1e3faa1ce31ade80b15a
+p:  261548.66227476887
+5d2d1e5baa1ce31ade80b15b
+p:  394612.2108824699
+5d2e00cfb39b58f1d2167cb8
+p:  347225.07268071244
+5d31acaed708b0a3d0a64ea2
+p:  212227.75490357215
+5d34a55518f8dde30a0abc74
+p:  355801.8982888237
+5d34f98f18f8dde30a0abd0e
+p:  501394.6035062661
+5d350fb618f8dde30a0abd41
+p:  243687.13913511342
+5d35107518f8dde30a0abd4b
+p:  191120.13026417582
+5d3511b318f8dde30a0abd59
+p:  115798.24054297608
+5d35151418f8dde30a0abd81
+p:  268134.4018563145
+5d3515e218f8dde30a0abd89
+p:  303660.02784669853
+5d3515f118f8dde30a0abd8a
+p:  217026.80452423464
+5d35166b18f8dde30a0abd90
+p:  295944.68883239245
+5d351c2418f8dde30a0abdd0
+p:  140305.68443230554
+5d353a4e18f8dde30a0abdf6
+p:  239051.7479283979
+5d38dd5bdd2d94d3c8b03c92
+p:  256880.76729856894
+5d38ec4402947826d9b03cb9
+p:  252487.19224128115
+5d3e719fbd7b3d656007b5fc
+p:  239708.51388740778
+5d3e972dbd7b3d656007b65d
+p:  227286.18569659663
+5d442af10c2b93cba458ade7
+p:  218165.34481007056
+5d474df0d57846aad03cb3c5
+p:  163151.1072263389
+5d47827dd57846aad03cb46a
+p:  256155.54831190442
+Current date and time: 2020-06-09 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9260627201475198
+test score for random_forest: 0.5866874011495502
+The mean absolute error is:$ 92104.12106161809
+r_Score: 0.5123415850102222
+Voting Regressor (in): 0.9894670122262346
+Voting Regressor: 0.5123415850102222
+5d0819417c1d83daee248b86
+p:  278179.8289876173
+5d0a4ed4fa7544d5f27ba68a
+p:  143774.42745762542
+5d0b660519aeb54ebe6efc11
+p:  153629.4444236685
+5d0e87e52b8f60b82b8f8d2b
+p:  221684.7883021806
+5d0e8b512b8f60b82b8f8d36
+p:  194897.83477002184
+5d18571b253e7cfd9b98bd16
+p:  218711.5695080735
+5d185a8c253e7cfd9b98bd2a
+p:  446143.5645145704
+5d1c6939dbebfd779eefbd5c
+p:  253996.68420738546
+5d26865addcb4129edeb696c
+p:  187244.9771491427
+5d26b0a6107c1d579eeb69b8
+p:  203235.641074943
+5d2985f4199bf96b6045acb7
+p:  360760.4212678634
+5d2b889047cfe46363877be7
+p:  163007.06054933812
+5d2ccc5baa1ce31ade80b07f
+p:  439191.013345248
+5d2d042baa1ce31ade80b11f
+p:  258341.90366060723
+5d2d1724aa1ce31ade80b14c
+p:  224959.83522411785
+5d2d1e1eaa1ce31ade80b159
+p:  482252.89614766766
+5d2d1e3faa1ce31ade80b15a
+p:  261548.66227476887
+5d2d1e5baa1ce31ade80b15b
+p:  394612.2108824699
+5d2e00cfb39b58f1d2167cb8
+p:  347225.07268071244
+5d31acaed708b0a3d0a64ea2
+p:  212227.75490357215
+5d34a55518f8dde30a0abc74
+p:  355801.8982888237
+5d34f98f18f8dde30a0abd0e
+p:  501394.6035062661
+5d350fb618f8dde30a0abd41
+p:  243687.13913511342
+5d35107518f8dde30a0abd4b
+p:  191120.13026417582
+5d3511b318f8dde30a0abd59
+p:  115798.24054297608
+5d35151418f8dde30a0abd81
+p:  268134.4018563145
+5d3515e218f8dde30a0abd89
+p:  303660.02784669853
+5d3515f118f8dde30a0abd8a
+p:  217026.80452423464
+5d35166b18f8dde30a0abd90
+p:  295944.68883239245
+5d351c2418f8dde30a0abdd0
+p:  140305.68443230554
+5d353a4e18f8dde30a0abdf6
+p:  239051.7479283979
+5d38dd5bdd2d94d3c8b03c92
+p:  256880.76729856894
+5d38ec4402947826d9b03cb9
+p:  252487.19224128115
+5d3e719fbd7b3d656007b5fc
+p:  239708.51388740778
+5d3e972dbd7b3d656007b65d
+p:  227286.18569659663
+5d442af10c2b93cba458ade7
+p:  218165.34481007056
+5d474df0d57846aad03cb3c5
+p:  163151.1072263389
+5d47827dd57846aad03cb46a
+p:  256155.54831190442
+Current date and time: 2020-06-10 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9324867670632249
+test score for random_forest: 0.5825492380492487
+The mean absolute error is:$ 91868.618826211
+r_Score: 0.5317975047741912
+Voting Regressor (in): 0.9895812694019669
+Voting Regressor: 0.5317975047741912
+5d0819417c1d83daee248b86
+p:  274587.7346989353
+5d0a4ed4fa7544d5f27ba68a
+p:  148492.27921359835
+5d0b660519aeb54ebe6efc11
+p:  158998.22012319905
+5d0e87e52b8f60b82b8f8d2b
+p:  225783.75464802526
+5d0e8b512b8f60b82b8f8d36
+p:  192273.764728514
+5d18571b253e7cfd9b98bd16
+p:  214892.77102629634
+5d185a8c253e7cfd9b98bd2a
+p:  452875.76366631564
+5d1c6939dbebfd779eefbd5c
+p:  249057.8263746251
+5d26865addcb4129edeb696c
+p:  189696.7228342736
+5d26b0a6107c1d579eeb69b8
+p:  205334.26929128388
+5d2985f4199bf96b6045acb7
+p:  353979.2501255273
+5d2b889047cfe46363877be7
+p:  164894.61360658676
+5d2ccc5baa1ce31ade80b07f
+p:  484331.42151864903
+5d2d042baa1ce31ade80b11f
+p:  255549.07870176306
+5d2d1724aa1ce31ade80b14c
+p:  240405.99770995684
+5d2d1e1eaa1ce31ade80b159
+p:  439914.19596020307
+5d2d1e3faa1ce31ade80b15a
+p:  263420.2964176603
+5d2d1e5baa1ce31ade80b15b
+p:  378649.741214429
+5d2e00cfb39b58f1d2167cb8
+p:  418442.9665566063
+5d31acaed708b0a3d0a64ea2
+p:  215342.99594067165
+5d34a55518f8dde30a0abc74
+p:  353601.1588986875
+5d34f98f18f8dde30a0abd0e
+p:  529238.2777284253
+5d350fb618f8dde30a0abd41
+p:  253607.42961007118
+5d35107518f8dde30a0abd4b
+p:  248206.39637139108
+5d3511b318f8dde30a0abd59
+p:  116395.38376909643
+5d35151418f8dde30a0abd81
+p:  276009.9599225619
+5d3515e218f8dde30a0abd89
+p:  306369.37641344965
+5d3515f118f8dde30a0abd8a
+p:  210707.14935834304
+5d35166b18f8dde30a0abd90
+p:  288031.19033750176
+5d351c2418f8dde30a0abdd0
+p:  153090.89283687863
+5d353a4e18f8dde30a0abdf6
+p:  231186.89609683206
+5d38dd5bdd2d94d3c8b03c92
+p:  252146.120977109
+5d38ec4402947826d9b03cb9
+p:  249098.40121511417
+5d3e719fbd7b3d656007b5fc
+p:  256729.9450662775
+5d3e972dbd7b3d656007b65d
+p:  225887.31133528257
+5d442af10c2b93cba458ade7
+p:  216695.1145935848
+5d474df0d57846aad03cb3c5
+p:  159710.2321616434
+5d47827dd57846aad03cb46a
+p:  256441.45636604956
+Current date and time: 2020-06-11 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9319295569083219
+test score for random_forest: 0.5802230491894491
+The mean absolute error is:$ 93171.1718728732
+r_Score: 0.48464053338483537
+Voting Regressor (in): 0.9894817866235316
+Voting Regressor: 0.48464053338483537
+5d0819417c1d83daee248b86
+p:  268094.0655866489
+5d0a4ed4fa7544d5f27ba68a
+p:  142053.56915864107
+5d0b660519aeb54ebe6efc11
+p:  145856.5707986207
+5d0e87e52b8f60b82b8f8d2b
+p:  218328.74563301716
+5d0e8b512b8f60b82b8f8d36
+p:  198267.19989872002
+5d18571b253e7cfd9b98bd16
+p:  215678.91480782695
+5d185a8c253e7cfd9b98bd2a
+p:  439532.63191019406
+5d1c6939dbebfd779eefbd5c
+p:  252111.01639121605
+5d26865addcb4129edeb696c
+p:  188737.43494070956
+5d26b0a6107c1d579eeb69b8
+p:  200677.9013729185
+5d2985f4199bf96b6045acb7
+p:  361776.39651996177
+5d2b889047cfe46363877be7
+p:  156202.1259300068
+5d2ccc5baa1ce31ade80b07f
+p:  474437.3841008011
+5d2d042baa1ce31ade80b11f
+p:  262826.9850972395
+5d2d1724aa1ce31ade80b14c
+p:  236051.417440005
+5d2d1e1eaa1ce31ade80b159
+p:  426455.07476681157
+5d2d1e3faa1ce31ade80b15a
+p:  283816.89940641087
+5d2d1e5baa1ce31ade80b15b
+p:  384590.2165089423
+5d2e00cfb39b58f1d2167cb8
+p:  405230.82241474465
+5d31acaed708b0a3d0a64ea2
+p:  204243.37675507157
+5d34a55518f8dde30a0abc74
+p:  349898.5771529434
+5d34f98f18f8dde30a0abd0e
+p:  525221.9937576398
+5d350fb618f8dde30a0abd41
+p:  249337.0861430313
+5d35107518f8dde30a0abd4b
+p:  222455.25543750127
+5d3511b318f8dde30a0abd59
+p:  109641.41746031979
+5d35151418f8dde30a0abd81
+p:  278260.24693940405
+5d3515e218f8dde30a0abd89
+p:  319881.23859751906
+5d3515f118f8dde30a0abd8a
+p:  226957.3568488128
+5d35166b18f8dde30a0abd90
+p:  294097.14151415473
+5d351c2418f8dde30a0abdd0
+p:  165062.7412848997
+5d353a4e18f8dde30a0abdf6
+p:  253334.74489130732
+5d38dd5bdd2d94d3c8b03c92
+p:  265864.7179435866
+5d38ec4402947826d9b03cb9
+p:  254380.46022584714
+5d3e719fbd7b3d656007b5fc
+p:  241958.168641275
+5d3e972dbd7b3d656007b65d
+p:  238652.42310836667
+5d442af10c2b93cba458ade7
+p:  218325.65381935384
+5d474df0d57846aad03cb3c5
+p:  151676.52279274378
+5d47827dd57846aad03cb46a
+p:  255860.5436751326
+Current date and time: 2020-06-12 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9271871297695191
+test score for random_forest: 0.6008302920035447
+The mean absolute error is:$ 95614.82973703583
+r_Score: 0.4753544236619801
+Voting Regressor (in): 0.9896201674691282
+Voting Regressor: 0.4753544236619801
+5d0819417c1d83daee248b86
+p:  276859.6603062191
+5d0a4ed4fa7544d5f27ba68a
+p:  152298.7971888075
+5d0b660519aeb54ebe6efc11
+p:  153161.0157126498
+5d0e87e52b8f60b82b8f8d2b
+p:  223787.36326488794
+5d0e8b512b8f60b82b8f8d36
+p:  189287.08813900314
+5d18571b253e7cfd9b98bd16
+p:  212688.1553992348
+5d185a8c253e7cfd9b98bd2a
+p:  453207.5121837801
+5d1c6939dbebfd779eefbd5c
+p:  248621.60218881306
+5d26865addcb4129edeb696c
+p:  185625.1412603453
+5d26b0a6107c1d579eeb69b8
+p:  189575.79649383415
+5d2985f4199bf96b6045acb7
+p:  363869.84019057406
+5d2b889047cfe46363877be7
+p:  158895.83291991512
+5d2ccc5baa1ce31ade80b07f
+p:  505426.054424841
+5d2d042baa1ce31ade80b11f
+p:  282631.9253156284
+5d2d1724aa1ce31ade80b14c
+p:  222443.55679916212
+5d2d1e1eaa1ce31ade80b159
+p:  442604.1782776469
+5d2d1e3faa1ce31ade80b15a
+p:  250678.91784814568
+5d2d1e5baa1ce31ade80b15b
+p:  399872.3740949248
+5d2e00cfb39b58f1d2167cb8
+p:  505154.43635480397
+5d31acaed708b0a3d0a64ea2
+p:  192684.98383992497
+5d34a55518f8dde30a0abc74
+p:  340221.1064039301
+5d34f98f18f8dde30a0abd0e
+p:  529666.8652043364
+5d350fb618f8dde30a0abd41
+p:  253159.8756662362
+5d35107518f8dde30a0abd4b
+p:  187520.3781520307
+5d3511b318f8dde30a0abd59
+p:  124833.58393024986
+5d35151418f8dde30a0abd81
+p:  262661.4400375107
+5d3515e218f8dde30a0abd89
+p:  303268.4672148234
+5d3515f118f8dde30a0abd8a
+p:  209994.3975416537
+5d35166b18f8dde30a0abd90
+p:  295448.79136297735
+5d351c2418f8dde30a0abdd0
+p:  136243.25814756684
+5d353a4e18f8dde30a0abdf6
+p:  244613.7153826228
+5d38dd5bdd2d94d3c8b03c92
+p:  243123.83104811684
+5d38ec4402947826d9b03cb9
+p:  245601.03365802966
+5d3e719fbd7b3d656007b5fc
+p:  238642.37160337262
+5d3e972dbd7b3d656007b65d
+p:  232881.43350037583
+5d442af10c2b93cba458ade7
+p:  216674.05062359656
+5d474df0d57846aad03cb3c5
+p:  151168.61983496588
+5d47827dd57846aad03cb46a
+p:  259935.77127607603
+Current date and time: 2020-06-13 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9319132616632604
+test score for random_forest: 0.5152367450513249
+The mean absolute error is:$ 91868.618826211
+r_Score: 0.5317975047741912
+Voting Regressor (in): 0.9895812694019669
+Voting Regressor: 0.5317975047741912
+5d0819417c1d83daee248b86
+p:  274587.7346989353
+5d0a4ed4fa7544d5f27ba68a
+p:  148492.27921359835
+5d0b660519aeb54ebe6efc11
+p:  158998.22012319905
+5d0e87e52b8f60b82b8f8d2b
+p:  225783.75464802526
+5d0e8b512b8f60b82b8f8d36
+p:  192273.764728514
+5d18571b253e7cfd9b98bd16
+p:  214892.77102629634
+5d185a8c253e7cfd9b98bd2a
+p:  452875.76366631564
+5d1c6939dbebfd779eefbd5c
+p:  249057.8263746251
+5d26865addcb4129edeb696c
+p:  189696.7228342736
+5d26b0a6107c1d579eeb69b8
+p:  205334.26929128388
+5d2985f4199bf96b6045acb7
+p:  353979.2501255273
+5d2b889047cfe46363877be7
+p:  164894.61360658676
+5d2ccc5baa1ce31ade80b07f
+p:  484331.42151864903
+5d2d042baa1ce31ade80b11f
+p:  255549.07870176306
+5d2d1724aa1ce31ade80b14c
+p:  240405.99770995684
+5d2d1e1eaa1ce31ade80b159
+p:  439914.19596020307
+5d2d1e3faa1ce31ade80b15a
+p:  263420.2964176603
+5d2d1e5baa1ce31ade80b15b
+p:  378649.741214429
+5d2e00cfb39b58f1d2167cb8
+p:  418442.9665566063
+5d31acaed708b0a3d0a64ea2
+p:  215342.99594067165
+5d34a55518f8dde30a0abc74
+p:  353601.1588986875
+5d34f98f18f8dde30a0abd0e
+p:  529238.2777284253
+5d350fb618f8dde30a0abd41
+p:  253607.42961007118
+5d35107518f8dde30a0abd4b
+p:  248206.39637139108
+5d3511b318f8dde30a0abd59
+p:  116395.38376909643
+5d35151418f8dde30a0abd81
+p:  276009.9599225619
+5d3515e218f8dde30a0abd89
+p:  306369.37641344965
+5d3515f118f8dde30a0abd8a
+p:  210707.14935834304
+5d35166b18f8dde30a0abd90
+p:  288031.19033750176
+5d351c2418f8dde30a0abdd0
+p:  153090.89283687863
+5d353a4e18f8dde30a0abdf6
+p:  231186.89609683206
+5d38dd5bdd2d94d3c8b03c92
+p:  252146.120977109
+5d38ec4402947826d9b03cb9
+p:  249098.40121511417
+5d3e719fbd7b3d656007b5fc
+p:  256729.9450662775
+5d3e972dbd7b3d656007b65d
+p:  225887.31133528257
+5d442af10c2b93cba458ade7
+p:  216695.1145935848
+5d474df0d57846aad03cb3c5
+p:  159710.2321616434
+5d47827dd57846aad03cb46a
+p:  256441.45636604956
+Current date and time: 2020-06-14 15:34:10
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9256321756446853
+test score for random_forest: 0.5701153547469315
+The mean absolute error is:$ 91389.1178124588
+r_Score: 0.5186212745256376
+Voting Regressor (in): 0.9894187028054012
+Voting Regressor: 0.5186212745256376
+5d0819417c1d83daee248b86
+p:  272172.5520946777
+5d0a4ed4fa7544d5f27ba68a
+p:  142296.92164826274
+5d0b660519aeb54ebe6efc11
+p:  155835.74318136962
+5d0e87e52b8f60b82b8f8d2b
+p:  225662.652678405
+5d0e8b512b8f60b82b8f8d36
+p:  195538.34181334235
+5d18571b253e7cfd9b98bd16
+p:  226642.65291418292
+5d185a8c253e7cfd9b98bd2a
+p:  441849.546781929
+5d1c6939dbebfd779eefbd5c
+p:  249619.3044116865
+5d26865addcb4129edeb696c
+p:  185548.78863330567
+5d26b0a6107c1d579eeb69b8
+p:  193384.87694742327
+5d2985f4199bf96b6045acb7
+p:  365007.0095708327
+5d2b889047cfe46363877be7
+p:  162088.44896082283
+5d2ccc5baa1ce31ade80b07f
+p:  462330.10053205246
+5d2d042baa1ce31ade80b11f
+p:  285784.66046233464
+5d2d1724aa1ce31ade80b14c
+p:  266776.4915173935
+5d2d1e1eaa1ce31ade80b159
+p:  430067.80341264076
+5d2d1e3faa1ce31ade80b15a
+p:  266942.2708912153
+5d2d1e5baa1ce31ade80b15b
+p:  378756.3667004963
+5d2e00cfb39b58f1d2167cb8
+p:  338407.4639824288
+5d31acaed708b0a3d0a64ea2
+p:  210912.63710820308
+5d34a55518f8dde30a0abc74
+p:  350133.7857474557
+5d34f98f18f8dde30a0abd0e
+p:  487964.4510259315
+5d350fb618f8dde30a0abd41
+p:  248620.8658734227
+5d35107518f8dde30a0abd4b
+p:  258425.9264161349
+5d3511b318f8dde30a0abd59
+p:  111812.40685616877
+5d35151418f8dde30a0abd81
+p:  269701.32677771343
+5d3515e218f8dde30a0abd89
+p:  314955.41686197615
+5d3515f118f8dde30a0abd8a
+p:  211947.45107511096
+5d35166b18f8dde30a0abd90
+p:  310152.43893382687
+5d351c2418f8dde30a0abdd0
+p:  160895.4323169493
+5d353a4e18f8dde30a0abdf6
+p:  242569.8691465274
+5d38dd5bdd2d94d3c8b03c92
+p:  257199.61538756132
+5d38ec4402947826d9b03cb9
+p:  249960.69832928485
+5d3e719fbd7b3d656007b5fc
+p:  237989.87815198497
+5d3e972dbd7b3d656007b65d
+p:  225866.31383431572
+5d442af10c2b93cba458ade7
+p:  223150.60079148793
+5d474df0d57846aad03cb3c5
+p:  163497.0013205569
+5d47827dd57846aad03cb46a
+p:  264580.72987059166
+Current date and time: 2020-06-15 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.9218821954253155
+test score for random_forest: 0.6278561760504757
+The mean absolute error is:$ 91868.618826211
+r_Score: 0.5317975047741912
+Voting Regressor (in): 0.9895812694019669
+Voting Regressor: 0.5317975047741912
+5d0819417c1d83daee248b86
+p:  274587.7346989353
+5d0a4ed4fa7544d5f27ba68a
+p:  148492.27921359835
+5d0b660519aeb54ebe6efc11
+p:  158998.22012319905
+5d0e87e52b8f60b82b8f8d2b
+p:  225783.75464802526
+5d0e8b512b8f60b82b8f8d36
+p:  192273.764728514
+5d18571b253e7cfd9b98bd16
+p:  214892.77102629634
+5d185a8c253e7cfd9b98bd2a
+p:  452875.76366631564
+5d1c6939dbebfd779eefbd5c
+p:  249057.8263746251
+5d26865addcb4129edeb696c
+p:  189696.7228342736
+5d26b0a6107c1d579eeb69b8
+p:  205334.26929128388
+5d2985f4199bf96b6045acb7
+p:  353979.2501255273
+5d2b889047cfe46363877be7
+p:  164894.61360658676
+5d2ccc5baa1ce31ade80b07f
+p:  484331.42151864903
+5d2d042baa1ce31ade80b11f
+p:  255549.07870176306
+5d2d1724aa1ce31ade80b14c
+p:  240405.99770995684
+5d2d1e1eaa1ce31ade80b159
+p:  439914.19596020307
+5d2d1e3faa1ce31ade80b15a
+p:  263420.2964176603
+5d2d1e5baa1ce31ade80b15b
+p:  378649.741214429
+5d2e00cfb39b58f1d2167cb8
+p:  418442.9665566063
+5d31acaed708b0a3d0a64ea2
+p:  215342.99594067165
+5d34a55518f8dde30a0abc74
+p:  353601.1588986875
+5d34f98f18f8dde30a0abd0e
+p:  529238.2777284253
+5d350fb618f8dde30a0abd41
+p:  253607.42961007118
+5d35107518f8dde30a0abd4b
+p:  248206.39637139108
+5d3511b318f8dde30a0abd59
+p:  116395.38376909643
+5d35151418f8dde30a0abd81
+p:  276009.9599225619
+5d3515e218f8dde30a0abd89
+p:  306369.37641344965
+5d3515f118f8dde30a0abd8a
+p:  210707.14935834304
+5d35166b18f8dde30a0abd90
+p:  288031.19033750176
+5d351c2418f8dde30a0abdd0
+p:  153090.89283687863
+5d353a4e18f8dde30a0abdf6
+p:  231186.89609683206
+5d38dd5bdd2d94d3c8b03c92
+p:  252146.120977109
+5d38ec4402947826d9b03cb9
+p:  249098.40121511417
+5d3e719fbd7b3d656007b5fc
+p:  256729.9450662775
+5d3e972dbd7b3d656007b65d
+p:  225887.31133528257
+5d442af10c2b93cba458ade7
+p:  216695.1145935848
+5d474df0d57846aad03cb3c5
+p:  159710.2321616434
+5d47827dd57846aad03cb46a
+p:  256441.45636604956
+Current date and time: 2020-06-16 15:34:11
+Successfully connect to DB.
+For ['Aitkin', 'Anoka', 'Becker', 'Beltrami', 'Benton', 'Big Stone', 'Blue Earth', 'Brown', 'Carlton', 'Carver', 'Cass', 'Chippewa', 'Chisago', 'Clay', 'Clearwater', 'Cook', 'Cottonwood', 'Crow Wing', 'Dakota', 'Dodge', 'Douglas', 'Faribault', 'Fillmore', 'Freeborn', 'Goodhue', 'Grant', 'Hennepin', 'Houston', 'Hubbard', 'Isanti', 'Itasca', 'Jackson', 'Kanabec', 'Kandiyohi', 'Kittson', 'Koochiching', 'Lac qui Parle', 'Lake', 'Lake of the Woods', 'Le Sueur', 'Lincoln', 'Lyon', 'Mahnomen', 'Marshall', 'Martin', 'McLeod', 'Meeker', 'Mille Lacs', 'Morrison', 'Mower', 'Murray', 'Nicollet', 'Nobles', 'Norman', 'Olmsted', 'Otter Tail', 'Pennington', 'Pine', 'Pipestone', 'Polk', 'Pope', 'Ramsey', 'Red Lake', 'Redwood', 'Renville', 'Rice', 'Rock', 'Roseau', 'Scott', 'Sherburne', 'Sibley', 'St. Louis', 'Stearns', 'Steele', 'Stevens', 'Swift', 'Todd', 'Traverse', 'Wabasha', 'Wadena', 'Walsh', 'Waseca', 'Washington', 'Watonwan', 'Wilkin', 'Winona', 'Wright', 'Yellow Medicine']#################################################################
+train score for random_forest: 0.929452507245112
+test score for random_forest: 0.5344238788641662
+The mean absolute error is:$ 91104.75289704857
+r_Score: 0.5028345132186075
+Voting Regressor (in): 0.9896507247215408
+Voting Regressor: 0.5028345132186075
+5d0819417c1d83daee248b86
+p:  280404.1000076877
+5d0a4ed4fa7544d5f27ba68a
+p:  144367.02289754548
+5d0b660519aeb54ebe6efc11
+p:  148192.8109263766
+5d0e87e52b8f60b82b8f8d2b
+p:  225794.54172288545
+5d0e8b512b8f60b82b8f8d36
+p:  195320.99507082868
+5d18571b253e7cfd9b98bd16
+p:  222424.07525436586
+5d185a8c253e7cfd9b98bd2a
+p:  442605.18833250005
+5d1c6939dbebfd779eefbd5c
+p:  249376.97495677054
+5d26865addcb4129edeb696c
+p:  186734.736754601
+5d26b0a6107c1d579eeb69b8
+p:  195636.7807733804
+5d2985f4199bf96b6045acb7
+p:  357319.6515436006
+5d2b889047cfe46363877be7
+p:  162826.91263738065
+5d2ccc5baa1ce31ade80b07f
+p:  462640.7276723092
+5d2d042baa1ce31ade80b11f
+p:  254466.32716777525
+5d2d1724aa1ce31ade80b14c
+p:  236312.83806011325
+5d2d1e1eaa1ce31ade80b159
+p:  439773.31145817693
+5d2d1e3faa1ce31ade80b15a
+p:  266187.778289605
+5d2d1e5baa1ce31ade80b15b
+p:  391206.56927782216
+5d2e00cfb39b58f1d2167cb8
+p:  355978.18467967876
+5d31acaed708b0a3d0a64ea2
+p:  205491.99091748823
+5d34a55518f8dde30a0abc74
+p:  353128.16585019155
+5d34f98f18f8dde30a0abd0e
+p:  483471.4836305181
+5d350fb618f8dde30a0abd41
+p:  253693.2049616559
+5d35107518f8dde30a0abd4b
+p:  201203.7084057616
+5d3511b318f8dde30a0abd59
+p:  131684.54440299547
+5d35151418f8dde30a0abd81
+p:  269362.18516369275
+5d3515e218f8dde30a0abd89
+p:  298970.7440478568
+5d3515f118f8dde30a0abd8a
+p:  220142.7169902715
+5d35166b18f8dde30a0abd90
+p:  281733.4235539107
+5d351c2418f8dde30a0abdd0
+p:  143424.8754086182
+5d353a4e18f8dde30a0abdf6
+p:  235401.41478250315
+5d38dd5bdd2d94d3c8b03c92
+p:  256218.38223915448
+5d38ec4402947826d9b03cb9
+p:  247943.9612361473
+5d3e719fbd7b3d656007b5fc
+p:  258573.17750448734
+5d3e972dbd7b3d656007b65d
+p:  221470.15378913275
+5d442af10c2b93cba458ade7
+p:  224623.07259571177
+5d474df0d57846aad03cb3c5
+p:  157554.26838493315
+5d47827dd57846aad03cb46a
+p:  259653.242218867

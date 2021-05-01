@@ -1,0 +1,1270 @@
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-07 15:34:20
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8890719067941202
+test score for random_forest: 0.5870536696878361
+The mean absolute error is:$ 56909.028253630866
+r_Score: 0.5425882629629597
+Voting Regressor (in): 0.992351932048106
+Voting Regressor: 0.5425882629629597
+5d0b6067f12fac82e26efb85
+p:  93647.46643287252
+5d0b638419aeb54ebe6efc0a
+p:  89468.82108592393
+5d0b63ab19aeb54ebe6efc0d
+p:  174811.63347360108
+5d0d32fdae78f7f2d314adea
+p:  113018.88959086419
+5d0e677a45ebd0b4c32fce75
+p:  210717.140190093
+5d0e7c7019f56a0d5b8f8d16
+p:  115050.07233839578
+5d0e92772b8f60b82b8f8d59
+p:  115608.53257471179
+5d0e940319f56a0d5b8f8db1
+p:  132915.7139162588
+5d1298ebb7ae3de20d8d6e4f
+p:  189187.72650820564
+5d12aa3fb7ae3de20d8d6ec4
+p:  135575.8155015881
+5d12aa44b7ae3de20d8d6ec5
+p:  219980.06494016259
+5d19c3e5a22b896835d02f45
+p:  228161.3663679941
+5d19c3f1a22b896835d02f46
+p:  146752.55704118792
+5d1b785503ecbb08e0bf609d
+p:  152857.16214350797
+5d1bb96803ecbb08e0bf618b
+p:  377561.4425213119
+5d1bc9aa7e6c493d59458808
+p:  95407.28050537029
+5d1bce377e6c493d59458816
+p:  148124.74351564786
+5d1bd52d7e6c493d59458836
+p:  183549.2542436276
+5d1c59290a1cbc8e6fefbcbf
+p:  60885.787330791805
+5d1c593e0a1cbc8e6fefbcc0
+p:  163239.80503028078
+5d26a713ddcb4129edeb69ac
+p:  187792.0944467594
+5d296c0c199bf96b6045ac6a
+p:  126878.69536816906
+5d2992ec199bf96b6045ace6
+p:  147136.88022982003
+5d29940b199bf96b6045aceb
+p:  122918.49002079424
+5d29946b199bf96b6045acee
+p:  117575.90845078761
+5d2b624847cfe46363877bb1
+p:  152393.48457957164
+5d2ce7c6aa1ce31ade80b0c4
+p:  98073.09176763464
+5d2f6d9d8b6c8df1a080b6b9
+p:  111310.67461361676
+5d31a7b4d708b0a3d0a64e9b
+p:  98913.95963492832
+5d3882707110e453a0b03a6b
+p:  197480.70296554797
+5d388699dd2d94d3c8b03b9d
+p:  196769.63663282446
+5d38ae0fdd2d94d3c8b03c00
+p:  126955.87378449399
+5d38b5bc7110e453a0b03aea
+p:  197943.14366952737
+5d38b89202947826d9b03c09
+p:  201633.6441922463
+5d38bc50dd2d94d3c8b03c29
+p:  148029.47271734336
+5d38bd767110e453a0b03b05
+p:  129375.32799670286
+5d38faad7110e453a0b03ba0
+p:  93568.10730357832
+5d3e6d9cbd7b3d656007b5ee
+p:  148336.7603360428
+5d3ea0912c3a06b7a107b649
+p:  142685.14318010464
+5d44314b0c2b93cba458ae3f
+p:  174216.52620052057
+5d44f209f6b4c2439b8b2005
+p:  187793.38236087278
+5d458dcff6b4c2439b8b20ce
+p:  106476.47185434331
+5d45bc90f6b4c2439b8b2123
+p:  153809.54056141392
+5d45bd95f6b4c2439b8b212d
+p:  142747.8509028263
+5d470a09d57846aad03cb319
+p:  204891.76719962503
+5d470d49d57846aad03cb320
+p:  154993.2895393342
+5d474a18d57846aad03cb3b9
+p:  54731.96480001118
+5d474c91d57846aad03cb3c0
+p:  209101.36534083448
+5d476577d57846aad03cb3f8
+p:  140795.5425847657
+5d477be0d57846aad03cb44c
+p:  196230.39812487835
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-08 15:34:11
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8958997386187744
+test score for random_forest: 0.5813960830270397
+The mean absolute error is:$ 58346.05013695301
+r_Score: 0.5277087553815043
+Voting Regressor (in): 0.9925255168715591
+Voting Regressor: 0.5277087553815043
+5d0b6067f12fac82e26efb85
+p:  90963.28507973094
+5d0b638419aeb54ebe6efc0a
+p:  88869.71991175419
+5d0b63ab19aeb54ebe6efc0d
+p:  203902.01506799593
+5d0d32fdae78f7f2d314adea
+p:  110126.86658144578
+5d0e677a45ebd0b4c32fce75
+p:  225590.5745531444
+5d0e7c7019f56a0d5b8f8d16
+p:  117098.8726916401
+5d0e92772b8f60b82b8f8d59
+p:  107959.76513383395
+5d0e940319f56a0d5b8f8db1
+p:  127102.01712759995
+5d1298ebb7ae3de20d8d6e4f
+p:  184911.9609506429
+5d12aa3fb7ae3de20d8d6ec4
+p:  133392.15187273425
+5d12aa44b7ae3de20d8d6ec5
+p:  230102.69599643408
+5d19c3e5a22b896835d02f45
+p:  233376.23283139398
+5d19c3f1a22b896835d02f46
+p:  162228.89067705246
+5d1b785503ecbb08e0bf609d
+p:  152161.86554583051
+5d1bb96803ecbb08e0bf618b
+p:  435501.7398094825
+5d1bc9aa7e6c493d59458808
+p:  101466.26241744871
+5d1bce377e6c493d59458816
+p:  157687.5474943787
+5d1bd52d7e6c493d59458836
+p:  178769.0515668213
+5d1c59290a1cbc8e6fefbcbf
+p:  65449.28003108557
+5d1c593e0a1cbc8e6fefbcc0
+p:  161959.9723587543
+5d26a713ddcb4129edeb69ac
+p:  204652.8053617223
+5d296c0c199bf96b6045ac6a
+p:  128001.95877107477
+5d2992ec199bf96b6045ace6
+p:  152809.13284182653
+5d29940b199bf96b6045aceb
+p:  127768.92178303395
+5d29946b199bf96b6045acee
+p:  120638.27231214603
+5d2b624847cfe46363877bb1
+p:  144170.4145259938
+5d2ce7c6aa1ce31ade80b0c4
+p:  98308.9230457885
+5d2f6d9d8b6c8df1a080b6b9
+p:  114252.07504427963
+5d31a7b4d708b0a3d0a64e9b
+p:  100873.8830108808
+5d3882707110e453a0b03a6b
+p:  208882.29531302972
+5d388699dd2d94d3c8b03b9d
+p:  187777.68192348816
+5d38ae0fdd2d94d3c8b03c00
+p:  130073.9684163085
+5d38b5bc7110e453a0b03aea
+p:  189281.62983558144
+5d38b89202947826d9b03c09
+p:  202843.00595901645
+5d38bc50dd2d94d3c8b03c29
+p:  154399.13389319368
+5d38bd767110e453a0b03b05
+p:  132975.13068958878
+5d38faad7110e453a0b03ba0
+p:  94097.05987845929
+5d3e6d9cbd7b3d656007b5ee
+p:  150423.44028279616
+5d3ea0912c3a06b7a107b649
+p:  138724.15630696298
+5d44314b0c2b93cba458ae3f
+p:  163882.6961144044
+5d44f209f6b4c2439b8b2005
+p:  205957.53557728382
+5d458dcff6b4c2439b8b20ce
+p:  103810.4249191481
+5d45bc90f6b4c2439b8b2123
+p:  152422.3460153458
+5d45bd95f6b4c2439b8b212d
+p:  144644.01830550688
+5d470a09d57846aad03cb319
+p:  204953.81846610666
+5d470d49d57846aad03cb320
+p:  152026.05907026207
+5d474a18d57846aad03cb3b9
+p:  56711.66805762661
+5d474c91d57846aad03cb3c0
+p:  198378.86215759293
+5d476577d57846aad03cb3f8
+p:  143914.53831702756
+5d477be0d57846aad03cb44c
+p:  185522.7534941511
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-09 15:34:11
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.903382413002191
+test score for random_forest: 0.570628155326109
+The mean absolute error is:$ 58118.98260591483
+r_Score: 0.512789196690659
+Voting Regressor (in): 0.9923519320535642
+Voting Regressor: 0.512789196690659
+5d0b6067f12fac82e26efb85
+p:  95164.90380957362
+5d0b638419aeb54ebe6efc0a
+p:  88728.93261752
+5d0b63ab19aeb54ebe6efc0d
+p:  207467.62541204508
+5d0d32fdae78f7f2d314adea
+p:  107912.43539076607
+5d0e677a45ebd0b4c32fce75
+p:  212618.51858070784
+5d0e7c7019f56a0d5b8f8d16
+p:  112019.04699482936
+5d0e92772b8f60b82b8f8d59
+p:  114008.19043293073
+5d0e940319f56a0d5b8f8db1
+p:  130550.77738575573
+5d1298ebb7ae3de20d8d6e4f
+p:  194103.04043592393
+5d12aa3fb7ae3de20d8d6ec4
+p:  134286.86562728317
+5d12aa44b7ae3de20d8d6ec5
+p:  214046.11889062583
+5d19c3e5a22b896835d02f45
+p:  225347.00371609922
+5d19c3f1a22b896835d02f46
+p:  166379.05304709074
+5d1b785503ecbb08e0bf609d
+p:  149854.105187757
+5d1bb96803ecbb08e0bf618b
+p:  390712.77741434524
+5d1bc9aa7e6c493d59458808
+p:  89767.33278891264
+5d1bce377e6c493d59458816
+p:  152930.4985187141
+5d1bd52d7e6c493d59458836
+p:  178527.88213915986
+5d1c59290a1cbc8e6fefbcbf
+p:  60810.39013356078
+5d1c593e0a1cbc8e6fefbcc0
+p:  162523.64194308606
+5d26a713ddcb4129edeb69ac
+p:  189326.00378288492
+5d296c0c199bf96b6045ac6a
+p:  132202.00774447582
+5d2992ec199bf96b6045ace6
+p:  141661.58719181005
+5d29940b199bf96b6045aceb
+p:  127192.82736575475
+5d29946b199bf96b6045acee
+p:  122265.36771368084
+5d2b624847cfe46363877bb1
+p:  118893.99056937691
+5d2ce7c6aa1ce31ade80b0c4
+p:  95686.29349373578
+5d2f6d9d8b6c8df1a080b6b9
+p:  110115.46295697996
+5d31a7b4d708b0a3d0a64e9b
+p:  98826.34124499463
+5d3882707110e453a0b03a6b
+p:  199498.7272816319
+5d388699dd2d94d3c8b03b9d
+p:  194557.30860118257
+5d38ae0fdd2d94d3c8b03c00
+p:  129194.34448575893
+5d38b5bc7110e453a0b03aea
+p:  194641.6987274571
+5d38b89202947826d9b03c09
+p:  202980.90356012151
+5d38bc50dd2d94d3c8b03c29
+p:  142627.56528295053
+5d38bd767110e453a0b03b05
+p:  128812.45183621999
+5d38faad7110e453a0b03ba0
+p:  93112.21204040144
+5d3e6d9cbd7b3d656007b5ee
+p:  150390.74410971673
+5d3ea0912c3a06b7a107b649
+p:  139706.8845640556
+5d44314b0c2b93cba458ae3f
+p:  175201.73006848796
+5d44f209f6b4c2439b8b2005
+p:  181701.65297195246
+5d458dcff6b4c2439b8b20ce
+p:  106308.29947882952
+5d45bc90f6b4c2439b8b2123
+p:  154128.3793194458
+5d45bd95f6b4c2439b8b212d
+p:  141645.10851532844
+5d470a09d57846aad03cb319
+p:  208750.59325037658
+5d470d49d57846aad03cb320
+p:  151448.65526317107
+5d474a18d57846aad03cb3b9
+p:  54731.964824189374
+5d474c91d57846aad03cb3c0
+p:  212377.31192681502
+5d476577d57846aad03cb3f8
+p:  144475.59211424622
+5d477be0d57846aad03cb44c
+p:  191924.52818913298
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-10 15:34:10
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8941143472153522
+test score for random_forest: 0.5814407217635738
+The mean absolute error is:$ 58118.98260591483
+r_Score: 0.512789196690659
+Voting Regressor (in): 0.9923519320535642
+Voting Regressor: 0.512789196690659
+5d0b6067f12fac82e26efb85
+p:  95164.90380957362
+5d0b638419aeb54ebe6efc0a
+p:  88728.93261752
+5d0b63ab19aeb54ebe6efc0d
+p:  207467.62541204508
+5d0d32fdae78f7f2d314adea
+p:  107912.43539076607
+5d0e677a45ebd0b4c32fce75
+p:  212618.51858070784
+5d0e7c7019f56a0d5b8f8d16
+p:  112019.04699482936
+5d0e92772b8f60b82b8f8d59
+p:  114008.19043293073
+5d0e940319f56a0d5b8f8db1
+p:  130550.77738575573
+5d1298ebb7ae3de20d8d6e4f
+p:  194103.04043592393
+5d12aa3fb7ae3de20d8d6ec4
+p:  134286.86562728317
+5d12aa44b7ae3de20d8d6ec5
+p:  214046.11889062583
+5d19c3e5a22b896835d02f45
+p:  225347.00371609922
+5d19c3f1a22b896835d02f46
+p:  166379.05304709074
+5d1b785503ecbb08e0bf609d
+p:  149854.105187757
+5d1bb96803ecbb08e0bf618b
+p:  390712.77741434524
+5d1bc9aa7e6c493d59458808
+p:  89767.33278891264
+5d1bce377e6c493d59458816
+p:  152930.4985187141
+5d1bd52d7e6c493d59458836
+p:  178527.88213915986
+5d1c59290a1cbc8e6fefbcbf
+p:  60810.39013356078
+5d1c593e0a1cbc8e6fefbcc0
+p:  162523.64194308606
+5d26a713ddcb4129edeb69ac
+p:  189326.00378288492
+5d296c0c199bf96b6045ac6a
+p:  132202.00774447582
+5d2992ec199bf96b6045ace6
+p:  141661.58719181005
+5d29940b199bf96b6045aceb
+p:  127192.82736575475
+5d29946b199bf96b6045acee
+p:  122265.36771368084
+5d2b624847cfe46363877bb1
+p:  118893.99056937691
+5d2ce7c6aa1ce31ade80b0c4
+p:  95686.29349373578
+5d2f6d9d8b6c8df1a080b6b9
+p:  110115.46295697996
+5d31a7b4d708b0a3d0a64e9b
+p:  98826.34124499463
+5d3882707110e453a0b03a6b
+p:  199498.7272816319
+5d388699dd2d94d3c8b03b9d
+p:  194557.30860118257
+5d38ae0fdd2d94d3c8b03c00
+p:  129194.34448575893
+5d38b5bc7110e453a0b03aea
+p:  194641.6987274571
+5d38b89202947826d9b03c09
+p:  202980.90356012151
+5d38bc50dd2d94d3c8b03c29
+p:  142627.56528295053
+5d38bd767110e453a0b03b05
+p:  128812.45183621999
+5d38faad7110e453a0b03ba0
+p:  93112.21204040144
+5d3e6d9cbd7b3d656007b5ee
+p:  150390.74410971673
+5d3ea0912c3a06b7a107b649
+p:  139706.8845640556
+5d44314b0c2b93cba458ae3f
+p:  175201.73006848796
+5d44f209f6b4c2439b8b2005
+p:  181701.65297195246
+5d458dcff6b4c2439b8b20ce
+p:  106308.29947882952
+5d45bc90f6b4c2439b8b2123
+p:  154128.3793194458
+5d45bd95f6b4c2439b8b212d
+p:  141645.10851532844
+5d470a09d57846aad03cb319
+p:  208750.59325037658
+5d470d49d57846aad03cb320
+p:  151448.65526317107
+5d474a18d57846aad03cb3b9
+p:  54731.964824189374
+5d474c91d57846aad03cb3c0
+p:  212377.31192681502
+5d476577d57846aad03cb3f8
+p:  144475.59211424622
+5d477be0d57846aad03cb44c
+p:  191924.52818913298
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-11 15:34:11
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8987660727928061
+test score for random_forest: 0.5795940664029451
+The mean absolute error is:$ 58346.05013695301
+r_Score: 0.5277087553815043
+Voting Regressor (in): 0.9925255168715591
+Voting Regressor: 0.5277087553815043
+5d0b6067f12fac82e26efb85
+p:  90963.28507973094
+5d0b638419aeb54ebe6efc0a
+p:  88869.71991175419
+5d0b63ab19aeb54ebe6efc0d
+p:  203902.01506799593
+5d0d32fdae78f7f2d314adea
+p:  110126.86658144578
+5d0e677a45ebd0b4c32fce75
+p:  225590.5745531444
+5d0e7c7019f56a0d5b8f8d16
+p:  117098.8726916401
+5d0e92772b8f60b82b8f8d59
+p:  107959.76513383395
+5d0e940319f56a0d5b8f8db1
+p:  127102.01712759995
+5d1298ebb7ae3de20d8d6e4f
+p:  184911.9609506429
+5d12aa3fb7ae3de20d8d6ec4
+p:  133392.15187273425
+5d12aa44b7ae3de20d8d6ec5
+p:  230102.69599643408
+5d19c3e5a22b896835d02f45
+p:  233376.23283139398
+5d19c3f1a22b896835d02f46
+p:  162228.89067705246
+5d1b785503ecbb08e0bf609d
+p:  152161.86554583051
+5d1bb96803ecbb08e0bf618b
+p:  435501.7398094825
+5d1bc9aa7e6c493d59458808
+p:  101466.26241744871
+5d1bce377e6c493d59458816
+p:  157687.5474943787
+5d1bd52d7e6c493d59458836
+p:  178769.0515668213
+5d1c59290a1cbc8e6fefbcbf
+p:  65449.28003108557
+5d1c593e0a1cbc8e6fefbcc0
+p:  161959.9723587543
+5d26a713ddcb4129edeb69ac
+p:  204652.8053617223
+5d296c0c199bf96b6045ac6a
+p:  128001.95877107477
+5d2992ec199bf96b6045ace6
+p:  152809.13284182653
+5d29940b199bf96b6045aceb
+p:  127768.92178303395
+5d29946b199bf96b6045acee
+p:  120638.27231214603
+5d2b624847cfe46363877bb1
+p:  144170.4145259938
+5d2ce7c6aa1ce31ade80b0c4
+p:  98308.9230457885
+5d2f6d9d8b6c8df1a080b6b9
+p:  114252.07504427963
+5d31a7b4d708b0a3d0a64e9b
+p:  100873.8830108808
+5d3882707110e453a0b03a6b
+p:  208882.29531302972
+5d388699dd2d94d3c8b03b9d
+p:  187777.68192348816
+5d38ae0fdd2d94d3c8b03c00
+p:  130073.9684163085
+5d38b5bc7110e453a0b03aea
+p:  189281.62983558144
+5d38b89202947826d9b03c09
+p:  202843.00595901645
+5d38bc50dd2d94d3c8b03c29
+p:  154399.13389319368
+5d38bd767110e453a0b03b05
+p:  132975.13068958878
+5d38faad7110e453a0b03ba0
+p:  94097.05987845929
+5d3e6d9cbd7b3d656007b5ee
+p:  150423.44028279616
+5d3ea0912c3a06b7a107b649
+p:  138724.15630696298
+5d44314b0c2b93cba458ae3f
+p:  163882.6961144044
+5d44f209f6b4c2439b8b2005
+p:  205957.53557728382
+5d458dcff6b4c2439b8b20ce
+p:  103810.4249191481
+5d45bc90f6b4c2439b8b2123
+p:  152422.3460153458
+5d45bd95f6b4c2439b8b212d
+p:  144644.01830550688
+5d470a09d57846aad03cb319
+p:  204953.81846610666
+5d470d49d57846aad03cb320
+p:  152026.05907026207
+5d474a18d57846aad03cb3b9
+p:  56711.66805762661
+5d474c91d57846aad03cb3c0
+p:  198378.86215759293
+5d476577d57846aad03cb3f8
+p:  143914.53831702756
+5d477be0d57846aad03cb44c
+p:  185522.7534941511
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-12 15:34:10
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8867979569185918
+test score for random_forest: 0.5528506294307636
+The mean absolute error is:$ 58118.98260591483
+r_Score: 0.512789196690659
+Voting Regressor (in): 0.9923519320535642
+Voting Regressor: 0.512789196690659
+5d0b6067f12fac82e26efb85
+p:  95164.90380957362
+5d0b638419aeb54ebe6efc0a
+p:  88728.93261752
+5d0b63ab19aeb54ebe6efc0d
+p:  207467.62541204508
+5d0d32fdae78f7f2d314adea
+p:  107912.43539076607
+5d0e677a45ebd0b4c32fce75
+p:  212618.51858070784
+5d0e7c7019f56a0d5b8f8d16
+p:  112019.04699482936
+5d0e92772b8f60b82b8f8d59
+p:  114008.19043293073
+5d0e940319f56a0d5b8f8db1
+p:  130550.77738575573
+5d1298ebb7ae3de20d8d6e4f
+p:  194103.04043592393
+5d12aa3fb7ae3de20d8d6ec4
+p:  134286.86562728317
+5d12aa44b7ae3de20d8d6ec5
+p:  214046.11889062583
+5d19c3e5a22b896835d02f45
+p:  225347.00371609922
+5d19c3f1a22b896835d02f46
+p:  166379.05304709074
+5d1b785503ecbb08e0bf609d
+p:  149854.105187757
+5d1bb96803ecbb08e0bf618b
+p:  390712.77741434524
+5d1bc9aa7e6c493d59458808
+p:  89767.33278891264
+5d1bce377e6c493d59458816
+p:  152930.4985187141
+5d1bd52d7e6c493d59458836
+p:  178527.88213915986
+5d1c59290a1cbc8e6fefbcbf
+p:  60810.39013356078
+5d1c593e0a1cbc8e6fefbcc0
+p:  162523.64194308606
+5d26a713ddcb4129edeb69ac
+p:  189326.00378288492
+5d296c0c199bf96b6045ac6a
+p:  132202.00774447582
+5d2992ec199bf96b6045ace6
+p:  141661.58719181005
+5d29940b199bf96b6045aceb
+p:  127192.82736575475
+5d29946b199bf96b6045acee
+p:  122265.36771368084
+5d2b624847cfe46363877bb1
+p:  118893.99056937691
+5d2ce7c6aa1ce31ade80b0c4
+p:  95686.29349373578
+5d2f6d9d8b6c8df1a080b6b9
+p:  110115.46295697996
+5d31a7b4d708b0a3d0a64e9b
+p:  98826.34124499463
+5d3882707110e453a0b03a6b
+p:  199498.7272816319
+5d388699dd2d94d3c8b03b9d
+p:  194557.30860118257
+5d38ae0fdd2d94d3c8b03c00
+p:  129194.34448575893
+5d38b5bc7110e453a0b03aea
+p:  194641.6987274571
+5d38b89202947826d9b03c09
+p:  202980.90356012151
+5d38bc50dd2d94d3c8b03c29
+p:  142627.56528295053
+5d38bd767110e453a0b03b05
+p:  128812.45183621999
+5d38faad7110e453a0b03ba0
+p:  93112.21204040144
+5d3e6d9cbd7b3d656007b5ee
+p:  150390.74410971673
+5d3ea0912c3a06b7a107b649
+p:  139706.8845640556
+5d44314b0c2b93cba458ae3f
+p:  175201.73006848796
+5d44f209f6b4c2439b8b2005
+p:  181701.65297195246
+5d458dcff6b4c2439b8b20ce
+p:  106308.29947882952
+5d45bc90f6b4c2439b8b2123
+p:  154128.3793194458
+5d45bd95f6b4c2439b8b212d
+p:  141645.10851532844
+5d470a09d57846aad03cb319
+p:  208750.59325037658
+5d470d49d57846aad03cb320
+p:  151448.65526317107
+5d474a18d57846aad03cb3b9
+p:  54731.964824189374
+5d474c91d57846aad03cb3c0
+p:  212377.31192681502
+5d476577d57846aad03cb3f8
+p:  144475.59211424622
+5d477be0d57846aad03cb44c
+p:  191924.52818913298
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-13 15:34:10
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8807992716235447
+test score for random_forest: 0.5857408522712957
+The mean absolute error is:$ 58285.195852948884
+r_Score: 0.5102391556466361
+Voting Regressor (in): 0.9926107339969422
+Voting Regressor: 0.5102391556466361
+5d0b6067f12fac82e26efb85
+p:  88647.74661673955
+5d0b638419aeb54ebe6efc0a
+p:  87943.79292927853
+5d0b63ab19aeb54ebe6efc0d
+p:  182062.25889131572
+5d0d32fdae78f7f2d314adea
+p:  110926.50620014005
+5d0e677a45ebd0b4c32fce75
+p:  207043.59795108784
+5d0e7c7019f56a0d5b8f8d16
+p:  105836.6033125156
+5d0e92772b8f60b82b8f8d59
+p:  112265.54937636155
+5d0e940319f56a0d5b8f8db1
+p:  125901.12341251392
+5d1298ebb7ae3de20d8d6e4f
+p:  187470.89657043037
+5d12aa3fb7ae3de20d8d6ec4
+p:  134837.13111791504
+5d12aa44b7ae3de20d8d6ec5
+p:  230787.2340979717
+5d19c3e5a22b896835d02f45
+p:  232169.34553212742
+5d19c3f1a22b896835d02f46
+p:  135164.4338879379
+5d1b785503ecbb08e0bf609d
+p:  142939.58209994412
+5d1bb96803ecbb08e0bf618b
+p:  392947.019141888
+5d1bc9aa7e6c493d59458808
+p:  111318.47618397317
+5d1bce377e6c493d59458816
+p:  154937.31898170523
+5d1bd52d7e6c493d59458836
+p:  184348.19633114265
+5d1c59290a1cbc8e6fefbcbf
+p:  66867.6483115834
+5d1c593e0a1cbc8e6fefbcc0
+p:  161949.22274610942
+5d26a713ddcb4129edeb69ac
+p:  196887.9844352975
+5d296c0c199bf96b6045ac6a
+p:  120875.71630436645
+5d2992ec199bf96b6045ace6
+p:  155020.10810971784
+5d29940b199bf96b6045aceb
+p:  123749.2824571945
+5d29946b199bf96b6045acee
+p:  118488.69873753966
+5d2b624847cfe46363877bb1
+p:  158946.68936853914
+5d2ce7c6aa1ce31ade80b0c4
+p:  97098.3864050306
+5d2f6d9d8b6c8df1a080b6b9
+p:  115720.35616689835
+5d31a7b4d708b0a3d0a64e9b
+p:  99217.61254332369
+5d3882707110e453a0b03a6b
+p:  195770.87062535962
+5d388699dd2d94d3c8b03b9d
+p:  182887.5484121524
+5d38ae0fdd2d94d3c8b03c00
+p:  118296.7782918724
+5d38b5bc7110e453a0b03aea
+p:  181927.7780396109
+5d38b89202947826d9b03c09
+p:  194616.7342354577
+5d38bc50dd2d94d3c8b03c29
+p:  156537.87524798556
+5d38bd767110e453a0b03b05
+p:  131155.3827179763
+5d38faad7110e453a0b03ba0
+p:  90594.89468233477
+5d3e6d9cbd7b3d656007b5ee
+p:  150632.22913071475
+5d3ea0912c3a06b7a107b649
+p:  139586.22219521235
+5d44314b0c2b93cba458ae3f
+p:  165448.66232424413
+5d44f209f6b4c2439b8b2005
+p:  204886.8345041151
+5d458dcff6b4c2439b8b20ce
+p:  106301.94730608736
+5d45bc90f6b4c2439b8b2123
+p:  153446.87856665265
+5d45bd95f6b4c2439b8b212d
+p:  147946.0374107888
+5d470a09d57846aad03cb319
+p:  199397.03255193605
+5d470d49d57846aad03cb320
+p:  155850.16881174393
+5d474a18d57846aad03cb3b9
+p:  58992.8711689981
+5d474c91d57846aad03cb3c0
+p:  204514.21018825704
+5d476577d57846aad03cb3f8
+p:  137279.3631676383
+5d477be0d57846aad03cb44c
+p:  180284.96543891652
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-14 15:34:11
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8823368549596663
+test score for random_forest: 0.5898178177906789
+The mean absolute error is:$ 58118.98260591483
+r_Score: 0.512789196690659
+Voting Regressor (in): 0.9923519320535642
+Voting Regressor: 0.512789196690659
+5d0b6067f12fac82e26efb85
+p:  95164.90380957362
+5d0b638419aeb54ebe6efc0a
+p:  88728.93261752
+5d0b63ab19aeb54ebe6efc0d
+p:  207467.62541204508
+5d0d32fdae78f7f2d314adea
+p:  107912.43539076607
+5d0e677a45ebd0b4c32fce75
+p:  212618.51858070784
+5d0e7c7019f56a0d5b8f8d16
+p:  112019.04699482936
+5d0e92772b8f60b82b8f8d59
+p:  114008.19043293073
+5d0e940319f56a0d5b8f8db1
+p:  130550.77738575573
+5d1298ebb7ae3de20d8d6e4f
+p:  194103.04043592393
+5d12aa3fb7ae3de20d8d6ec4
+p:  134286.86562728317
+5d12aa44b7ae3de20d8d6ec5
+p:  214046.11889062583
+5d19c3e5a22b896835d02f45
+p:  225347.00371609922
+5d19c3f1a22b896835d02f46
+p:  166379.05304709074
+5d1b785503ecbb08e0bf609d
+p:  149854.105187757
+5d1bb96803ecbb08e0bf618b
+p:  390712.77741434524
+5d1bc9aa7e6c493d59458808
+p:  89767.33278891264
+5d1bce377e6c493d59458816
+p:  152930.4985187141
+5d1bd52d7e6c493d59458836
+p:  178527.88213915986
+5d1c59290a1cbc8e6fefbcbf
+p:  60810.39013356078
+5d1c593e0a1cbc8e6fefbcc0
+p:  162523.64194308606
+5d26a713ddcb4129edeb69ac
+p:  189326.00378288492
+5d296c0c199bf96b6045ac6a
+p:  132202.00774447582
+5d2992ec199bf96b6045ace6
+p:  141661.58719181005
+5d29940b199bf96b6045aceb
+p:  127192.82736575475
+5d29946b199bf96b6045acee
+p:  122265.36771368084
+5d2b624847cfe46363877bb1
+p:  118893.99056937691
+5d2ce7c6aa1ce31ade80b0c4
+p:  95686.29349373578
+5d2f6d9d8b6c8df1a080b6b9
+p:  110115.46295697996
+5d31a7b4d708b0a3d0a64e9b
+p:  98826.34124499463
+5d3882707110e453a0b03a6b
+p:  199498.7272816319
+5d388699dd2d94d3c8b03b9d
+p:  194557.30860118257
+5d38ae0fdd2d94d3c8b03c00
+p:  129194.34448575893
+5d38b5bc7110e453a0b03aea
+p:  194641.6987274571
+5d38b89202947826d9b03c09
+p:  202980.90356012151
+5d38bc50dd2d94d3c8b03c29
+p:  142627.56528295053
+5d38bd767110e453a0b03b05
+p:  128812.45183621999
+5d38faad7110e453a0b03ba0
+p:  93112.21204040144
+5d3e6d9cbd7b3d656007b5ee
+p:  150390.74410971673
+5d3ea0912c3a06b7a107b649
+p:  139706.8845640556
+5d44314b0c2b93cba458ae3f
+p:  175201.73006848796
+5d44f209f6b4c2439b8b2005
+p:  181701.65297195246
+5d458dcff6b4c2439b8b20ce
+p:  106308.29947882952
+5d45bc90f6b4c2439b8b2123
+p:  154128.3793194458
+5d45bd95f6b4c2439b8b212d
+p:  141645.10851532844
+5d470a09d57846aad03cb319
+p:  208750.59325037658
+5d470d49d57846aad03cb320
+p:  151448.65526317107
+5d474a18d57846aad03cb3b9
+p:  54731.964824189374
+5d474c91d57846aad03cb3c0
+p:  212377.31192681502
+5d476577d57846aad03cb3f8
+p:  144475.59211424622
+5d477be0d57846aad03cb44c
+p:  191924.52818913298
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-15 15:34:10
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.8891469089552828
+test score for random_forest: 0.595442761064065
+The mean absolute error is:$ 58285.195852948884
+r_Score: 0.5102391556466361
+Voting Regressor (in): 0.9926107339969422
+Voting Regressor: 0.5102391556466361
+5d0b6067f12fac82e26efb85
+p:  88647.74661673955
+5d0b638419aeb54ebe6efc0a
+p:  87943.79292927853
+5d0b63ab19aeb54ebe6efc0d
+p:  182062.25889131572
+5d0d32fdae78f7f2d314adea
+p:  110926.50620014005
+5d0e677a45ebd0b4c32fce75
+p:  207043.59795108784
+5d0e7c7019f56a0d5b8f8d16
+p:  105836.6033125156
+5d0e92772b8f60b82b8f8d59
+p:  112265.54937636155
+5d0e940319f56a0d5b8f8db1
+p:  125901.12341251392
+5d1298ebb7ae3de20d8d6e4f
+p:  187470.89657043037
+5d12aa3fb7ae3de20d8d6ec4
+p:  134837.13111791504
+5d12aa44b7ae3de20d8d6ec5
+p:  230787.2340979717
+5d19c3e5a22b896835d02f45
+p:  232169.34553212742
+5d19c3f1a22b896835d02f46
+p:  135164.4338879379
+5d1b785503ecbb08e0bf609d
+p:  142939.58209994412
+5d1bb96803ecbb08e0bf618b
+p:  392947.019141888
+5d1bc9aa7e6c493d59458808
+p:  111318.47618397317
+5d1bce377e6c493d59458816
+p:  154937.31898170523
+5d1bd52d7e6c493d59458836
+p:  184348.19633114265
+5d1c59290a1cbc8e6fefbcbf
+p:  66867.6483115834
+5d1c593e0a1cbc8e6fefbcc0
+p:  161949.22274610942
+5d26a713ddcb4129edeb69ac
+p:  196887.9844352975
+5d296c0c199bf96b6045ac6a
+p:  120875.71630436645
+5d2992ec199bf96b6045ace6
+p:  155020.10810971784
+5d29940b199bf96b6045aceb
+p:  123749.2824571945
+5d29946b199bf96b6045acee
+p:  118488.69873753966
+5d2b624847cfe46363877bb1
+p:  158946.68936853914
+5d2ce7c6aa1ce31ade80b0c4
+p:  97098.3864050306
+5d2f6d9d8b6c8df1a080b6b9
+p:  115720.35616689835
+5d31a7b4d708b0a3d0a64e9b
+p:  99217.61254332369
+5d3882707110e453a0b03a6b
+p:  195770.87062535962
+5d388699dd2d94d3c8b03b9d
+p:  182887.5484121524
+5d38ae0fdd2d94d3c8b03c00
+p:  118296.7782918724
+5d38b5bc7110e453a0b03aea
+p:  181927.7780396109
+5d38b89202947826d9b03c09
+p:  194616.7342354577
+5d38bc50dd2d94d3c8b03c29
+p:  156537.87524798556
+5d38bd767110e453a0b03b05
+p:  131155.3827179763
+5d38faad7110e453a0b03ba0
+p:  90594.89468233477
+5d3e6d9cbd7b3d656007b5ee
+p:  150632.22913071475
+5d3ea0912c3a06b7a107b649
+p:  139586.22219521235
+5d44314b0c2b93cba458ae3f
+p:  165448.66232424413
+5d44f209f6b4c2439b8b2005
+p:  204886.8345041151
+5d458dcff6b4c2439b8b20ce
+p:  106301.94730608736
+5d45bc90f6b4c2439b8b2123
+p:  153446.87856665265
+5d45bd95f6b4c2439b8b212d
+p:  147946.0374107888
+5d470a09d57846aad03cb319
+p:  199397.03255193605
+5d470d49d57846aad03cb320
+p:  155850.16881174393
+5d474a18d57846aad03cb3b9
+p:  58992.8711689981
+5d474c91d57846aad03cb3c0
+p:  204514.21018825704
+5d476577d57846aad03cb3f8
+p:  137279.3631676383
+5d477be0d57846aad03cb44c
+p:  180284.96543891652
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:379: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:391: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/MOPrice.py:398: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-16 15:34:11
+Successfully connect to DB.
+For ['Adair', 'Andrew', 'Atchison', 'Audrain', 'Barry', 'Barton', 'Bates', 'Benton', 'Bollinger', 'Boone', 'Buchanan', 'Butler', 'Caldwell', 'Callaway', 'Camden', 'Cape Girardeau', 'Carroll', 'Carter', 'Cass', 'Cedar', 'Chariton', 'Christian', 'Clark', 'Clay', 'Clinton', 'Cole', 'Cooper', 'Crawford', 'Dade', 'Dallas', 'Daviess', 'DeKalb', 'Dent', 'Douglas', 'Dunklin', 'Franklin', 'Gasconade', 'Gentry', 'Greene', 'Grundy', 'Harrison', 'Henry', 'Hickory', 'Holt', 'Howard', 'Howell', 'Iron', 'Jackson', 'Jasper', 'Jefferson', 'Johnson', 'Knox', 'Laclede', 'Lafayette', 'Lawrence', 'Lewis', 'Lincoln', 'Linn', 'Livingston', 'Macon', 'Madison', 'Maries', 'Marion', 'McDonald', 'Mercer', 'Miller', 'Mississippi', 'Moniteau', 'Monroe', 'Montgomery', 'Morgan', 'New Madrid', 'Newton', 'Nodaway', 'Oregon', 'Osage', 'Ozark', 'Pemiscot', 'Perry', 'Pettis', 'Phelps', 'Pike', 'Platte', 'Polk', 'Pulaski', 'Putnam', 'Ralls', 'Randolph', 'Ray', 'Reynolds', 'Ripley', 'Saline', 'Schuyler', 'Scotland', 'Scott', 'Shannon', 'Shelby', 'St. Charles', 'St. Clair', 'St. Francois', 'St. Louis', 'Ste. Genevieve', 'Stoddard', 'Stone', 'Sullivan', 'Taney', 'Texas', 'Vernon', 'Warren', 'Washington', 'Wayne', 'Webster', 'Worth', 'Wright']#################################################################
+train score for random_forest: 0.888898526513561
+test score for random_forest: 0.5850454524357828
+The mean absolute error is:$ 58118.98260591483
+r_Score: 0.512789196690659
+Voting Regressor (in): 0.9923519320535642
+Voting Regressor: 0.512789196690659
+5d0b6067f12fac82e26efb85
+p:  95164.90380957362
+5d0b638419aeb54ebe6efc0a
+p:  88728.93261752
+5d0b63ab19aeb54ebe6efc0d
+p:  207467.62541204508
+5d0d32fdae78f7f2d314adea
+p:  107912.43539076607
+5d0e677a45ebd0b4c32fce75
+p:  212618.51858070784
+5d0e7c7019f56a0d5b8f8d16
+p:  112019.04699482936
+5d0e92772b8f60b82b8f8d59
+p:  114008.19043293073
+5d0e940319f56a0d5b8f8db1
+p:  130550.77738575573
+5d1298ebb7ae3de20d8d6e4f
+p:  194103.04043592393
+5d12aa3fb7ae3de20d8d6ec4
+p:  134286.86562728317
+5d12aa44b7ae3de20d8d6ec5
+p:  214046.11889062583
+5d19c3e5a22b896835d02f45
+p:  225347.00371609922
+5d19c3f1a22b896835d02f46
+p:  166379.05304709074
+5d1b785503ecbb08e0bf609d
+p:  149854.105187757
+5d1bb96803ecbb08e0bf618b
+p:  390712.77741434524
+5d1bc9aa7e6c493d59458808
+p:  89767.33278891264
+5d1bce377e6c493d59458816
+p:  152930.4985187141
+5d1bd52d7e6c493d59458836
+p:  178527.88213915986
+5d1c59290a1cbc8e6fefbcbf
+p:  60810.39013356078
+5d1c593e0a1cbc8e6fefbcc0
+p:  162523.64194308606
+5d26a713ddcb4129edeb69ac
+p:  189326.00378288492
+5d296c0c199bf96b6045ac6a
+p:  132202.00774447582
+5d2992ec199bf96b6045ace6
+p:  141661.58719181005
+5d29940b199bf96b6045aceb
+p:  127192.82736575475
+5d29946b199bf96b6045acee
+p:  122265.36771368084
+5d2b624847cfe46363877bb1
+p:  118893.99056937691
+5d2ce7c6aa1ce31ade80b0c4
+p:  95686.29349373578
+5d2f6d9d8b6c8df1a080b6b9
+p:  110115.46295697996
+5d31a7b4d708b0a3d0a64e9b
+p:  98826.34124499463
+5d3882707110e453a0b03a6b
+p:  199498.7272816319
+5d388699dd2d94d3c8b03b9d
+p:  194557.30860118257
+5d38ae0fdd2d94d3c8b03c00
+p:  129194.34448575893
+5d38b5bc7110e453a0b03aea
+p:  194641.6987274571
+5d38b89202947826d9b03c09
+p:  202980.90356012151
+5d38bc50dd2d94d3c8b03c29
+p:  142627.56528295053
+5d38bd767110e453a0b03b05
+p:  128812.45183621999
+5d38faad7110e453a0b03ba0
+p:  93112.21204040144
+5d3e6d9cbd7b3d656007b5ee
+p:  150390.74410971673
+5d3ea0912c3a06b7a107b649
+p:  139706.8845640556
+5d44314b0c2b93cba458ae3f
+p:  175201.73006848796
+5d44f209f6b4c2439b8b2005
+p:  181701.65297195246
+5d458dcff6b4c2439b8b20ce
+p:  106308.29947882952
+5d45bc90f6b4c2439b8b2123
+p:  154128.3793194458
+5d45bd95f6b4c2439b8b212d
+p:  141645.10851532844
+5d470a09d57846aad03cb319
+p:  208750.59325037658
+5d470d49d57846aad03cb320
+p:  151448.65526317107
+5d474a18d57846aad03cb3b9
+p:  54731.964824189374
+5d474c91d57846aad03cb3c0
+p:  212377.31192681502
+5d476577d57846aad03cb3f8
+p:  144475.59211424622
+5d477be0d57846aad03cb44c
+p:  191924.52818913298

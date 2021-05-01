@@ -1,0 +1,640 @@
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-07 15:34:19
+Successfully connect to DB.
+train score for random_forest: 0.9610515877346891
+test score for random_forest: -1.1950343408914343
+The mean absolute error is:$ 220482.3764892136
+r_Score: -1.7647408962844762
+Voting Regressor (in): 0.9980219929066242
+Voting Regressor: -1.7647408962844762
+5d090787f25c021be11f6d63
+p:  458990.1442465099
+5d090c1877fd8ce7c4a12eeb
+p:  368132.0624995455
+5d0904c9f25c021be11f6d58
+p:  358868.3099591492
+5d0d2e08ae78f7f2d314add3
+p:  1184957.2414420475
+5d19c314a22b896835d02f3a
+p:  405346.4335171677
+5d1c1ffddbebfd779eefbcb4
+p:  1095558.0831684854
+5d1c215adbebfd779eefbcb9
+p:  368150.2605901932
+5d1c219fdbebfd779eefbcba
+p:  1106394.6106629553
+5d1c26cadbebfd779eefbccd
+p:  570877.6264066128
+5d1c3f9b02e1f427a5efbd12
+p:  618461.5608724644
+5d1c596edbebfd779eefbd46
+p:  308700.8060315823
+5d267adbddcb4129edeb6953
+p:  882021.8282740116
+5d268406ddcb4129edeb695f
+p:  308700.8060315823
+5d29c8cd199bf96b6045ad9f
+p:  964990.0173673998
+5d2cc7d3aa1ce31ade80b077
+p:  970312.6686811314
+5d2e6d7bb39b58f1d2167d8d
+p:  543371.5516335189
+5d31a787d708b0a3d0a64e9a
+p:  1032984.0838601948
+5d34cf6718f8dde30a0abcc8
+p:  366281.00777445204
+5d4411fb0c2b93cba458ad5d
+p:  551986.9779150804
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-08 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9508707779296465
+test score for random_forest: -1.0974513911203077
+The mean absolute error is:$ 222149.3826318613
+r_Score: -1.6887694862004414
+Voting Regressor (in): 0.9980954296113375
+Voting Regressor: -1.6887694862004414
+5d090787f25c021be11f6d63
+p:  458184.03463659494
+5d090c1877fd8ce7c4a12eeb
+p:  368150.312526556
+5d0904c9f25c021be11f6d58
+p:  359531.34892288997
+5d0d2e08ae78f7f2d314add3
+p:  1194778.1818761877
+5d19c314a22b896835d02f3a
+p:  403197.63313358475
+5d1c1ffddbebfd779eefbcb4
+p:  958149.7822670753
+5d1c215adbebfd779eefbcb9
+p:  372924.1105178884
+5d1c219fdbebfd779eefbcba
+p:  949767.1122242869
+5d1c26cadbebfd779eefbccd
+p:  570936.1899774254
+5d1c3f9b02e1f427a5efbd12
+p:  619204.6263962917
+5d1c596edbebfd779eefbd46
+p:  319607.4785736356
+5d267adbddcb4129edeb6953
+p:  854689.5818375081
+5d268406ddcb4129edeb695f
+p:  319607.4785736356
+5d29c8cd199bf96b6045ad9f
+p:  953951.6440827588
+5d2cc7d3aa1ce31ade80b077
+p:  985908.0131057403
+5d2e6d7bb39b58f1d2167d8d
+p:  543792.4016954084
+5d31a787d708b0a3d0a64e9a
+p:  1014426.4266071059
+5d34cf6718f8dde30a0abcc8
+p:  370188.11637867615
+5d4411fb0c2b93cba458ad5d
+p:  557168.3832059863
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-09 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9545685959908121
+test score for random_forest: -0.9709064716723835
+The mean absolute error is:$ 223964.10945243426
+r_Score: -1.836240882318633
+Voting Regressor (in): 0.9981432770874841
+Voting Regressor: -1.836240882318633
+5d090787f25c021be11f6d63
+p:  462119.1144704086
+5d090c1877fd8ce7c4a12eeb
+p:  368108.42188518593
+5d0904c9f25c021be11f6d58
+p:  377382.0618490204
+5d0d2e08ae78f7f2d314add3
+p:  1185174.2715660832
+5d19c314a22b896835d02f3a
+p:  405492.98403466283
+5d1c1ffddbebfd779eefbcb4
+p:  1076049.9208925513
+5d1c215adbebfd779eefbcb9
+p:  359881.8695240859
+5d1c219fdbebfd779eefbcba
+p:  1052278.1447775066
+5d1c26cadbebfd779eefbccd
+p:  567668.3718490605
+5d1c3f9b02e1f427a5efbd12
+p:  600353.7788058147
+5d1c596edbebfd779eefbd46
+p:  308651.1789028148
+5d267adbddcb4129edeb6953
+p:  850958.4439419969
+5d268406ddcb4129edeb695f
+p:  308651.1789028148
+5d29c8cd199bf96b6045ad9f
+p:  938462.976071558
+5d2cc7d3aa1ce31ade80b077
+p:  987345.034044724
+5d2e6d7bb39b58f1d2167d8d
+p:  530644.3188666019
+5d31a787d708b0a3d0a64e9a
+p:  1003571.8711400324
+5d34cf6718f8dde30a0abcc8
+p:  368014.0525811945
+5d4411fb0c2b93cba458ad5d
+p:  552109.2943188748
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-10 15:34:10
+Successfully connect to DB.
+train score for random_forest: 0.950563980887534
+test score for random_forest: -1.072219475329589
+The mean absolute error is:$ 223964.10945243426
+r_Score: -1.836240882318633
+Voting Regressor (in): 0.9981432770874841
+Voting Regressor: -1.836240882318633
+5d090787f25c021be11f6d63
+p:  462119.1144704086
+5d090c1877fd8ce7c4a12eeb
+p:  368108.42188518593
+5d0904c9f25c021be11f6d58
+p:  377382.0618490204
+5d0d2e08ae78f7f2d314add3
+p:  1185174.2715660832
+5d19c314a22b896835d02f3a
+p:  405492.98403466283
+5d1c1ffddbebfd779eefbcb4
+p:  1076049.9208925513
+5d1c215adbebfd779eefbcb9
+p:  359881.8695240859
+5d1c219fdbebfd779eefbcba
+p:  1052278.1447775066
+5d1c26cadbebfd779eefbccd
+p:  567668.3718490605
+5d1c3f9b02e1f427a5efbd12
+p:  600353.7788058147
+5d1c596edbebfd779eefbd46
+p:  308651.1789028148
+5d267adbddcb4129edeb6953
+p:  850958.4439419969
+5d268406ddcb4129edeb695f
+p:  308651.1789028148
+5d29c8cd199bf96b6045ad9f
+p:  938462.976071558
+5d2cc7d3aa1ce31ade80b077
+p:  987345.034044724
+5d2e6d7bb39b58f1d2167d8d
+p:  530644.3188666019
+5d31a787d708b0a3d0a64e9a
+p:  1003571.8711400324
+5d34cf6718f8dde30a0abcc8
+p:  368014.0525811945
+5d4411fb0c2b93cba458ad5d
+p:  552109.2943188748
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-11 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9517466548518675
+test score for random_forest: -1.085559222953537
+The mean absolute error is:$ 220482.3764892136
+r_Score: -1.7647408962844762
+Voting Regressor (in): 0.9980219929066242
+Voting Regressor: -1.7647408962844762
+5d090787f25c021be11f6d63
+p:  458990.1442465099
+5d090c1877fd8ce7c4a12eeb
+p:  368132.0624995455
+5d0904c9f25c021be11f6d58
+p:  358868.3099591492
+5d0d2e08ae78f7f2d314add3
+p:  1184957.2414420475
+5d19c314a22b896835d02f3a
+p:  405346.4335171677
+5d1c1ffddbebfd779eefbcb4
+p:  1095558.0831684854
+5d1c215adbebfd779eefbcb9
+p:  368150.2605901932
+5d1c219fdbebfd779eefbcba
+p:  1106394.6106629553
+5d1c26cadbebfd779eefbccd
+p:  570877.6264066128
+5d1c3f9b02e1f427a5efbd12
+p:  618461.5608724644
+5d1c596edbebfd779eefbd46
+p:  308700.8060315823
+5d267adbddcb4129edeb6953
+p:  882021.8282740116
+5d268406ddcb4129edeb695f
+p:  308700.8060315823
+5d29c8cd199bf96b6045ad9f
+p:  964990.0173673998
+5d2cc7d3aa1ce31ade80b077
+p:  970312.6686811314
+5d2e6d7bb39b58f1d2167d8d
+p:  543371.5516335189
+5d31a787d708b0a3d0a64e9a
+p:  1032984.0838601948
+5d34cf6718f8dde30a0abcc8
+p:  366281.00777445204
+5d4411fb0c2b93cba458ad5d
+p:  551986.9779150804
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-12 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9604547804204784
+test score for random_forest: -1.1830615644817972
+The mean absolute error is:$ 223964.10945243426
+r_Score: -1.836240882318633
+Voting Regressor (in): 0.9981432770874841
+Voting Regressor: -1.836240882318633
+5d090787f25c021be11f6d63
+p:  462119.1144704086
+5d090c1877fd8ce7c4a12eeb
+p:  368108.42188518593
+5d0904c9f25c021be11f6d58
+p:  377382.0618490204
+5d0d2e08ae78f7f2d314add3
+p:  1185174.2715660832
+5d19c314a22b896835d02f3a
+p:  405492.98403466283
+5d1c1ffddbebfd779eefbcb4
+p:  1076049.9208925513
+5d1c215adbebfd779eefbcb9
+p:  359881.8695240859
+5d1c219fdbebfd779eefbcba
+p:  1052278.1447775066
+5d1c26cadbebfd779eefbccd
+p:  567668.3718490605
+5d1c3f9b02e1f427a5efbd12
+p:  600353.7788058147
+5d1c596edbebfd779eefbd46
+p:  308651.1789028148
+5d267adbddcb4129edeb6953
+p:  850958.4439419969
+5d268406ddcb4129edeb695f
+p:  308651.1789028148
+5d29c8cd199bf96b6045ad9f
+p:  938462.976071558
+5d2cc7d3aa1ce31ade80b077
+p:  987345.034044724
+5d2e6d7bb39b58f1d2167d8d
+p:  530644.3188666019
+5d31a787d708b0a3d0a64e9a
+p:  1003571.8711400324
+5d34cf6718f8dde30a0abcc8
+p:  368014.0525811945
+5d4411fb0c2b93cba458ad5d
+p:  552109.2943188748
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-13 15:34:10
+Successfully connect to DB.
+train score for random_forest: 0.9526862821204182
+test score for random_forest: -1.0495769642229593
+The mean absolute error is:$ 220482.3764892136
+r_Score: -1.7647408962844762
+Voting Regressor (in): 0.9980219929066242
+Voting Regressor: -1.7647408962844762
+5d090787f25c021be11f6d63
+p:  458990.1442465099
+5d090c1877fd8ce7c4a12eeb
+p:  368132.0624995455
+5d0904c9f25c021be11f6d58
+p:  358868.3099591492
+5d0d2e08ae78f7f2d314add3
+p:  1184957.2414420475
+5d19c314a22b896835d02f3a
+p:  405346.4335171677
+5d1c1ffddbebfd779eefbcb4
+p:  1095558.0831684854
+5d1c215adbebfd779eefbcb9
+p:  368150.2605901932
+5d1c219fdbebfd779eefbcba
+p:  1106394.6106629553
+5d1c26cadbebfd779eefbccd
+p:  570877.6264066128
+5d1c3f9b02e1f427a5efbd12
+p:  618461.5608724644
+5d1c596edbebfd779eefbd46
+p:  308700.8060315823
+5d267adbddcb4129edeb6953
+p:  882021.8282740116
+5d268406ddcb4129edeb695f
+p:  308700.8060315823
+5d29c8cd199bf96b6045ad9f
+p:  964990.0173673998
+5d2cc7d3aa1ce31ade80b077
+p:  970312.6686811314
+5d2e6d7bb39b58f1d2167d8d
+p:  543371.5516335189
+5d31a787d708b0a3d0a64e9a
+p:  1032984.0838601948
+5d34cf6718f8dde30a0abcc8
+p:  366281.00777445204
+5d4411fb0c2b93cba458ad5d
+p:  551986.9779150804
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-14 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9545774629158197
+test score for random_forest: -1.4004412432203939
+The mean absolute error is:$ 222149.3826318613
+r_Score: -1.6887694862004414
+Voting Regressor (in): 0.9980954296113375
+Voting Regressor: -1.6887694862004414
+5d090787f25c021be11f6d63
+p:  458184.03463659494
+5d090c1877fd8ce7c4a12eeb
+p:  368150.312526556
+5d0904c9f25c021be11f6d58
+p:  359531.34892288997
+5d0d2e08ae78f7f2d314add3
+p:  1194778.1818761877
+5d19c314a22b896835d02f3a
+p:  403197.63313358475
+5d1c1ffddbebfd779eefbcb4
+p:  958149.7822670753
+5d1c215adbebfd779eefbcb9
+p:  372924.1105178884
+5d1c219fdbebfd779eefbcba
+p:  949767.1122242869
+5d1c26cadbebfd779eefbccd
+p:  570936.1899774254
+5d1c3f9b02e1f427a5efbd12
+p:  619204.6263962917
+5d1c596edbebfd779eefbd46
+p:  319607.4785736356
+5d267adbddcb4129edeb6953
+p:  854689.5818375081
+5d268406ddcb4129edeb695f
+p:  319607.4785736356
+5d29c8cd199bf96b6045ad9f
+p:  953951.6440827588
+5d2cc7d3aa1ce31ade80b077
+p:  985908.0131057403
+5d2e6d7bb39b58f1d2167d8d
+p:  543792.4016954084
+5d31a787d708b0a3d0a64e9a
+p:  1014426.4266071059
+5d34cf6718f8dde30a0abcc8
+p:  370188.11637867615
+5d4411fb0c2b93cba458ad5d
+p:  557168.3832059863
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-15 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9483331881919056
+test score for random_forest: -1.0071264356245342
+The mean absolute error is:$ 220482.3764892136
+r_Score: -1.7647408962844762
+Voting Regressor (in): 0.9980219929066242
+Voting Regressor: -1.7647408962844762
+5d090787f25c021be11f6d63
+p:  458990.1442465099
+5d090c1877fd8ce7c4a12eeb
+p:  368132.0624995455
+5d0904c9f25c021be11f6d58
+p:  358868.3099591492
+5d0d2e08ae78f7f2d314add3
+p:  1184957.2414420475
+5d19c314a22b896835d02f3a
+p:  405346.4335171677
+5d1c1ffddbebfd779eefbcb4
+p:  1095558.0831684854
+5d1c215adbebfd779eefbcb9
+p:  368150.2605901932
+5d1c219fdbebfd779eefbcba
+p:  1106394.6106629553
+5d1c26cadbebfd779eefbccd
+p:  570877.6264066128
+5d1c3f9b02e1f427a5efbd12
+p:  618461.5608724644
+5d1c596edbebfd779eefbd46
+p:  308700.8060315823
+5d267adbddcb4129edeb6953
+p:  882021.8282740116
+5d268406ddcb4129edeb695f
+p:  308700.8060315823
+5d29c8cd199bf96b6045ad9f
+p:  964990.0173673998
+5d2cc7d3aa1ce31ade80b077
+p:  970312.6686811314
+5d2e6d7bb39b58f1d2167d8d
+p:  543371.5516335189
+5d31a787d708b0a3d0a64e9a
+p:  1032984.0838601948
+5d34cf6718f8dde30a0abcc8
+p:  366281.00777445204
+5d4411fb0c2b93cba458ad5d
+p:  551986.9779150804
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:264: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = df2['AreaSpace_SQFT'].astype(int)
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:276: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['Price'] = z1
+/home/testapiuser/HouseApp_2/PricePrediction/DCPrice.py:283: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  df2['AreaSpace_SQFT'] = z2
+Current date and time: 2020-06-16 15:34:11
+Successfully connect to DB.
+train score for random_forest: 0.9497560836803121
+test score for random_forest: -1.0701352265416717
+The mean absolute error is:$ 223964.10945243426
+r_Score: -1.836240882318633
+Voting Regressor (in): 0.9981432770874841
+Voting Regressor: -1.836240882318633
+5d090787f25c021be11f6d63
+p:  462119.1144704086
+5d090c1877fd8ce7c4a12eeb
+p:  368108.42188518593
+5d0904c9f25c021be11f6d58
+p:  377382.0618490204
+5d0d2e08ae78f7f2d314add3
+p:  1185174.2715660832
+5d19c314a22b896835d02f3a
+p:  405492.98403466283
+5d1c1ffddbebfd779eefbcb4
+p:  1076049.9208925513
+5d1c215adbebfd779eefbcb9
+p:  359881.8695240859
+5d1c219fdbebfd779eefbcba
+p:  1052278.1447775066
+5d1c26cadbebfd779eefbccd
+p:  567668.3718490605
+5d1c3f9b02e1f427a5efbd12
+p:  600353.7788058147
+5d1c596edbebfd779eefbd46
+p:  308651.1789028148
+5d267adbddcb4129edeb6953
+p:  850958.4439419969
+5d268406ddcb4129edeb695f
+p:  308651.1789028148
+5d29c8cd199bf96b6045ad9f
+p:  938462.976071558
+5d2cc7d3aa1ce31ade80b077
+p:  987345.034044724
+5d2e6d7bb39b58f1d2167d8d
+p:  530644.3188666019
+5d31a787d708b0a3d0a64e9a
+p:  1003571.8711400324
+5d34cf6718f8dde30a0abcc8
+p:  368014.0525811945
+5d4411fb0c2b93cba458ad5d
+p:  552109.2943188748
